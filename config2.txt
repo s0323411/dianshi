@@ -61,6 +61,14 @@
       "name": " TVBS 56 (VPN)"
     },
     {
+      "url": "https://www.litv.tv/vod/show/content.do?content_id=VOD00311098",
+      "name": " 台灣第一等(LiTV)"
+    },
+    {
+      "url": "https://www.litv.tv/vod/show/content.do?content_id=VOD00322102",
+      "name": "綜藝大集合(LiTV)"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=iyOq8DhaMYw",
       "name": "Bloomberg Business News "
     },
