@@ -27,13 +27,9 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=1635962688
 #EXTINF:-1 group-title="Movie" tvg-logo="",龍華電影
 http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-#EXTINF:-1 group-title="News" tvg-logo="",TVBS Asia 亞洲台 測試1
+#EXTINF:-1 group-title="News" tvg-logo="",TVBS Asia 亞洲台
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="",TVBS Asia 亞洲台 測試2
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="",HBO 測試1
-http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
-#EXTINF:-1 group-title="Movie" tvg-logo="",HBO 無字幕
+#EXTINF:-1 group-title="Movie" tvg-logo="",HBO
 http://41.205.93.154/HBO/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",日本 NHK news
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
@@ -79,5 +75,3 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-name="Taiwan+" group-title="•YouTube「P」",Taiwan+
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="•港澳台「P」",TVBS HD 56
-http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
