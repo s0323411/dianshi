@@ -57,21 +57,18 @@
       "name": "CCTV 4 中文國際(youtube)"
     },
     {
-      "url": "https://www.youtube.com/watch?v=YvdcZ_jpLXE&list=PL3V4Y7sLm32P_MjeDzZhLSOZl0MYyOp3f&index=2",
+      "url": "https://www.youtube.com/watch?v=YvdcZ_jpLXE",
       "name": " TVBS 56 (VPN)"
     },
     {
-      "url": "http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e",
+      "url": "http://50.7.238.114:8278/tvbs/playlist.m3u8",
       "name": "TVBS HD 56 (測試)"
+      "header": "Referer: ?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e"
     },
     {
-      "url": "https://yang-1989.eu.org/live/cctv13",
+      "url": "https://raw.githubusercontent.com/s0323411/dianshi/main/cctv13.m3u8",
       "name": "CCTV-13 (測試)"
     },
-    {
-      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8",
-      "name": "东森财经新闻 (測試)"
-    },   
     {
       "url": "https://www.youtube.com/watch?v=iyOq8DhaMYw",
       "name": "Bloomberg Business News "
