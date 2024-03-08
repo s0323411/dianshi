@@ -57,6 +57,10 @@
       "name": "CCTV 4 中文國際(youtube)"
     },
     {
+      "url": "https://www.youtube.com/watch?v=YvdcZ_jpLXE&list=PL3V4Y7sLm32P_MjeDzZhLSOZl0MYyOp3f&index=2",
+      "name": " TVBS 56 (VPN)"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=iyOq8DhaMYw",
       "name": "Bloomberg Business News "
     },
