@@ -61,13 +61,17 @@
       "name": " TVBS 56 (VPN)"
     },
     {
-      "url": "https://www.litv.tv/vod/show/content.do?content_id=VOD00311098",
-      "name": " 台灣第一等(LiTV)"
+      "url": "http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e",
+      "name": "TVBS HD 56 (測試)"
     },
     {
-      "url": "https://www.litv.tv/vod/show/content.do?content_id=VOD00322102",
-      "name": "綜藝大集合(LiTV)"
+      "url": "https://yang-1989.eu.org/live/cctv13",
+      "name": "CCTV-13 (測試)"
     },
+    {
+      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8",
+      "name": "东森财经新闻 (測試)"
+    },   
     {
       "url": "https://www.youtube.com/watch?v=iyOq8DhaMYw",
       "name": "Bloomberg Business News "
@@ -212,6 +216,22 @@
     {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06",
       "name": "日本 NHK news"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8",
+      "name": "Taiwan+"
+    },    
+    {
+      "url": "https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8",
+      "name": "Love Nrture 4K「自然」"
+    },
+    {
+      "url": "https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8",
+      "name": "Loupe 攝影 4K"
+    },
+    {
+      "url": "https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8",
+      "name": "Fashion 4K「时尚」"
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv006?set=4&ch=113",
