@@ -177,11 +177,11 @@
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26",
       "name": "日本 Space Shower TV"
     },
-   {
+    {
       "url": "http://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8",
       "name": "韓國 KpopTV"
     },
-   {
+    {
       "url": "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
       "name": "全球時尚 Global Fashion Channel"
     },
@@ -200,14 +200,6 @@
     {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06",
       "name": "日本 NHK news"
-    },
-    {
-      "list": "http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138",
-      "name": "HBO 測試1"
-    },
-    {
-      "list": "https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=1635962688",
-      "name": "CCTV-13 (live-play)"
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv006?set=4&ch=113",
