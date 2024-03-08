@@ -222,6 +222,18 @@
       "name": "Fashion 4K「时尚」"
     },
     {
+      "url": "http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8",
+      "name": "法國時尚 1"
+    },
+    {
+      "url": "http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8",
+      "name": "法國時尚 2"
+    },
+    {
+      "url": "http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8",
+      "name": "中台灣生活網"
+    },
+    {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv006?set=4&ch=113",
       "name": "豬哥亮歌廳秀(四季) "
     }
