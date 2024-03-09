@@ -206,6 +206,18 @@
       "name": "日本 NHK news"
     },
     {
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn23",
+      "name": "寰宇財經台(歐飛)"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/ofiii31",
+      "name": "TVBS食尚玩家(歐飛)"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/ofiii74",
+      "name": "歐飛電影台(歐飛)"
+    },
+    {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv006?set=4&ch=113",
       "name": "豬哥亮歌廳秀(四季) "
     }
