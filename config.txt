@@ -65,8 +65,8 @@
       "name": "Bloomberg Business News "
     },
     {
-      "url": "https://www.ofiii.com/channel/watch/litv-longturn23",
-      "name": "寰宇財經台(歐飛)"
+      "url": "https://www.4gtv.tv/channel/litv-longturn23?set=4&ch=281",
+      "name": "寰宇財經台(四季)"
     },
     {
       "url": "https://www.youtube.com/watch?v=CKjSm5ZeehE",
@@ -98,8 +98,8 @@
       "name": "凤凰资讯"
     },
     {
-      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8",
-      "name": "新唐人亞太台"
+      "url": "https://www.4gtv.tv/channel/4gtv-live050?set=4&ch=223",
+      "name": "新唐人亞太台(四季) "
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live207?set=4&ch=169",
@@ -124,6 +124,10 @@
     {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv003?set=4&ch=1",
       "name": "民視第一台(四季) "
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/litv-ftv07?set=4&ch=61",
+      "name": "民視旅遊台(四季) "
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv064?set=4&ch=123",
@@ -186,10 +190,6 @@
       "name": "金光布袋戲(四季)"
     },
     {
-      "url": "https://www.ofiii.com/channel/watch/litv-longturn17",
-      "name": "亞洲旅遊台(歐飛)"
-    },
-    {
       "url": "https://www.ofiii.com/channel/watch/litv-longturn19",
       "name": "Smart知識台(歐飛)"
     },
@@ -200,10 +200,6 @@
     {
       "url": "https://www.ofiii.com/channel/watch/litv-longturn18",
       "name": "龍華戲劇台(歐飛)"
-    },
-    {
-      "url": "https://www.ofiii.com/channel/watch/litv-longturn22",
-      "name": "台灣戲劇台(歐飛)"
     },
    {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18",
@@ -256,10 +252,6 @@
     {
       "url": "https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8",
       "name": "Love Nrture「自然」"
-    },
-    {
-      "url": "https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8",
-      "name": "Loupe 攝影"
     },
     {
       "url": "http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8",
