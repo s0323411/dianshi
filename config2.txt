@@ -211,11 +211,11 @@
     },    
     {
       "url": "https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8",
-      "name": "Love Nrture 4K「自然」"
+      "name": "Love Nrture「自然」"
     },
     {
       "url": "https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8",
-      "name": "Loupe 攝影 4K"
+      "name": "Loupe 攝影"
     },
     {
       "url": "https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8",
@@ -223,11 +223,7 @@
     },
     {
       "url": "http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8",
-      "name": "法國時尚 1"
-    },
-    {
-      "url": "http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8",
-      "name": "法國時尚 2"
+      "name": "法國時尚"
     },
     {
       "url": "http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8",
