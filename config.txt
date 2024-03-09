@@ -94,6 +94,14 @@
       "name": "寰宇新聞台灣台 "
     },
     {
+      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8",
+      "name": "凤凰资讯"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8",
+      "name": "新唐人亞太台"
+    },
+    {
       "url": "https://www.4gtv.tv/channel/4gtv-live207?set=4&ch=169",
       "name": "三立綜合台(四季) "
     },
@@ -208,6 +216,14 @@
     {
       "url": "http://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8",
       "name": "韓國 KpopTV"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8",
+      "name": "K-POP"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8",
+      "name": "Korea"
     },
     {
       "url": "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
