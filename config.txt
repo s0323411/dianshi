@@ -231,16 +231,12 @@
       "name": "中台灣生活網"
     },
     {
-      "url": "https://www.ofiii.com/channel/watch/litv-longturn23",
-      "name": "寰宇財經台(歐飛)"
+      "url": "https://www.litv.tv/channel/watch.do?content_id=litv-longturn23&content_type=channel",
+      "name": "寰宇財經台(LiTV)"
     },
     {
-      "url": "https://www.ofiii.com/channel/watch/ofiii31",
-      "name": "TVBS食尚玩家(歐飛)"
-    },
-    {
-      "url": "https://www.ofiii.com/channel/watch/ofiii74",
-      "name": "歐飛電影台(歐飛)"
+      "url": "https://www.litv.tv/channel/watch.do?content_id=litv-vchannel7&content_type=vod-channel",
+      "name": "綜藝大集合(LiTV)"
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv006?set=4&ch=113",
