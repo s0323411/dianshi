@@ -53,6 +53,10 @@
       "name": "寰宇新聞 "
     },
     {
+      "url": "https://www.4gtv.tv/channel/litv-longturn23?set=4&ch=281",
+      "name": "寰宇財經台(四季)"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=bEZYrBMYNNg",
       "name": "CCTV 4 中文國際(youtube)"
     },
@@ -63,10 +67,6 @@
     {
       "url": "https://www.youtube.com/watch?v=iyOq8DhaMYw",
       "name": "Bloomberg Business News "
-    },
-    {
-      "url": "https://www.4gtv.tv/channel/litv-longturn23?set=4&ch=281",
-      "name": "寰宇財經台(四季)"
     },
     {
       "url": "https://www.youtube.com/watch?v=CKjSm5ZeehE",
