@@ -48,7 +48,7 @@
       "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
       "name": "大愛二臺 "
     },
-   {
+    {
       "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
       "name": "寰宇新聞 "
     },
@@ -63,6 +63,10 @@
     {
       "url": "https://www.youtube.com/watch?v=iyOq8DhaMYw",
       "name": "Bloomberg Business News "
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn23",
+      "name": "寰宇財經台(歐飛)"
     },
     {
       "url": "https://www.youtube.com/watch?v=CKjSm5ZeehE",
@@ -146,6 +150,10 @@
       "name": "TVBS綜藝台(四季) "
     },
     {
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn03",
+      "name": "龍華電影台(歐飛)"
+    },
+    {
       "url": "https://www.4gtv.tv/channel/4gtv-live157?set=1&ch=176",
       "name": "我的歐洲電影(四季) "
     },
@@ -168,6 +176,22 @@
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live144?set=4&ch=236",
       "name": "金光布袋戲(四季)"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn17",
+      "name": "亞洲旅遊台(歐飛)"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn19",
+      "name": "Smart知識台(歐飛)"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn18",
+      "name": "龍華戲劇台(歐飛)"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn22",
+      "name": "台灣戲劇台(歐飛)"
     },
    {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18",
@@ -204,6 +228,34 @@
     {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06",
       "name": "日本 NHK news"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8",
+      "name": "Taiwan+"
+    },    
+    {
+      "url": "https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8",
+      "name": "Love Nrture「自然」"
+    },
+    {
+      "url": "https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8",
+      "name": "Loupe 攝影"
+    },
+    {
+      "url": "https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8",
+      "name": "Fashion 4K「时尚」"
+    },
+    {
+      "url": "http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8",
+      "name": "法國時尚"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLzHSwpFbKvdpwwidGIcidlQfOHAy5a3xZ",
+      "name": "FW24 Paris"
+    },
+    {
+      "url": "http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8",
+      "name": "中台灣生活網"
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv006?set=4&ch=113",
