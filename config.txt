@@ -48,7 +48,7 @@
       "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
       "name": "大愛二臺 "
     },
-   {
+    {
       "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
       "name": "寰宇新聞 "
     },
@@ -250,8 +250,8 @@
       "name": "法國時尚"
     },
     {
-      "list": "https://www.youtube.com/playlist?list=PLzHSwpFbKvdpwwidGIcidlQfOHAy5a3xZ",
-      "name": "FW24 | Paris"
+      "url": "https://www.youtube.com/playlist?list=PLzHSwpFbKvdpwwidGIcidlQfOHAy5a3xZ",
+      "name": "FW24 Paris"
     },
     {
       "url": "http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8",
