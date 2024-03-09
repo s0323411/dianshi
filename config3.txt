@@ -250,10 +250,6 @@
       "name": "法國時尚"
     },
     {
-      "url": "https://www.youtube.com/playlist?list=PLzHSwpFbKvdpwwidGIcidlQfOHAy5a3xZ",
-      "name": "FW24 Paris"
-    },
-    {
       "url": "http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8",
       "name": "中台灣生活網"
     },
