@@ -14,43 +14,43 @@
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv040?set=4&ch=4",
-      "name": "中視(四季)"
+      "name": "中視 (四季)"
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv041?set=4&ch=6",
-      "name": "華視(四季)"
+      "name": "華視 (四季)"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-live050?set=4&ch=223",
-      "name": "新唐人亞太台(四季) "
+      "url": "https://www.youtube.com/watch?v=WIhgU_mc05A",
+      "name": "新唐人亞太台 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=s2waUruqze4",
-      "name": "中天亞洲台 "
+      "name": "中天亞洲台 (Youtube)"
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv001?set=4&ch=2",
-      "name": "民視台灣台(四季) "
+      "name": "民視台灣台 (四季) "
     },
     {
       "url": "https://www.youtube.com/watch?v=6KlRR_DGhmI",
-      "name": "公視台語台(Youtube)"
+      "name": "公視台語台 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=oV_i3Hsl_zg",
-      "name": "大愛一臺 "
+      "name": "大愛一臺 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
-      "name": "大愛二臺 "
+      "name": "大愛二臺 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=WHEPzbFA3hw",
-      "name": "東森財經 "
+      "name": "東森財經 (Youtube)"
     },
     {
-      "url": "https://www.4gtv.tv/channel/litv-longturn23?set=4&ch=281",
-      "name": "寰宇財經台(四季)"
+      "url": "https://www.youtube.com/watch?v=25SE1bbTv9k",
+      "name": "寰宇財經台 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
@@ -58,7 +58,7 @@
     },
     {
       "url": "https://www.youtube.com/c/twctvnews/live",
-      "name": "中視新聞  (YouTube) "
+      "name": "中視新聞 (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
@@ -90,7 +90,7 @@
     },
     {
       "url": "https://www.youtube.com/watch?v=w87VGpgd90U",
-      "name": "寰宇新聞台灣台 "
+      "name": "寰宇新聞台灣台 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=bEZYrBMYNNg",
@@ -102,7 +102,7 @@
     },
     {
       "url": "https://www.youtube.com/watch?v=iyOq8DhaMYw",
-      "name": "彭博商業新聞 Bloomberg Business News (youtube) "
+      "name": "彭博商業新聞 Bloomberg Business News (youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=oZdzzvxTfUY",
@@ -114,7 +114,7 @@
     },
     {
       "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
-      "name": "鏡新聞 "
+      "name": "鏡新聞 (Youtube)"
     },
     {
       "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
