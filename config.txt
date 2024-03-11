@@ -90,6 +90,10 @@
       "name": "TVBS 新聞 (YouTube) "
     },
     {
+      "url": "http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv",
+      "name": "TVBS 56 (測試)"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=YvdcZ_jpLXE",
       "name": " TVBS 56 (VPN)"
     },
