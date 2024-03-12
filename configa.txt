@@ -134,6 +134,18 @@
       "name": "鏡新聞 (Youtube)"
     },
     {
+      "url": "http://ali.hlspull.yximgs.com/live/twlivemzzlzpwzdctdfhdvzdzduzlvcbeywezweefshzfhhzszzcxhbo.flv",
+      "name": "HBO HD (測試)"
+    },
+    {
+      "url": "http://ali.hlspull.yximgs.com/live/twlivetzcvszgczyhpvobzxclmvhzogdzbodbszhlelevendhbosignature.flv",
+      "name": "HBO 強檔 (測試)"
+    },
+    {
+      "url": "http://ali.hlspull.yximgs.com/live/twlivezzozzxcvyhzszhtezwfhfvzzdvbdzszzzhzlzszvcelevenerfyi.flv",
+      "name": "HBO 家庭 (測試)"
+    },
+    {
       "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8",
       "name": "天才衝衝衝 (1080p)"
     },
