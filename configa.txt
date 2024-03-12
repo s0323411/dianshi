@@ -94,6 +94,10 @@
       "name": "TVBS 56 (測試)"
     },
     {
+      "url": "http://123.117.163.147:18888/rtp/239.3.1.124:8128",
+      "name": "CCTV-13 (測試)"
+    },
+    {
       "url": "https://www.youtube.com/watch?v=YvdcZ_jpLXE",
       "name": " TVBS 56 (VPN)"
     },
