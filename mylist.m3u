@@ -1,6 +1,6 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 #EXTINF:-1 group-title="海外" tvg-logo="" tvg-id="", 公視
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://raw.githubusercontent.com/s0323411/YouTube_to_m3u/main/assets/moose_na.m3u
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/REuN9RR.png",民視
 https://www.youtube.com/watch?v=C6gYqSHLRw4
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/REuN9RR.png",BBC News Asia Pacific (720p)
