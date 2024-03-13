@@ -17,12 +17,12 @@
       "name": "華視 (四季)"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv043?set=4&ch=107",
-      "name": "客家電視台(四季)"
-    },
-    {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv002?set=4&ch=3",
       "name": "民視(四季) "
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-live087?set=4&ch=284",
+      "name": "TVBS綜藝台(四季) "
     },
     {
       "url": "https://www.youtube.com/watch?v=WIhgU_mc05A",
@@ -90,10 +90,6 @@
       "name": "TVBS 新聞 (YouTube) "
     },
     {
-      "url": "http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv",
-      "name": "TVBS 56 (測試)"
-    },
-    {
       "url": "http://123.117.163.147:18888/rtp/239.3.1.124:8128",
       "name": "CCTV-13 (測試)"
     },
@@ -138,10 +134,6 @@
       "name": "天才衝衝衝 (1080p)"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-live087?set=4&ch=284",
-      "name": "TVBS綜藝台(四季) "
-    },
-    {
       "url": "https://www.4gtv.tv/channel/4gtv-live207?set=4&ch=169",
       "name": "三立綜合台(四季) "
     },
@@ -174,16 +166,8 @@
       "name": "愛爾達生活旅遊台(四季) "
     }, 
     {
-      "url": "https://www.ofiii.com/channel/watch/litv-longturn19",
-      "name": "Smart知識台(歐飛)"
-    },
-    {
       "url": "http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8",
       "name": "中台灣生活網"
-    },
-    {
-      "url": "https://www.ofiii.com/channel/watch/litv-longturn03",
-      "name": "龍華電影台(歐飛)"
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live157?set=1&ch=176",
@@ -198,20 +182,8 @@
       "name": "電影免費看 2台(四季) "
     },
     {
-      "url": "https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8",
-      "name": "(東森洋片) (1080p)"
-    },
-    {
       "url": "https://www.4gtv.tv/channel/4gtv-live144?set=4&ch=236",
       "name": "金光布袋戲(四季)"
-    },
-    {
-      "url": "https://www.4gtv.tv/channel/4gtv-live107?set=4&ch=231",
-      "name": "MOMO親子台(四季) "
-    },   
-    {
-      "url": "https://www.4gtv.tv/channel/4gtv-live022?set=4&ch=202",
-      "name": "經典卡通台(四季) "
     },   
     {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18",
@@ -256,11 +228,7 @@
     {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06",
       "name": "日本 NHK news"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8",
-      "name": "Taiwan+"
-    },    
+    },   
     {
       "url": "https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8",
       "name": "Love Nrture「自然」"
