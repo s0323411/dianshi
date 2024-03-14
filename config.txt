@@ -90,10 +90,6 @@
       "name": "TVBS 新聞 (YouTube) "
     },
     {
-      "url": "http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv",
-      "name": "TVBS 56 (測試)"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=YvdcZ_jpLXE",
       "name": " TVBS 56 (VPN)"
     },
@@ -154,10 +150,6 @@
       "name": "民視影劇台(四季) "
     }, 
     {
-      "url": "https://www.ofiii.com/channel/watch/litv-longturn18",
-      "name": "龍華戲劇台(歐飛)"
-    },
-    {
       "url": "https://www.4gtv.tv/channel/litv-ftv07?set=4&ch=61",
       "name": "民視旅遊台(四季) "
     },   
@@ -170,16 +162,8 @@
       "name": "愛爾達生活旅遊台(四季) "
     }, 
     {
-      "url": "https://www.ofiii.com/channel/watch/litv-longturn19",
-      "name": "Smart知識台(歐飛)"
-    },
-    {
       "url": "http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8",
       "name": "中台灣生活網"
-    },
-    {
-      "url": "https://www.ofiii.com/channel/watch/litv-longturn03",
-      "name": "龍華電影台(歐飛)"
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live157?set=1&ch=176",
@@ -195,7 +179,7 @@
     },
     {
       "url": "https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8",
-      "name": "(東森洋片) (1080p)"
+      "name": "(東森影片) (1080p)"
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live144?set=4&ch=236",
