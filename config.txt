@@ -22,7 +22,7 @@
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv002?set=4&ch=3",
-      "name": "民視(四季) "
+      "name": "05 民視(四季) "
     },
     {
       "url": "https://www.youtube.com/watch?v=WIhgU_mc05A",
@@ -42,7 +42,7 @@
     },
     {
       "url": "https://www.youtube.com/watch?v=oV_i3Hsl_zg",
-      "name": "大愛一臺 (Youtube)"
+      "name": "10 大愛一臺 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
