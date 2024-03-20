@@ -17,12 +17,12 @@
       "name": "華視 (四季)"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv002?set=4&ch=3",
-      "name": "民視(四季) "
-    },
-    {
       "url": "https://www.4gtv.tv/channel/4gtv-live087?set=4&ch=284",
       "name": "TVBS綜藝台(四季) "
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv002?set=4&ch=3",
+      "name": "民視(四季) "
     },
     {
       "url": "https://www.youtube.com/watch?v=WIhgU_mc05A",
@@ -90,12 +90,12 @@
       "name": "TVBS 新聞 (YouTube) "
     },
     {
-      "url": "http://123.117.163.147:18888/rtp/239.3.1.124:8128",
-      "name": "CCTV-13 (測試)"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=YvdcZ_jpLXE",
       "name": " TVBS 56 (VPN)"
+    },
+    {
+      "url": "http://123.117.163.147:18888/rtp/239.3.1.124:8128",
+      "name": "CCTV-13 (測試)"
     },
     {
       "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
@@ -146,10 +146,6 @@
       "name": "民視影劇台(四季) "
     }, 
     {
-      "url": "https://www.ofiii.com/channel/watch/litv-longturn18",
-      "name": "龍華戲劇台(歐飛)"
-    },
-    {
       "url": "https://www.4gtv.tv/channel/litv-ftv07?set=4&ch=61",
       "name": "民視旅遊台(四季) "
     },   
@@ -164,6 +160,10 @@
     {
       "url": "http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8",
       "name": "中台灣生活網"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=keanRndSv6w",
+      "name": "GPTV電影台 (YouTube) "
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live157?set=1&ch=176",
