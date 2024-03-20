@@ -2,23 +2,23 @@
   "channelList": [
     {
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
-      "name": "公視(youtube)"
+      "name": "00 公視(youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
-      "name": "台視 (youtube)"
+      "name": "01 台視 (youtube)"
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv040?set=4&ch=4",
-      "name": "中視 (四季)"
+      "name": "02 中視 (四季)"
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv041?set=4&ch=6",
-      "name": "華視 (四季)"
+      "name": "03 華視 (四季)"
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live087?set=4&ch=284",
-      "name": "TVBS綜藝台(四季) "
+      "name": "04 TVBS綜藝台(四季) "
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv002?set=4&ch=3",
@@ -26,19 +26,19 @@
     },
     {
       "url": "https://www.youtube.com/watch?v=WIhgU_mc05A",
-      "name": "新唐人亞太台 (Youtube)"
+      "name": "06 新唐人亞太台 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=s2waUruqze4",
-      "name": "中天亞洲台 (Youtube)"
+      "name": "07 中天亞洲台 (Youtube)"
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv001?set=4&ch=2",
-      "name": "民視台灣台 (四季) "
+      "name": "08 民視台灣台 (四季) "
     },
     {
       "url": "https://www.youtube.com/watch?v=6KlRR_DGhmI",
-      "name": "公視台語台 (Youtube)"
+      "name": "09 公視台語台 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=oV_i3Hsl_zg",
@@ -46,200 +46,200 @@
     },
     {
       "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
-      "name": "大愛二臺 (Youtube)"
+      "name": "11 大愛二臺 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=WHEPzbFA3hw",
-      "name": "東森財經 (Youtube)"
+      "name": "12 東森財經 (Youtube)"
     },
     {
       "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
-      "name": "非凡新聞 ",
+      "name": "13 非凡新聞 ",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
       "url": "https://www.youtube.com/watch?v=25SE1bbTv9k",
-      "name": "寰宇財經台 (Youtube)"
+      "name": "14 寰宇財經台 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
-      "name": "台視新聞 (YouTube) "
+      "name": "15 台視新聞 (YouTube) "
     },
     {
       "url": "https://www.youtube.com/c/twctvnews/live",
-      "name": "中視新聞 (YouTube) "
+      "name": "16 中視新聞 (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
-      "name": "華視新聞  (YouTube) "
+      "name": "17 華視新聞  (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
-      "name": "民視新聞 (YouTube) "
+      "name": "18 民視新聞 (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=oIgbl7t0S_w",
-      "name": "中天新聞  (YouTube) "
+      "name": "19 中天新聞  (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=2dfAzcDf8Zg",
-      "name": "東森新聞  (YouTube) "
+      "name": "20 東森新聞  (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
-      "name": "TVBS 新聞 (YouTube) "
+      "name": "21 TVBS 新聞 (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=YvdcZ_jpLXE",
-      "name": " TVBS 56 (VPN)"
+      "name": "22 TVBS 56 (VPN)"
     },
     {
       "url": "http://123.117.163.147:18888/rtp/239.3.1.124:8128",
-      "name": "CCTV-13 (測試)"
+      "name": "23 CCTV-13 (測試)"
     },
     {
       "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
-      "name": "寰宇新聞 (youtube)"
+      "name": "24 寰宇新聞 (youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=w87VGpgd90U",
-      "name": "寰宇新聞台灣台 (Youtube)"
+      "name": "25 寰宇新聞台灣台 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=bEZYrBMYNNg",
-      "name": "CCTV 4 中文國際(youtube)"
+      "name": "26 CCTV 4 中文國際(youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=uLBwH73wlgM",
-      "name": "鳳凰衛視資訊台(youtube)"
+      "name": "27 鳳凰衛視資訊台(youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=iyOq8DhaMYw",
-      "name": "彭博商業新聞 Bloomberg Business News (youtube)"
+      "name": "28 彭博商業新聞 Bloomberg Business News (youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=oZdzzvxTfUY",
-      "name": "三立新聞 (youtube)"
+      "name": "29 三立新聞 (youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=CKjSm5ZeehE",
-      "name": "三立 iNEWS 新聞 (youtube)"
+      "name": "30 三立 iNEWS 新聞 (youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
-      "name": "鏡新聞 (Youtube)"
+      "name": "31 鏡新聞 (Youtube)"
     },
     {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06",
-      "name": "日本 NHK news"
+      "name": "32 日本 NHK news"
     },   
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live207?set=4&ch=169",
-      "name": "三立綜合台(四季) "
+      "name": "33 三立綜合台(四季) "
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv004?set=4&ch=16",
-      "name": "民視綜藝台(四季) "
+      "name": "34 民視綜藝台(四季) "
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv064?set=4&ch=123",
-      "name": "中視菁采台(四季) "
+      "name": "35 中視菁采台(四季) "
     },
     {
       "url": "https://www.4gtv.tv/channel/litv-ftv09?set=4&ch=24",
-      "name": "民視影劇台(四季) "
+      "name": "36 民視影劇台(四季) "
     }, 
     {
       "url": "https://www.4gtv.tv/channel/litv-ftv07?set=4&ch=61",
-      "name": "民視旅遊台(四季) "
+      "name": "37 民視旅遊台(四季) "
     },   
     {
       "url": "https://www.4gtv.tv/channel/litv-longturn17?set=4&ch=250",
-      "name": "亞洲旅遊台(四季) "
+      "name": "38 亞洲旅遊台(四季) "
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live120?set=4&ch=237",
-      "name": "愛爾達生活旅遊台(四季) "
+      "name": "39 愛爾達生活旅遊台(四季) "
     }, 
     {
       "url": "http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8",
-      "name": "中台灣生活網"
+      "name": "40 中台灣生活網"
     },
     {
       "url": "https://www.youtube.com/watch?v=Z8YxVZprOqA",
-      "name": "綜藝-我愛冰冰Show (YouTube) "
+      "name": "41 綜藝-我愛冰冰Show (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=A98LJq71BZg",
-      "name": "綜藝-飢餓遊戲 (YouTube) "
+      "name": "42 綜藝-飢餓遊戲 (YouTube) "
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv006?set=4&ch=113",
-      "name": "豬哥亮歌廳秀(四季) "
+      "name": "43 豬哥亮歌廳秀(四季) "
     },
     {
       "url": "https://www.youtube.com/watch?v=keanRndSv6w",
-      "name": "GPTV電影台 (YouTube) "
+      "name": "44 GPTV電影台 (YouTube) "
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live157?set=1&ch=176",
-      "name": "我的歐洲電影(四季) "
+      "name": "45 我的歐洲電影(四季) "
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live013?set=4&ch=272",
-      "name": "電影免費看 1台(四季) "
+      "name": "46 電影免費看 1台(四季) "
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live005?set=4&ch=245",
-      "name": "電影免費看 2台(四季) "
+      "name": "47 電影免費看 2台(四季) "
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live144?set=4&ch=236",
-      "name": "金光布袋戲(四季)"
+      "name": "48 金光布袋戲(四季)"
     },   
     {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18",
-      "name": "日本 MTV"
+      "name": "49 日本 MTV"
     },
     {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06",
-      "name": "日本 Music Japan TV"
+      "name": "50 日本 Music Japan TV"
     },
     {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26",
-      "name": "日本 Space Shower TV"
+      "name": "51 日本 Space Shower TV"
     },
     {
       "url": "http://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8",
-      "name": "韓國 KpopTV"
+      "name": "52 韓國 KpopTV"
     },
     {
       "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8",
-      "name": "K-POP"
+      "name": "53 K-POP"
     },
     {
       "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8",
-      "name": "Korea"
+      "name": "54 Korea"
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv014?set=4&ch=69",
-      "name": "時尚運動X(四季) "
+      "name": "55 時尚運動X(四季) "
     },
     {
       "url": "https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8",
-      "name": "Love Nrture「自然」"
+      "name": "56 Love Nrture「自然」"
     },
     {
       "url": "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
-      "name": "全球時尚 Global Fashion Channel"
+      "name": "57 全球時尚 Global Fashion Channel"
     },
     {
       "url": "http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8",
-      "name": "法國時尚"
+      "name": "58 法國時尚"
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live201?set=4&ch=160",
-      "name": "車迷TV(四季) "
+      "name": "59 車迷TV(四季) "
     }
   ]
 }
