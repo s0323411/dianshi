@@ -62,8 +62,8 @@
       "name": "14 寰宇財經台 (Youtube)"
     },
     {
-      "url": "http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8",
-      "name": "15 TVBS 56 (測試0319) "
+      "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
+      "name": "15 台視新聞 (YouTube) "
     },
     {
       "url": "https://www.youtube.com/c/twctvnews/live",
@@ -238,12 +238,8 @@
       "name": "58 法國時尚"
     },
     {
-      "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
-      "name": "59>>15 台視新聞 (YouTube) "
-    },
-    {
       "url": "https://www.4gtv.tv/channel/4gtv-live201?set=4&ch=160",
-      "name": "60>>59 車迷TV(四季) "
+      "name": "59 車迷TV(四季) "
     }
   ]
 }
