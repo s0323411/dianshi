@@ -66,7 +66,7 @@
       "name": "15 台視新聞 (YouTube) "
     },
     {
-      "url": "https://www.youtube.com/c/twctvnews/live",
+      "url": "https://www.youtube.com/watch?v=TCnaIE_SAtM",
       "name": "16 中視新聞 (YouTube) "
     },
     {
@@ -110,7 +110,7 @@
       "name": "26 CCTV 4 中文國際(youtube)"
     },
     {
-      "url": "https://www.youtube.com/watch?v=uLBwH73wlgM",
+      "url": "https://www.youtube.com/watch?v=HFib76ySpbU",
       "name": "27 鳳凰衛視資訊台(youtube)"
     },
     {
