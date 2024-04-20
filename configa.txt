@@ -2,10 +2,12 @@
   "channelList": [
     {
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
+"ytdl-format": "res:720",
       "name": "00 公視(youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
+"ytdl-format": "+res:480",
       "name": "01 台視 (youtube)"
     },
     {
@@ -92,7 +94,7 @@
     {
       "url": "https://www.youtube.com/watch?v=YvdcZ_jpLXE",
       "name": "22 TVBS 56 (VPN)",
-      "ytdl-format": "bv[height<=?720][tbr>500]"
+      "ytdl-format": "res:720"
     },
     {
       "url": "http://123.117.163.147:18888/rtp/239.3.1.124:8128",
