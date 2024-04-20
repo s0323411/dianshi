@@ -7,13 +7,28 @@
     },
     {
       "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
-"ytdl-format": "bv[height<=?720]",
+"ytdl-format": "bv[height<=?720]+ ba[height<=720]",
       "name": "15 台視新聞 (YouTube) "
     },
     {
+      "url": "https://www.youtube.com/watch?v=TCnaIE_SAtM",
+"ytdl-format": "-S height:480",
+      "name": "16 中視新聞 (YouTube) "
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TCnaIE_SAtM",
+"ytdl-format": "height:480",
+      "name": "17 中視新聞 (YouTube) "
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TCnaIE_SAtM",
+"ytdl-format": "res:720",
+      "name": "18 中視新聞 (YouTube) "
+    }
+    {
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
-"ytdl-format": "bv[height<=?720][tbr>500]",
-      "name": "00 公視(youtube)"
+"ytdl-format": "-S res:720",
+      "name": "19 公視(youtube)"
     }
   ]
 }
