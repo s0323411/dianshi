@@ -2,12 +2,10 @@
   "channelList": [
     {
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
-"ytdl-format": "bv[height<=?720][tbr>500]",
       "name": "00 公視(youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
-"ytdl-format": "bv[height<=?720]",
       "name": "01 台視 (youtube)"
     },
     {
@@ -61,17 +59,14 @@
     },
     {
       "url": "https://www.youtube.com/watch?v=25SE1bbTv9k",
-"ytdl-format": "bv[height<=?720][tbr>500]",
       "name": "14 寰宇財經台 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
-"ytdl-format": "bv[height<=?720]",
       "name": "15 台視新聞 (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=TCnaIE_SAtM",
-"ytdl-format": "-S height:480",
       "name": "16 中視新聞 (YouTube) "
     },
     {
@@ -96,11 +91,12 @@
     },
     {
       "url": "https://www.youtube.com/watch?v=YvdcZ_jpLXE",
-      "name": "22 TVBS 56 (VPN)",
-      "ytdl-format": "res:720"
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "22 TVBS 56 (VPN)"
     },
     {
       "url": "http://123.117.163.147:18888/rtp/239.3.1.124:8128",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "23 CCTV-13 (測試)"
     },
     {
@@ -205,26 +201,32 @@
     },   
     {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "49 日本 MTV"
     },
     {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "50 日本 Music Japan TV"
     },
     {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "51 日本 Space Shower TV"
     },
     {
       "url": "http://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "52 韓國 KpopTV"
     },
     {
       "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "53 K-POP"
     },
     {
       "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "54 Korea"
     },
     {
@@ -233,19 +235,32 @@
     },
     {
       "url": "https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "56 Love Nrture「自然」"
     },
     {
       "url": "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "57 全球時尚 Global Fashion Channel"
     },
     {
       "url": "http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "58 法國時尚"
     },
     {
+      "url": "https://cdn3.invivo.bg/Codefashion_5500/index.m3u8	",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "59 Code Fashion TV"
+    },
+    {
+      "url": "https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "60 Fashion TV HD"
+    },
+    {
       "url": "https://www.4gtv.tv/channel/4gtv-live201?set=4&ch=160",
-      "name": "59 車迷TV(四季) "
+      "name": "61 車迷TV(四季) "
     }
   ]
 }
