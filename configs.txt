@@ -2,31 +2,17 @@
   "channelList": [
     {
       "url": "https://www.youtube.com/watch?v=25SE1bbTv9k",
-"ytdl-format": "bv[height<=?720][tbr>500]",
+"ytdl-format": "((bv*[fps>30]/bv*)[height<=720]/(wv*[fps>30]/wv*)) + ba / (b[fps>30]/b)[height<=720]/(w[fps>30]/w)",
       "name": "14 寰宇財經台 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
-"ytdl-format": "bv[height<=?720]+ ba[height<=720]",
+"ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps>30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "15 台視新聞 (YouTube) "
     },
     {
-      "url": "https://www.youtube.com/watch?v=TCnaIE_SAtM",
-      "name": "16 中視新聞 (YouTube) "
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=TCnaIE_SAtM",
-"ytdl-format": "height:480",
-      "name": "17 中視新聞 (YouTube) "
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=TCnaIE_SAtM",
-"ytdl-format": "res:720",
-      "name": "18 中視新聞 (YouTube) "
-    }
-    {
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
-      "name": "19 公視(youtube)"
+      "name": "00 公視(youtube)"
     }
   ]
 }
