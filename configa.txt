@@ -71,12 +71,11 @@
     },
     {
       "url": "https://www.youtube.com/watch?v=TCnaIE_SAtM",
-"ytdl-format": "-S "height:480"",
+"ytdl-format": "-S height:480",
       "name": "16 中視新聞 (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
-"ytdl-format": "-S height:480",
       "name": "17 華視新聞  (YouTube) "
     },
     {
