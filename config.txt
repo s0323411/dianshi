@@ -91,10 +91,12 @@
     },
     {
       "url": "https://www.youtube.com/watch?v=YvdcZ_jpLXE",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "22 TVBS 56 (VPN)"
     },
     {
       "url": "http://123.117.163.147:18888/rtp/239.3.1.124:8128",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "23 CCTV-13 (測試)"
     },
     {
@@ -199,26 +201,32 @@
     },   
     {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "49 日本 MTV"
     },
     {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "50 日本 Music Japan TV"
     },
     {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "51 日本 Space Shower TV"
     },
     {
       "url": "http://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "52 韓國 KpopTV"
     },
     {
       "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "53 K-POP"
     },
     {
       "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "54 Korea"
     },
     {
@@ -227,14 +235,17 @@
     },
     {
       "url": "https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "56 Love Nrture「自然」"
     },
     {
       "url": "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "57 全球時尚 Global Fashion Channel"
     },
     {
       "url": "http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "58 法國時尚"
     },
     {
