@@ -12,7 +12,6 @@
     },
     {
       "url": "https://www.youtube.com/watch?v=TCnaIE_SAtM",
-"ytdl-format": "-S height:480",
       "name": "16 中視新聞 (YouTube) "
     },
     {
@@ -27,7 +26,6 @@
     }
     {
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
-"ytdl-format": "-S res:720",
       "name": "19 公視(youtube)"
     }
   ]
