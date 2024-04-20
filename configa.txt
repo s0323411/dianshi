@@ -91,7 +91,8 @@
     },
     {
       "url": "https://www.youtube.com/watch?v=YvdcZ_jpLXE",
-      "name": "22 TVBS 56 (VPN)"
+      "name": "22 TVBS 56 (VPN)",
+      "ytdl-format": "bv[height<=?720][tbr>500]"
     },
     {
       "url": "http://123.117.163.147:18888/rtp/239.3.1.124:8128",
