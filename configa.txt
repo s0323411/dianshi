@@ -2,12 +2,12 @@
   "channelList": [
     {
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
-"ytdl-format": "res:720",
+"ytdl-format": "bv[height<=?720][tbr>500]",
       "name": "00 公視(youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
-"ytdl-format": "+res:480",
+"ytdl-format": "bv[height<=?720]",
       "name": "01 台視 (youtube)"
     },
     {
