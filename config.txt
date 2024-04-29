@@ -25,8 +25,8 @@
       "name": "05 民視(四季) "
     },
     {
-      "url": "https://www.youtube.com/watch?v=WIhgU_mc05A",
-      "name": "06 新唐人亞太台 (Youtube)"
+      "url": "http://139.159.198.36:777/cctv.php?id=cctv9",
+      "name": "06 CCTV9 (咪咕备用)"
     },
     {
       "url": "https://www.youtube.com/watch?v=s2waUruqze4",
@@ -90,19 +90,13 @@
       "name": "21 TVBS 新聞 (YouTube) "
     },
     {
-      "url": "https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8",
-      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=480]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=480]/(w[fps<=30]/w)",
-      "name": "TVBS HD (安博)"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=YvdcZ_jpLXE",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "22 TVBS 56 (VPN)"
     },
     {
-      "url": "http://123.117.163.147:18888/rtp/239.3.1.124:8128",
-      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "23 CCTV-13 (測試)"
+      "url": "http://139.159.198.36:777/cctv.php?id=cctv13",
+      "name": "23 CCTV13 (咪咕备用)"
     },
     {
       "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
@@ -277,5 +271,9 @@
       "url": "https://www.4gtv.tv/channel/4gtv-live201?set=4&ch=160",
       "name": "62 車迷TV(四季) "
     }
+    {
+      "url": "https://www.youtube.com/watch?v=WIhgU_mc05A",
+      "name": "06 新唐人亞太台 (Youtube)"
+    },
   ]
 }
