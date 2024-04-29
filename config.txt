@@ -268,12 +268,12 @@
       "name": "大陸尋奇 (youtube)"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-live201?set=4&ch=160",
-      "name": "62 車迷TV(四季) "
-    }
-    {
       "url": "https://www.youtube.com/watch?v=WIhgU_mc05A",
       "name": "06 新唐人亞太台 (Youtube)"
     },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-live201?set=4&ch=160",
+      "name": "62 車迷TV(四季) "
+    }
   ]
 }
