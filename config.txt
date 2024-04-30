@@ -95,7 +95,7 @@
       "name": "22 TVBS 56 (VPN)"
     },
     {
-      "url": "http://171.108.239.109:8181/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "url": "http://139.159.198.36:777/cctv.php?id=cctv13",
       "name": "23 CCTV13 (咪咕备用)"
     },
     {
