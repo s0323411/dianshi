@@ -25,11 +25,7 @@
       "name": "05 民視(四季) "
     },
     {
-      "url": "https://ldncctvwbcdkshw.v.kcdnvip.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8",
-      "name": "06 CCTV13 test (cctv 測試)"
-    },
-    {
-      "url": "https://ldncctvwbcdkshw.v.kcdnvip.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8",
+      "url": "http://tvbox.netsite.cc/proxy/41408178/41408178.m3u8",
       "name": "06 CCTV9 (TVBOX 測試)"
     },
     {
