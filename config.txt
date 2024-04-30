@@ -25,6 +25,10 @@
       "name": "05 民視(四季) "
     },
     {
+      "url": "https://ldncctvwbcdkshw.v.kcdnvip.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8?b=200-2100",
+      "name": "06 CCTV13 test (咪咕备用)"
+    },
+    {
       "url": "https://tv.cctv.com/live/cctvjilu/?spm=C28340.POZbQEOQYmoL.ExidtyEJcS5K.10",
       "name": "06 CCTV9 (咪咕备用)"
     },
