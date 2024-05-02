@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,三立iNEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-#EXTINF:-1 ,TVBS 新聞 (YouTube)
-https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 ,寰宇新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 ,東森財經新聞
@@ -11,12 +9,12 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 #EXTINF:-1 ,華視HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 ,日本ANN news
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-#EXTINF:-1 ,The K-POP
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+#EXTINF:-1 ,非凡新聞(安博)
+https://z88.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 #EXTINF:-1 ,民視新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 ,大愛
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 #EXTINF:-1 ,CCTV 4 中文國際
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 #EXTINF:-1 ,鳳凰資訊
@@ -29,8 +27,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 #EXTINF:-1 ,中天新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 ,大愛
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 #EXTINF:-1 ,TVBS NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1 ,Live 三立
@@ -75,21 +71,23 @@ https://z88.ubtvfans.com/live/rx1/35/2f6d2504a853f3315b80e50b40f5379c/index.m3u8
 https://z88.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
 #EXTINF:-1 ,HBO (安博)
 https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
-#EXTINF:-1 ,緯來綜合
+#EXTINF:-1 ,緯來綜合(安博)
 https://z88.ubtvfans.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
-#EXTINF:-1 ,非凡新聞
-https://z88.ubtvfans.com/live/rx6/314/2131df66e5e2fbd55751eb67b724f25c/index.m3u8
-#EXTINF:-1 ,TVBS歡樂
+#EXTINF:-1 ,TVBS歡樂(安博)
 https://z88.ubtvfans.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
-#EXTINF:-1 ,TVBS精采
+#EXTINF:-1 ,TVBS精采(安博)
 https://z88.ubtvfans.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539/index.m3u8
-#EXTINF:-1 ,三立戲劇
+#EXTINF:-1 ,三立戲劇(安博)
 https://z88.ubtvfans.com/live/rx1/2819/bdd3f93feceb62d903b34ac62a1f2b16/index.m3u8
-#EXTINF:-1 ,ELTA體育1
+#EXTINF:-1 ,ELTA體育1(安博)
 https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
-#EXTINF:-1 ,ELTA體育2
+#EXTINF:-1 ,ELTA體育2(安博)
 https://z88.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8
-#EXTINF:-1 ,ELTA體育3
+#EXTINF:-1 ,ELTA體育3(安博)
 https://z88.ubtvfans.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8
-#EXTINF:-1 ,ELTA體育4
+#EXTINF:-1 ,ELTA體育4(安博)
 https://z88.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8
+#EXTINF:-1 ,日本ANN news
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+#EXTINF:-1 ,The K-POP
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
