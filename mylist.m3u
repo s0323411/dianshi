@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 #EXTINF:-1 ,中天新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 ,非凡新聞
+#EXTINF:-1 ,非凡新聞(yt)
 https://ythls-v2.onrender.com/video/ghrv9QhgNdA.m3u8
 #EXTINF:-1 ,民視新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
@@ -49,9 +49,9 @@ https://z88.ubtvfans.com/live/rx3/312/df64913fe36fda05394f453b357c8cf8/index.m3u
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 #EXTINF:-1 ,華視HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 ,公視
+#EXTINF:-1 ,公視(yt)
 https://ythls-v2.onrender.com/video/C6gYqSHLRw4.m3u8
-#EXTINF:-1 ,公視台語台
+#EXTINF:-1 ,公視台語台(yt)
 https://ythls-v2.onrender.com/video/6KlRR_DGhmI.m3u8
 #EXTINF:-1 ,大愛二台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
