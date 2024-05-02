@@ -25,9 +25,9 @@
       "name": "05 民視(四季) "
     },
     {
-      "url": "https://z88.ubtvfans.com/live/rx1/2308/b9274dbd51113ace3244a6927beeeca3/index.m3u8",
+      "url": "https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "06 CCTV9 (安博 備用)"
+      "name": "06 CCTV9 (TVbox)"
     },
     {
       "url": "https://www.youtube.com/watch?v=s2waUruqze4",
@@ -54,9 +54,8 @@
       "name": "12 東森財經 (Youtube)"
     },
     {
-      "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
-      "name": "13 非凡新聞 ",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
+      "url": "https://www.youtube.com/watch?v=ghrv9QhgNdA",
+      "name": "13 非凡新聞 (Youtube)",
     },
     {
       "url": "https://www.youtube.com/watch?v=25SE1bbTv9k",
@@ -101,9 +100,9 @@
       "name": "22 TVBS 56 (VPN)"
     },
     {
-      "url": "https://z88.ubtvfans.com/live/rx1/213/4985ed10e25b72869efa7f2f7b839f1a/index.m3u8",
+      "url": "https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "23 CCTV13 (安博 備用)"
+      "name": "23 CCTV13 (TV box)"
     },
     {
       "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
@@ -272,6 +271,42 @@
     {
       "url": "https://www.youtube.com/watch?v=WIhgU_mc05A",
       "name": "06 新唐人亞太台 (Youtube)"
+    },
+    {
+      "name": "三立臺灣HD",
+      "url": "https://z88.ubtvfans.com/live/rx1/35/2f6d2504a853f3315b80e50b40f5379c/index.m3u8"
+    },
+{
+      "name": "HBO 電影 (安博)",
+      "url": "https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8"
+    },
+{
+      "name": "ELTA體育1 (安博)",
+      "url": "https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8"
+    },
+{
+      "name": "ELTA體育2 (安博)",
+      "url": "https://z88.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8"
+    },
+{
+      "name": "ELTA體育3 (安博)",
+      "url": "https://z88.ubtvfans.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8"
+    },
+{
+      "name": "ELTA體育4 (安博)",
+      "url": "https://z88.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8"
+    },
+{
+      "name": "Z頻道 (安博)",
+      "url": "https://z88.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/index.m3u8"
+    },
+{
+      "name": "探索頻道 (安博)",
+      "url": "https://z88.ubtvfans.com/live/rx1/2817/3c1ec0ba462c6dd57356127d915de800/index.m3u8"
+    },
+{
+      "name": "動物星球 (安博)",
+      "url": "https://z88.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8"
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live201?set=4&ch=160",
