@@ -13,8 +13,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 #EXTINF:-1 ,中天新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 ,非凡新聞(安博)
-https://z88.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
+#EXTINF:-1 ,非凡新聞
+https://ythls-v2.onrender.com/video/ghrv9QhgNdA.m3u8
 #EXTINF:-1 ,民視新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 #EXTINF:-1 ,大愛
@@ -49,8 +49,10 @@ https://z88.ubtvfans.com/live/rx3/312/df64913fe36fda05394f453b357c8cf8/index.m3u
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 #EXTINF:-1 ,華視HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 ,公視(安博)
-https://z88.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
+#EXTINF:-1 ,公視
+https://ythls-v2.onrender.com/video/C6gYqSHLRw4.m3u8
+#EXTINF:-1 ,公視台語台
+https://ythls-v2.onrender.com/video/6KlRR_DGhmI.m3u8
 #EXTINF:-1 ,大愛二台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 #EXTINF:-1 ,三立臺灣 (安博)
