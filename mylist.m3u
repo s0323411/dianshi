@@ -51,6 +51,14 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 #EXTINF:-1 ,三立臺灣 (安博)
 https://z88.ubtvfans.com/live/rx1/35/2f6d2504a853f3315b80e50b40f5379c/index.m3u8
+#EXTINF:-1 ,公視(安博)
+https://z88.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
+#EXTINF:-1 ,中天綜合(安博)
+https://z88.ubtvfans.com/live/rx1/3072/545c68b12b7da5ddad698af533934093/index.m3u8
+#EXTINF:-1 ,中天娛樂(安博)
+https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
+#EXTINF:-1 ,TVBS精采(安博)
+https://z88.ubtvfans.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539/index.m3u8
 #EXTINF:-1 ,緯來日本 (安博)
 https://z88.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
 #EXTINF:-1 ,HBO (安博)
@@ -59,8 +67,6 @@ https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u
 https://z88.ubtvfans.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
 #EXTINF:-1 ,TVBS歡樂(安博)
 https://z88.ubtvfans.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
-#EXTINF:-1 ,TVBS精采(安博)
-https://z88.ubtvfans.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539/index.m3u8
 #EXTINF:-1 ,三立戲劇(安博)
 https://z88.ubtvfans.com/live/rx1/2819/bdd3f93feceb62d903b34ac62a1f2b16/index.m3u8
 #EXTINF:-1 ,豬哥會社
