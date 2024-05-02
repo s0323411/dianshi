@@ -1,32 +1,44 @@
 {
   "channelList": [
 {
-      "name": "華視新聞 (安博)",
-      "url": "https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8"
+      "name": "HBO2 (安博)",
+      "url": "https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8"
     },
 {
-      "name": "民視HD (安博)",
-      "url": "https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8"
+      "name": "TVBS HD (安博2)",
+      "url": "https://z88.ubtvfans.com/live/rx5/16/8c37a5383ff641de02963f44353d01c0/index.m3u8"
     },
 {
-      "name": "臺視HD (安博)",
-      "url": "https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8"
+      "name": "三立臺灣HD (安博)",
+      "url": "https://z88.ubtvfans.com/live/rx1/35/2f6d2504a853f3315b80e50b40f5379c/index.m3u8"
     },
 {
-      "name": "中視 (安博)",
-      "url": "https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8"
+      "name": "緯來日本 (安博)",
+      "url": "https://z88.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8"
     },
 {
-      "name": "華視HD (安博)",
-      "url": "https://z88.ubtvfans.com/live/rx1/32/215de2872642ba157c03fffa4a3948ca/index.m3u8"
+      "name": "緯來體育 (安博)",
+      "url": "https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8"
     },
 {
-      "name": "公視 (安博)",
-      "url": "https://z88.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8"
+      "name": "ELTA體育1 (安博)",
+      "url": "https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8"
     },
 {
-      "name": "好消息 (安博)",
-      "url": "https://z88.ubtvfans.com/live/rx1/104/a4837e9b394e278fe4726be73a5c227e/index.m3u8"
+      "name": "ELTA體育2 (安博)",
+      "url": "https://z88.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8"
+    },
+{
+      "name": "ELTA體育3 (安博)",
+      "url": "https://z88.ubtvfans.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8"
+    },
+{
+      "name": "ELTA體育4 (安博)",
+      "url": "https://z88.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8"
+    },
+{
+      "name": "Z頻道 (安博)",
+      "url": "https://z88.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/index.m3u8"
     },
 {
       "name": "客家電視 (安博)",
@@ -37,16 +49,20 @@
       "url": "https://z88.ubtvfans.com/live/rx1/2726/5acfb74f1676ec3fb0ae5f4c28939c16/index.m3u8"
     },
 {
+      "name": "探索頻道 (安博)",
+      "url": "https://z88.ubtvfans.com/live/rx1/2817/3c1ec0ba462c6dd57356127d915de800/index.m3u8"
+    },
+{
+      "name": "動物星球 (安博)",
+      "url": "https://z88.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8"
+    },
+{
       "name": "八大第一 (安博)",
       "url": "https://z88.ubtvfans.com/live/rx1/318/caf30fed70d5227d71cf045a1d212005/index.m3u8"
     },
 {
       "name": "八大綜合 (安博)",
       "url": "https://z88.ubtvfans.com/live/rx1/2286/78f60a216640f76802257cbab8095843/index.m3u8"
-    },
-{
-      "name": "三立臺灣HD (安博)",
-      "url": "https://z88.ubtvfans.com/live/rx1/35/2f6d2504a853f3315b80e50b40f5379c/index.m3u8"
     },
 {
       "name": "三立都會HD (安博)",
@@ -88,10 +104,7 @@
       "name": "緯來育樂 (安博)",
       "url": "https://z88.ubtvfans.com/live/rx1/338/24e3230f2c9205c6307b25e118377967/index.m3u8"
     },
-{
-      "name": "緯來日本 (安博)",
-      "url": "https://z88.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8"
-    },
+
 {
       "name": "國興衛視 (安博)",
       "url": "https://z88.ubtvfans.com/live/rx1/65/512600edc0968aef5fac5f0cc1195023/index.m3u8"
@@ -313,10 +326,6 @@
       "url": "https://z88.ubtvfans.com/live/rx1/329/4f7c91a6de5f2142dc69dcfb3f377d09/index.m3u8"
     },
 {
-      "name": "HBO2 (安博)",
-      "url": "https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8"
-    },
-{
       "name": "采昌影劇 (安博)",
       "url": "https://z88.ubtvfans.com/live/rx1/62/2a544522f0580be374f34e1823b7b4e5/index.m3u8"
     },
@@ -365,36 +374,12 @@
       "url": "https://z88.ubtvfans.com/live/rx1/83/5c9c7abe023c4753d66d39ce23a7ba5b/index.m3u8"
     },
 {
-      "name": "緯來體育 (安博)",
-      "url": "https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8"
-    },
-{
       "name": "ELEVEN1 (安博)",
       "url": "https://z88.ubtvfans.com/live/rx1/1133/64a8f14b61c93d85873c39955eccf1c9/index.m3u8"
     },
 {
       "name": "ELEVEN2 (安博)",
       "url": "https://z88.ubtvfans.com/live/rx1/301/a12fe4cbdc8bc6f9da6966e3459f4c78/index.m3u8"
-    },
-{
-      "name": "ELTA體育1 (安博)",
-      "url": "https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8"
-    },
-{
-      "name": "ELTA體育2 (安博)",
-      "url": "https://z88.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8"
-    },
-{
-      "name": "ELTA體育3 (安博)",
-      "url": "https://z88.ubtvfans.com/live/rx1/194/749cd52700d298fec937024cc818e97e/index.m3u8"
-    },
-{
-      "name": "ELTA體育4 (安博)",
-      "url": "https://z88.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8"
-    },
-{
-      "name": "Z頻道 (安博)",
-      "url": "https://z88.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/index.m3u8"
     },
 {
       "name": "博斯無限1 (安博)",
@@ -419,14 +404,6 @@
 {
       "name": "國家地理 (安博)",
       "url": "https://z88.ubtvfans.com/live/rx1/302/5c562b6b602c232f4ef70bd948dc2f7f/index.m3u8"
-    },
-{
-      "name": "探索頻道 (安博)",
-      "url": "https://z88.ubtvfans.com/live/rx1/2817/3c1ec0ba462c6dd57356127d915de800/index.m3u8"
-    },
-{
-      "name": "動物星球 (安博)",
-      "url": "https://z88.ubtvfans.com/live/rx1/367/ec2a5cc942ff9cd56dfea2aa478c5f35/index.m3u8"
     },
 {
       "name": "民視旅遊 (安博)",
