@@ -63,8 +63,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
 #EXTINF:-1 ,TVBS news
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
-#EXTINF:-1 ,TVBS HD
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
 #EXTINF:-1 ,TVBS HD (安博1)
 https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 #EXTINF:-1 ,TVBS HD (安博2)
@@ -77,6 +75,16 @@ https://z88.ubtvfans.com/live/rx1/35/2f6d2504a853f3315b80e50b40f5379c/index.m3u8
 https://z88.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
 #EXTINF:-1 ,HBO (安博)
 https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
+#EXTINF:-1 ,緯來綜合
+https://z88.ubtvfans.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
+#EXTINF:-1 ,非凡新聞
+https://z88.ubtvfans.com/live/rx6/314/2131df66e5e2fbd55751eb67b724f25c/index.m3u8
+#EXTINF:-1 ,TVBS歡樂
+https://z88.ubtvfans.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
+#EXTINF:-1 ,TVBS精采
+https://z88.ubtvfans.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539/index.m3u8
+#EXTINF:-1 ,三立戲劇
+https://z88.ubtvfans.com/live/rx1/2819/bdd3f93feceb62d903b34ac62a1f2b16/index.m3u8
 #EXTINF:-1 ,ELTA體育1
 https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
 #EXTINF:-1 ,ELTA體育2
