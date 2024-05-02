@@ -51,8 +51,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 ,公視(安博)
 https://z88.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
-#EXTINF:-1 ,World 世界瞭望
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 #EXTINF:-1 ,大愛二台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 #EXTINF:-1 ,三立臺灣 (安博)
@@ -67,14 +65,30 @@ https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u
 https://z88.ubtvfans.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539/index.m3u8
 #EXTINF:-1 ,緯來日本 (安博)
 https://z88.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8
-#EXTINF:-1 ,HBO (安博)
+#EXTINF:-1 ,HBO 電影(安博)
 https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
+#EXTINF:-1 ,HBO HD(安博)
+https://z88.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/index.m3u8
+#EXTINF:-1 ,東森電影(安博)
+https://z88.ubtvfans.com/live/rx1/350/44b9d828c69ab77ac370b97682959610/index.m3u8
+#EXTINF:-1 ,緯來電影(安博)
+https://z88.ubtvfans.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
+#EXTINF:-1 ,東森洋片(安博)
+https://z88.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
+#EXTINF:-1 ,壹電影(安博)
+https://z88.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
+#EXTINF:-1 ,好萊塢電影(安博)
+https://z88.ubtvfans.com/live/rx1/37/994b3b9fcc2b4f3ee856d7d12b5356ca/index.m3u8
+#EXTINF:-1 ,美亞電影(安博)
+https://z88.ubtvfans.com/live/rx1/375/52fc7016f1457b85d795a61bbe7921f8/index.m3u8
+#EXTINF:-1 ,民視影劇(安博)
+https://z88.ubtvfans.com/live/rx1/1023/950cf40ce6700c1bf2c2d8b1636576da/index.m3u8
+#EXTINF:-1 ,三立戲劇(安博)
+https://z88.ubtvfans.com/live/rx1/64/e95e58936986f55826db6aaeea93eec6/index.m3u8
 #EXTINF:-1 ,緯來綜合(安博)
 https://z88.ubtvfans.com/live/rx1/2726/b780ea0729a7afe23c901290fd88df1c/index.m3u8
 #EXTINF:-1 ,TVBS歡樂(安博)
 https://z88.ubtvfans.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
-#EXTINF:-1 ,三立戲劇(安博)
-https://z88.ubtvfans.com/live/rx1/2819/bdd3f93feceb62d903b34ac62a1f2b16/index.m3u8
 #EXTINF:-1 ,豬哥會社
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
 #EXTINF:-1 ,Taiwan+
