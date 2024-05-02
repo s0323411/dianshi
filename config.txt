@@ -185,16 +185,12 @@
       "name": "豬哥亮歌廳秀(四季) "
     },
     {
-      "url": "https://www.youtube.com/watch?v=keanRndSv6w",
+      "url": "https://www.youtube.com/watch?v=XDrGAVTkJfM",
       "name": "GPTV電影台 (YouTube) "
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live157?set=1&ch=176",
       "name": "我的歐洲電影(四季) "
-    },
-    {
-      "url": "https://www.4gtv.tv/channel/4gtv-live013?set=4&ch=272",
-      "name": "電影免費看 1台(四季) "
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live005?set=4&ch=245",
