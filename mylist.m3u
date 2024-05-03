@@ -13,6 +13,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 #EXTINF:-1 ,中天新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 ,非凡新聞(YT)
+https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/youtube.m3u
 #EXTINF:-1 ,非凡新聞(安博)
 https://z88.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 #EXTINF:-1 ,民視新聞台
