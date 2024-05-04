@@ -19,6 +19,10 @@ https://z88.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 #EXTINF:-1 ,大愛
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+#EXTINF:-1 ,Discovery
+http://125.227.210.55:8154/VideoInput/play.ts
+#EXTINF:-1 ,緯來日本
+rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 ,TVBS HD (安博)
 https://z88.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 #EXTINF:-1 ,TVBS HD 備用(安博)
