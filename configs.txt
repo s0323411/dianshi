@@ -5,6 +5,26 @@
       "name": "00 公視(youtube)"
     },
     {
+      "url": "https://www.ofiii.com/channel/watch/iNEWS",
+      "name": "001 "
+    },
+   {
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn23",
+      "name": "002 "
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv051",
+      "name": "0013"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/ofiii56",
+      "name": "004 "
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=22",
+      "name": "005 "
+    },
+    {
       "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
       "name": "01 台視 (youtube)"
     },
