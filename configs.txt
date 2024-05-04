@@ -83,10 +83,10 @@
       "name": "tvbs 4G 測試 "
     },
     {
-      "header": "uid0000",
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv073?set=2&ch=183",
       "name": "tvbs 四季限時試看2 "
-      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "ytdl-options": "file://Download/4gtvnoad.json",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)"
     },
     {
       "url": "https://www.youtube.com/watch?v=oIgbl7t0S_w",
