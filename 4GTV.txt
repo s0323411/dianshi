@@ -16,11 +16,6 @@
       "name": "龍華電影台 (四季限時)"
     },
     {
-      "url": "https://www.4gtv.tv/channel/litv-longturn11?set=1&ch=28",
-      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "龍華日韓台 (四季限時)"
-    },
-    {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv061?set=1&ch=82",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "靖天電影台 (四季限時)"
@@ -34,6 +29,11 @@
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "靖天日本台 (四季限時)"
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/litv-longturn11?set=1&ch=28",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "龍華日韓台 (四季限時)"
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv068?set=1&ch=184",
@@ -56,16 +56,6 @@
       "name": "八大綜藝台 (四季限時)"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv065?set=1&ch=88",
-      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "靖天資訊台 (四季限時)"
-    },
-    {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=84",
-      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "KLT-靖天國際台 (四季限時)"
-    },
-    {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv062?set=1&ch=83",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "靖天育樂台 (四季限時)"
@@ -83,7 +73,7 @@
     {
       "url": "https://www.4gtv.tv/channel/litv-longturn10?set=1&ch=51",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "博斯無限台 (四季限時)"
+      "name": "博斯無限台撞球 (四季限時)"
     },
     {
       "url": "https://www.4gtv.tv/channel/litv-longturn07?set=1&ch=50",
@@ -94,6 +84,16 @@
       "url": "https://www.4gtv.tv/channel/litv-longturn05?set=1&ch=48",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "博斯高球台 (四季限時)"
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv065?set=1&ch=88",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "靖天資訊台 (四季限時)"
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv063?set=1&ch=84",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "KLT-靖天國際台 (四季限時)"
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183",
