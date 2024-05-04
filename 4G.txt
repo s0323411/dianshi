@@ -21,6 +21,11 @@
       "name": "靖天電影台 (四季限時)"
     },
     {
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv055?set=33&ch=42",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "靖天映畫 (四季限時)"
+    },
+    {
       "url": "https://www.4gtv.tv/channel/4gtv-live023?set=1&ch=212",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "影迷數位紀實台 (四季限時)"
