@@ -11,11 +11,6 @@
       "name": "CINEMAX (大街)"
     },
     {
-      "url": "http://125.227.210.55:8160/VideoInput/play.ts",
-      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "三立臺灣台 (大街)"
-    },
-    {
       "url": "http://61.221.215.25:8800/hls/57/index.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "動物星球 (大街)"
