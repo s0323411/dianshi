@@ -268,9 +268,6 @@
       "url": "https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "91 Fashion TV HD"
-    },
-{
-  "list": "https://raw.githubusercontent.com/s0323411/dianshi/main/tvbox.txt"
-}
+    }
   ]
 }
