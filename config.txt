@@ -192,10 +192,10 @@
   "list": "https://raw.githubusercontent.com/s0323411/dianshi/main/4G.txt"
 },
 {
-  "list": "https://raw.githubusercontent.com/s0323411/dianshi/main/tvbox.txt"
+  "list": "https://raw.githubusercontent.com/s0323411/dianshi/main/big.txt"
 },
 {
-  "list": "https://raw.githubusercontent.com/s0323411/dianshi/main/big.txt"
+  "list": "https://raw.githubusercontent.com/s0323411/dianshi/main/tvbox.txt"
 },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live157?set=1&ch=176",
