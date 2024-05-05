@@ -8,10 +8,9 @@
       "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
       "name": "01 台視 (youtube)"
     },
-    {
-      "url": "rtmp://f13h.mine.nu/sat/tv771",
-      "name": "緯來日本 (rtmp)"
-    },
+{
+  "list": "https://raw.githubusercontent.com/s0323411/dianshi/main/ofiii.txt"
+},
 {
   "list": "https://raw.githubusercontent.com/s0323411/dianshi/main/4G.txt"
 },
