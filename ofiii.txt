@@ -1,6 +1,11 @@
 {
   "channelList": [
     {
+      "url": "https://www.litv.tv/channel/watch/litv-vchannel26",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": " WTO 姐妹會 (litv)"
+    },
+    {
       "url": "https://www.ofiii.com/channel/watch/ofiii129",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "WTO 姐妹會 (歐飛)"
