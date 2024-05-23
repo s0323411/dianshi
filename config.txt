@@ -59,7 +59,7 @@
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
-      "url": "https://www.youtube.com/watch?v=25SE1bbTv9k",
+      "url": "https://www.youtube.com/watch?v=WTRQiVWK1jY",
       "name": "14 寰宇財經台 (Youtube)"
     },
     {
