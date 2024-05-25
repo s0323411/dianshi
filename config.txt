@@ -169,9 +169,9 @@
       "name": "40 中台灣生活網"
     },
     {
-      "url": "https://www.youtube.com/watch?v=zf1hVmrf5r8",
+      "url": "https://www.youtube.com/watch?v=9d4ggywa01w",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "41 綜藝-我愛冰冰Show (YouTube) "
+      "name": "41 MIT 台灣誌 (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=A98LJq71BZg",
