@@ -109,7 +109,7 @@
       "name": "25 寰宇新聞台灣台 (Youtube)"
     },
     {
-      "url": "https://www.youtube.com/watch?v=bEZYrBMYNNg",
+      "url": "https://www.youtube.com/watch?v=twhG7_jvA8g",
       "name": "26 CCTV 4 中文國際 (youtube)"
     },
     {
