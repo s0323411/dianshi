@@ -1,20 +1,282 @@
 {
   "channelList": [
-      {
+    {
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
       "name": "00 公視(youtube)"
     },
-{
-      "name": "elta free",
-      "url": "https://www.4gtv.tv/channel/litv-longturn20?set=4&ch=106"
+    {
+      "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
+      "name": "01 台視 (youtube)"
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv040?set=4&ch=4",
+      "name": "02 中視 (四季)"
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv041?set=4&ch=6",
+      "name": "03 華視 (四季)"
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-live087?set=4&ch=284",
+      "name": "04 TVBS綜藝台(四季) "
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv002?set=4&ch=3",
+      "name": "05 民視(四季) "
+    },
+    {
+      "url": "https://z88.ubtvfans.com/live/rx1/2308/b9274dbd51113ace3244a6927beeeca3/index.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "06 CCTV9 (TVbox)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=s2waUruqze4",
+      "name": "07 中天亞洲台 (Youtube)"
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv001?set=4&ch=2",
+      "name": "08 民視台灣台 (四季) "
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6KlRR_DGhmI",
+      "name": "09 公視台語台 (Youtube)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oV_i3Hsl_zg",
+	  "volume":1.2 ,
+      "name": "10 大愛一臺 (Youtube)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
+	  "volume":1.2 ,
+      "name": "11 大愛二臺 (Youtube)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WHEPzbFA3hw",
+      "name": "12 東森財經 (Youtube)"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
+      "name": "13 非凡新聞 ",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WTRQiVWK1jY",
+	  "volume":2,
+      "name": "14 寰宇財經台 (Youtube)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
+      "name": "15 台視新聞 (YouTube) "
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TCnaIE_SAtM",
+      "name": "16 中視新聞 (YouTube) "
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
+      "name": "17 華視新聞  (YouTube) "
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
+      "name": "18 民視新聞 (YouTube) "
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oIgbl7t0S_w",
+      "name": "19 中天新聞  (YouTube) "
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LuQ4S-i5zoE",
+      "name": "20 東森新聞  (YouTube) "
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
+	  "volume":0.9,
+      "name": "21 TVBS 新聞 (YouTube) "
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv073?set=2&ch=183",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "22 TVBS HD 56 (四季限時)"
+    },
+    {
+      "url": "https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8",
+	  "volume":1.2 ,
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "23 CCTV13 (TV box)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
+      "name": "24 寰宇新聞 (youtube)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=w87VGpgd90U",
+      "name": "25 寰宇新聞台灣台 (Youtube)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=twhG7_jvA8g",
+	  "volume":0.9 ,
+      "name": "26 CCTV 4 中文國際 (youtube)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HFib76ySpbU",
+	  "volume":1.2 ,
+      "name": "27 鳳凰衛視資訊台 (youtube)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iyOq8DhaMYw",
+      "name": "28 彭博商業新聞 Bloomberg Business News (youtube)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oZdzzvxTfUY",
+      "name": "29 三立新聞 (youtube)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
+      "name": "30 鏡新聞 (Youtube)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WIhgU_mc05A",
+      "name": "31 新唐人亞太台 (Youtube)"
+    },
+    {
+      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "32 日本 NHK news"
+    },   
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-live207?set=4&ch=169",
+      "name": "33 三立綜合台(四季) "
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv004?set=4&ch=16",
+      "name": "34 民視綜藝台(四季) "
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv064?set=4&ch=123",
+      "name": "35 中視菁采台(四季) "
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/litv-ftv09?set=4&ch=24",
+      "name": "36 民視影劇台(四季) "
+    }, 
+    {
+      "url": "https://www.4gtv.tv/channel/litv-ftv07?set=4&ch=61",
+      "name": "37 民視旅遊台(四季) "
+    },   
+    {
+      "url": "https://www.4gtv.tv/channel/litv-longturn17?set=4&ch=250",
+      "name": "38 亞洲旅遊台(四季) "
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-live120?set=4&ch=237",
+      "name": "39 愛爾達生活旅遊台(四季) "
+    }, 
+    {
+      "url": "http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "40 中台灣生活網"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9d4ggywa01w",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "41 MIT 台灣誌 (YouTube) "
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=A98LJq71BZg",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+     "name": "42 綜藝-飢餓遊戲 (YouTube) "
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv006?set=4&ch=113",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "43 豬哥亮歌廳秀(四季) "
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=V0eNcTH0LDo",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "44 GPTV電影台 (YouTube) "
     },
 {
-      "name": "tvbs old",
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv073?set=2&ch=183"
-    },
+  "list": "https://raw.githubusercontent.com/s0323411/dianshi/main/4G.txt"
+},
 {
-      "name": "tvbs 1",
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=183"
+  "list": "https://raw.githubusercontent.com/s0323411/dianshi/main/big.txt"
+},
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-live157?set=1&ch=176",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "83 我的歐洲電影(四季) "
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-live005?set=4&ch=245",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "84 電影免費看 2台(四季) "
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-live144?set=4&ch=236",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "85 金光布袋戲(四季)"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "86 天才衝衝衝"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fl1iFkAWcVU",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "87 大陸尋奇 (youtube)"
+    },
+    {
+      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "88 日本 MTV"
+    },
+    {
+      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "89 日本 Music Japan TV"
+    },
+    {
+      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "90 日本 Space Shower TV"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "91 K-POP"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "92 Korea"
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv014?set=4&ch=69",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "93 時尚運動X(四季) "
+    },
+    {
+      "url": "https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "94 Love Nrture「自然」"
+    },
+    {
+      "url": "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "95 全球時尚 Global Fashion Channel"
+    },
+    {
+      "url": "http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "96 法國時尚"
+    },
+    {
+      "url": "https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "97 Fashion TV HD"
     }
   ]
 }
