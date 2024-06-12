@@ -101,7 +101,7 @@
       "name": "23 CCTV13 (TV box)"
     },
     {
-      "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
+      "url": "https://www.youtube.com/watch?v=NhZXUwlY2dU",
       "name": "24 寰宇新聞 (youtube)"
     },
     {
