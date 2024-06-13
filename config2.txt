@@ -5,8 +5,20 @@
       "name": "00 tvbs(litv)"
     },
     {
+      "url": "https://www.litv.tv/channel/watch/4gtv-4gtv010",
+      "name": "非凡新聞 (litv)"
+    },
+    {
+      "url": "https://www.litv.tv/channel/watch/4gtv-4gtv076",
+      "name": "CATCHPLAY電影台 (litv)"
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/4gtv-live145?set=33&ch=301 ",
+      "name": "霹靂布袋戲 (四季)"
+    },
+    {
       "url": "https://www.litv.tv/channel/watch/litv-vchannel65",
-      "name": "FOCUS焦點電影台"
+      "name": "FOCUS焦點電影台 (litv)"
     }
   ]
 }
