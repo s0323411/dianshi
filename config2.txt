@@ -1,0 +1,12 @@
+{
+  "channelList": [
+    {
+      "url": "https://www.litv.tv/channel/watch/4gtv-4gtv073",
+      "name": "00 tvbs(litv)"
+    },
+    {
+      "url": "https://www.litv.tv/channel/watch/litv-vchannel65",
+      "name": "FOCUS焦點電影台"
+    }
+  ]
+}
