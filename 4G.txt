@@ -75,20 +75,36 @@
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "59 博斯網球台 (四季限時)"
     },
-    {
-      "url": "https://www.4gtv.tv/channel/litv-longturn10?set=1&ch=51",
-      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "60 博斯無限台撞球 (四季限時)"
+	 {
+      "url": "https://www.4gtv.tv/channel/litv-longturn04?set=3&ch=300",
+      "name": "59 博斯魅力台 (四季限時)"
     },
     {
       "url": "https://www.4gtv.tv/channel/litv-longturn07?set=1&ch=50",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "61 博斯運動一台 (四季限時)"
     },
+	 {
+      "url": "https://www.4gtv.tv/channel/litv-longturn08?set=3&ch=299",
+      "name": "61 博斯運動二台 (四季限時)"
+    },
+    {
+      "url": "https://www.4gtv.tv/channel/litv-longturn10?set=1&ch=51",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "60 博斯無限台撞球 (四季限時)"
+    },
     {
       "url": "https://www.4gtv.tv/channel/litv-longturn05?set=1&ch=48",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "62 博斯高球台 (四季限時)"
+    },
+	 {
+      "url": "https://www.4gtv.tv/channel/litv-longturn06?set=3&ch=298",
+      "name": "62 博斯高球二台 (四季限時)"
+    },
+	 {
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv077?set=3&ch=57",
+      "name": "104 TRACE Sport Stars (四季限時)"
     },
     {
       "url": "https://www.4gtv.tv/channel/4gtv-live024?set=1&ch=204",
