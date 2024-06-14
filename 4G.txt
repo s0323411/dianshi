@@ -76,7 +76,7 @@
       "name": "59 博斯網球台 (四季限時)"
     },
 	 {
-      "url": "https://www.4gtv.tv/channel/litv-longturn04?set=3&ch=300",
+      "url": "https://www.4gtv.tv/channel/litv-longturn04?set=1&ch=300",
       "name": "59 博斯魅力台 (四季限時)"
     },
     {
@@ -85,7 +85,7 @@
       "name": "61 博斯運動一台 (四季限時)"
     },
 	 {
-      "url": "https://www.4gtv.tv/channel/litv-longturn08?set=3&ch=299",
+      "url": "https://www.4gtv.tv/channel/litv-longturn08?set=1&ch=299",
       "name": "61 博斯運動二台 (四季限時)"
     },
     {
@@ -99,11 +99,11 @@
       "name": "62 博斯高球台 (四季限時)"
     },
 	 {
-      "url": "https://www.4gtv.tv/channel/litv-longturn06?set=3&ch=298",
+      "url": "https://www.4gtv.tv/channel/litv-longturn06?set=1&ch=298",
       "name": "62 博斯高球二台 (四季限時)"
     },
 	 {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv077?set=3&ch=57",
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv077?set=1&ch=57",
       "name": "104 TRACE Sport Stars (四季限時)"
     },
     {
