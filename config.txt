@@ -96,6 +96,11 @@
       "name": "22 TVBS HD 56 (四季限時)"
     },
     {
+      "url": "http://37.27.111.214:8080/live/23/hls.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "22 TVBS HD 56 (暫時)"
+    },
+    {
       "url": "https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "23 CCTV13 (TV box)"
