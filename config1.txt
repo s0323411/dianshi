@@ -25,7 +25,7 @@
       "name": "05 民視(四季) "
     },
     {
-      "url": "https://z88.ubtvfans.com/live/rx1/2308/b9274dbd51113ace3244a6927beeeca3/index.m3u8",
+      "url": "https://node1.olelive.com:6443/live/CCTV09HD/hls.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "06 CCTV9 (TVbox)"
     },
@@ -96,7 +96,7 @@
       "name": "22 TVBS HD 56 (暫時)"
     },
     {
-      "url": "https://www.youtube.com/watch?v=YvdcZ_jpLXE",
+      "url": "https://www.youtube.com/watch?v=2mCSYvcfhtc",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "22 TVBS HD 56 (VPN)"
     },
