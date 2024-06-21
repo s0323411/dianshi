@@ -2,21 +2,23 @@
   "channelList": [
     {
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
-    "volume": 2.0,
+      "ytdl-format": "height<1080",
       "name": "00 公視(youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
-      "ytdl-format": "height<=720",
+      "ytdl-format": "height<720",
       "name": "01 台視 (youtube)"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv040?set=4&ch=4",
-      "name": "02 中視 (四季)"
+      "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
+      "name": "13 非凡新聞 ",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv041?set=4&ch=6",
-      "name": "03 華視 (四季)"
+      "url": "https://www.youtube.com/watch?v=WTRQiVWK1jY",
+	    "volume": 2.0,
+      "name": "14 寰宇財經台 (Youtube)"
     },
     {
       "url": "https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8",
