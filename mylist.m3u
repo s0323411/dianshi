@@ -5,6 +5,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 #EXTINF:-1 ,寰宇新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 ,寰宇新聞台灣台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 #EXTINF:-1 ,東森財經新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 ,寰宇財經台
@@ -33,8 +35,6 @@ https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 ,新唐人亞太台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-#EXTINF:-1 ,寰宇新聞台2
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 #EXTINF:-1 ,鏡新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 #EXTINF:-1 ,中視
