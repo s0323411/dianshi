@@ -3,32 +3,32 @@
     {
       "url": "http://125.227.210.55:8153/VideoInput/play.ts",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "70 HBO HD 電影台 (大街)"
+      "name": "HBO HD 電影台 (大街)"
     },
     {
       "url": "http://125.227.210.55:8151/VideoInput/play.ts",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "71 CINEMAX (大街)"
+      "name": "CINEMAX (大街)"
     },
     {
       "url": "http://61.221.215.25:8800/hls/41/index.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "72 三立戲劇 (大街)"
+      "name": "三立戲劇 (大街)"
     },
     {
       "url": "http://61.221.215.25:8800/hls/57/index.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "73 動物星球 (大街)"
+      "name": "動物星球 (大街)"
     },
     {
       "url": "http://61.221.215.25:8800/hls/50/index.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "75 探索亞洲 (大街)"
+      "name": "探索亞洲 (大街)"
     },
     {
       "url": "http://125.227.210.55:8155/VideoInput/play.ts",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "76 緯來體育 (大街)"
+      "name": "緯來體育 (大街)"
     }
   ]
 }
