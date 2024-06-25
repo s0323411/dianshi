@@ -83,3 +83,15 @@ http://61.221.215.25:8800/hls/41/index.m3u8
 http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 ,探索亞洲 (大街)
 http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 ,TVBS HD (大街)
+http://125.227.210.55:8188/VideoInput/play.ts
+#EXTINF:-1 ,TVBS 歡樂台 (大街)
+http://125.227.210.55:8187/VideoInput/play.ts
+#EXTINF:-1 ,CN卡通頻道 (大街)
+http://125.227.210.55:8167/VideoInput/play.ts
+#EXTINF:-1 ,三立臺灣台 (大街)
+http://125.227.210.55:8160/VideoInput/play.ts
+#EXTINF:-1 ,AMC電影臺 (大街)
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 ,緯來精彩 (大街)
+http://61.221.215.25:8800/hls/48/index.m3u8
