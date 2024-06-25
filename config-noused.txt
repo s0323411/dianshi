@@ -1,0 +1,6 @@
+{
+  "list": "https://raw.githubusercontent.com/s0323411/dianshi/main/4G.txt"
+},
+{
+  "list": "https://raw.githubusercontent.com/s0323411/dianshi/main/big.txt"
+},
