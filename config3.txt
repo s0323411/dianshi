@@ -1,17 +1,12 @@
 {
   "channelList": [
     {
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv073?set=1&ch=22",
-      "name": "00 tvbs hd(youtube)"
+      "url": "http://61.221.215.25:8800/hls/40/index.m3u8",
+      "name": "中華小當家(youtube)"
     },
     {
-      "url": "https://www.4gtv.tv/channel/litv-longturn23?set=1&ch=22",
-      "name": "01 寰宇財經台"
-    },
-    {
-      "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
-      "name": "13 非凡新聞 ",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
+      "url": "rtmp://220.130.201.73/sat/tv771",
+      "name": "緯來日本"
     },
     {
       "url": "https://www.youtube.com/watch?v=WTRQiVWK1jY",
