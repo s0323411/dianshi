@@ -1,96 +1,91 @@
 #EXTM3U
-#EXTINF:-1 ,group-title="新聞",TVBS news
+#EXTINF:-1 group-title="新聞",TVBS news
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
-#EXTINF:-1 ,group-title=新聞,三立iNEWS
+#EXTINF:-1 group-title="新聞",三立iNEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-#EXTINF:-1 ,寰宇新聞台
-#EXTINF:-1 ,TVBS news
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
-#EXTINF:-1 ,三立iNEWS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-#EXTINF:-1 ,寰宇新聞台
+#EXTINF:-1 group-title="新聞",寰宇新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 ,寰宇新聞台灣台
+#EXTINF:-1 group-title="新聞",寰宇新聞台灣台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-#EXTINF:-1 ,東森財經新聞
+#EXTINF:-1 group-title="新聞",東森財經新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 ,寰宇財經台
+#EXTINF:-1 group-title="新聞",寰宇財經台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
-#EXTINF:-1 ,中視新聞
+#EXTINF:-1 group-title="新聞",中視新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 ,中天新聞
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/youtube.m3u
-#EXTINF:-1 ,民視新聞台
+#EXTINF:-1 group-title="新聞",中天新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 group-title="新聞",民視新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 ,大愛
+#EXTINF:-1 group-title="新聞",大愛
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
-#EXTINF:-1 ,大愛二台
+#EXTINF:-1 group-title="新聞",大愛二台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
-#EXTINF:-1 ,台視新聞
+#EXTINF:-1 group-title="新聞",台視新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 ,Live 三立
+#EXTINF:-1 group-title="新聞",Live 三立
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 ,CCTV 4 中文國際
+#EXTINF:-1 group-title="新聞",CCTV 4 中文國際
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-#EXTINF:-1 ,CCTV9
+#EXTINF:-1 group-title="新聞",CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 ,TVBS HD 56
+#EXTINF:-1 group-title="新聞",TVBS HD 56
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 ,CCTV13
+#EXTINF:-1 group-title="新聞",CCTV13
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-#EXTINF:-1 ,鳳凰資訊
+#EXTINF:-1 group-title="新聞",鳳凰資訊
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 ,新唐人亞太台
+#EXTINF:-1 group-title="新聞",新唐人亞太台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-#EXTINF:-1 ,鏡新聞
+#EXTINF:-1 group-title="新聞",鏡新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-#EXTINF:-1 ,MIT台灣誌
+#EXTINF:-1 group-title="行腳",MIT台灣誌
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-#EXTINF:-1 ,大陸尋奇
+#EXTINF:-1 group-title="行腳",大陸尋奇
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
-#EXTINF:-1 ,華視HD
+#EXTINF:-1 group-title="新聞",華視HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 ,YOYO TV
+#EXTINF:-1 group-title="綜藝",YOYO TV
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-#EXTINF:-1 ,Taiwan+
+#EXTINF:-1 group-title="新聞",Taiwan+
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:-1 ,飢餓遊戲
+#EXTINF:-1 group-title="綜藝",飢餓遊戲
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
-#EXTINF:-1 ,天才衝衝衝
+#EXTINF:-1 group-title="綜藝",天才衝衝衝
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 ,中台灣生活網
+#EXTINF:-1 group-title="新聞",中台灣生活網
 http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-#EXTINF:-1 ,日本 NHK news
+#EXTINF:-1 group-title="新聞",日本 NHK news
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
-#EXTINF:-1 ,日本ANN news
+#EXTINF:-1 group-title="新聞",日本ANN news
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-#EXTINF:-1 ,日本 MTV
+#EXTINF:-1 group-title="music",日本 MTV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-#EXTINF:-1 ,日本 Music Japan TV
+#EXTINF:-1 group-title="music",日本 Music Japan TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-#EXTINF:-1 ,日本 Space Shower TV
+#EXTINF:-1 group-title="music",日本 Space Shower TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
-#EXTINF:-1 ,Love Nrture「自然」
+#EXTINF:-1 group-title="探索",Love Nrture「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
-#EXTINF:-1 ,全球時尚 Global Fashion Channel
+#EXTINF:-1 group-title="時尚",全球時尚 Global Fashion Channel
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-#EXTINF:-1 ,法國時尚
+#EXTINF:-1 group-title="時尚",法國時尚
 http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-#EXTINF:-1 ,Fashion TV HD
+#EXTINF:-1 group-title="時尚",Fashion TV HD
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,The K-POP
+#EXTINF:-1 group-title="music",The K-POP
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-#EXTINF:-1 ,日本N
+#EXTINF:-1 group-title="新聞",日本N
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-#EXTINF:-1 ,豬哥亮-萬秀豬王
+#EXTINF:-1 group-title="綜藝",豬哥亮-萬秀豬王
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-#EXTINF:-1 ,三立戲劇 (大街)
+#EXTINF:-1 group-title="綜藝",三立戲劇 (大街)
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 ,動物星球 (大街)
+#EXTINF:-1 group-title="探索",動物星球 (大街)
 http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 ,探索亞洲 (大街)
+#EXTINF:-1 group-title="探索",探索亞洲 (大街)
 http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 ,AMC電影臺 (大街)
+#EXTINF:-1 group-title="電影",AMC電影臺 (大街)
 http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 ,緯來精彩 (大街)
+#EXTINF:-1 group-title="綜藝",緯來精彩 (大街)
 http://61.221.215.25:8800/hls/48/index.m3u8
