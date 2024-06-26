@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 #EXTINF:-1 group-title="新聞",CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 group-title="新聞",TVBS HD 56
+#EXTINF:-1 group-title="新聞",TVBS ASIA
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="新聞",CCTV13
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
