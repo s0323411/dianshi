@@ -9,6 +9,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 #EXTINF:-1 group-title="新聞",東森財經新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 group-title="新聞",非凡新聞
+https://bsex.serv00.net/Smart.php?id=feifannews_twn
 #EXTINF:-1 group-title="新聞",寰宇財經台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
 #EXTINF:-1 group-title="新聞",中視新聞
