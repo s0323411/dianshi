@@ -2,108 +2,108 @@
   "channelList": [
     {
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
-      "name": "公視(youtube)"
+      "name": "00 公視(youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
-      "name": "台視 (youtube)"
+      "name": "01 台視 (youtube)"
     },
     {
       "url": "http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "中台灣生活網"
+      "name": "02 中台灣生活網"
     },
     {
       "url": "https://www.youtube.com/watch?v=9d4ggywa01w",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "MIT 台灣誌 (YouTube) "
+      "name": "03 MIT 台灣誌 (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=A98LJq71BZg",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-     "name": "綜藝-飢餓遊戲 (YouTube) "
+     "name": "04 綜藝-飢餓遊戲 (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=o_-hSMgpAzs",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "TVBS HD 56 (VPN youtube)"
+      "name": "05 TVBS HD 56 (VPN youtube)"
     },
     {
       "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "天才衝衝衝"
+      "name": "06 天才衝衝衝"
     },
     {
       "url": "https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "CCTV9 (TVbox)"
+      "name": "07 CCTV9 (TVbox)"
     },
     {
       "url": "https://www.youtube.com/watch?v=s2waUruqze4",
-      "name": "中天亞洲台 (Youtube)"
+      "name": "08 中天亞洲台 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=6KlRR_DGhmI",
-      "name": "公視台語台 (Youtube)"
+      "name": "09 公視台語台 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=oV_i3Hsl_zg",
-      "name": "大愛一臺 (Youtube)"
+      "name": "10 大愛一臺 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
-      "name": "大愛二臺 (Youtube)"
+      "name": "11 大愛二臺 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=WHEPzbFA3hw",
-      "name": "東森財經 (Youtube)"
+      "name": "12 東森財經 (Youtube)"
     },
     {
       "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
-      "name": "非凡新聞 ",
+      "name": "13 非凡新聞 ",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
       "url": "https://www.youtube.com/watch?v=WTRQiVWK1jY",
-      "name": "寰宇財經台 (Youtube)"
+      "name": "14 寰宇財經台 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
-      "name": "台視新聞 (YouTube) "
+      "name": "15 台視新聞 (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=TCnaIE_SAtM",
-      "name": "中視新聞 (YouTube) "
+      "name": "16 中視新聞 (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
-      "name": "華視新聞  (YouTube) "
+      "name": "17 華視新聞  (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
-      "name": "民視新聞 (YouTube) "
+      "name": "18 民視新聞 (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=oIgbl7t0S_w",
-      "name": "中天新聞  (YouTube) "
+      "name": "19 中天新聞  (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
-      "name": "東森新聞  (YouTube) "
+      "name": "20 東森新聞  (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
-      "name": "TVBS 新聞 (YouTube) "
+      "name": "21 TVBS 新聞 (YouTube) "
     },
     {
       "url": "http://125.227.210.55:8188/VideoInput/play.ts",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "TVBS HD(大街)"
+      "name": "22 TVBS HD(大街)"
     },
     {
       "url": "https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "CCTV13 (TV box)"
+      "name": "23 CCTV13 (TV box)"
     },
     {
       "url": "https://www.youtube.com/watch?v=NhZXUwlY2dU",
@@ -111,50 +111,50 @@
     },
     {
       "url": "https://www.youtube.com/watch?v=w87VGpgd90U",
-      "name": "寰宇新聞台灣台 (Youtube)"
+      "name": "24 寰宇新聞台灣台 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=twhG7_jvA8g",
-      "name": "CCTV 4 中文國際 (youtube)"
+      "name": "25 CCTV 4 中文國際 (youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=HFib76ySpbU",
-      "name": "鳳凰衛視資訊台 (youtube)"
+      "name": "26 鳳凰衛視資訊台 (youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=iyOq8DhaMYw",
-      "name": "彭博商業新聞 Bloomberg Business News (youtube)"
+      "name": "27 彭博商業新聞 Bloomberg Business News (youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=oZdzzvxTfUY",
-      "name": "三立新聞 (youtube)"
+      "name": "28 三立新聞 (youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
-      "name": "鏡新聞 (Youtube)"
+      "name": "29 鏡新聞 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=WIhgU_mc05A",
-      "name": "新唐人亞太台 (Youtube)"
+      "name": "30 新唐人亞太台 (Youtube)"
     },
     {
       "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8",
-      "name": "豬哥亮-萬秀豬王(Youtube)"
+      "name": "31 豬哥亮-萬秀豬王(Youtube)"
     },
     {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "日本 NHK news"
+      "name": "32 日本 NHK news"
     },   
     {
       "url": "https://www.youtube.com/watch?v=fl1iFkAWcVU",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "大陸尋奇 (youtube)"
+      "name": "33 大陸尋奇 (youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=V0eNcTH0LDo",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "GPTV電影台 (YouTube) "
+      "name": "34 GPTV電影台 (YouTube) "
     },
 {
   "list": "https://raw.githubusercontent.com/s0323411/dianshi/main/big.txt"
