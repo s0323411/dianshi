@@ -1,7 +1,7 @@
 {
   "channelList": [
-	      {
-	      "name": "K-POP"
+ {
+"name": "K-POP",
       "uris": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8"
     },
     {
@@ -12,7 +12,7 @@
       "name": "01 台視 (youtube)",
       "uris": "https://www.youtube.com/watch?v=uDqQo8a7Xmk"
     },
-	    {
+{
       "name": "中視 (四季)",
 	        "uris": "https://www.4gtv.tv/channel/4gtv-4gtv040?set=4&ch=4"
     },
