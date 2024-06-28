@@ -16,6 +16,7 @@
     {
       "isHidden":"true",
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
+      "ytdl-format": "best[height<=720]",
       "name": "00 公視(youtube)"
     },
     {
