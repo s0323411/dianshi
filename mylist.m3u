@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="新聞",愛爾達1
-https://bsex.serv00.net/Smart.php?id=eltasport_twn
 #EXTINF:-1 group-title="新聞",TVBS news
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 #EXTINF:-1 group-title="新聞",三立iNEWS
