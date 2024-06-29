@@ -1,41 +1,8 @@
 {
   "channelList": [
     {
-      "url": "http://125.227.210.55:8188/VideoInput/play.ts",
-      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "22 TVBS HD(大街)"
-    },
-    {
-      "url": "http://125.227.210.55:8188/VideoInput/play.ts",
-      "name": "22 TVBS HD(大街)"
-    },
-    {
-      "url": "http://125.227.210.55:8188/VideoInput/play.ts",
-"ytdl-format": "bv*[height<=720]+ba",
-      "name": "22 TVBS HD(大街)"
-    },
-    {
-      "url": "http://125.227.210.55:8188/VideoInput/play.ts",
-      "ytdl-format": "best[height<=720]",
-      "name": "22 TVBS HD(大街)"
-    },
-    {
-      "isHidden":true,
-      "url": "https://www.youtube.com/watch?v=WTRQiVWK1jY",
-	    "volume": 2.0,
-"ytdl-format": "bv*[height<=720]+ba",
-      "name": "14 寰宇財經台 (Youtube)"
-    },
-    {
-      "isHidden":"true",
-      "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
-      "ytdl-format": "best[height<=720]",
-      "name": "00 公視(youtube)"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
-      "name": "01 台視 (youtube)",
-      "isHidden":"true"
+      "url": "https://bsex.serv00.net/Smart.php?id=eltasport_twn",
+      "name": "體育台()"
     },
     {
       "url": "https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8",
