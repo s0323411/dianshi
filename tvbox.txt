@@ -15,9 +15,9 @@ ELTA體育4,https://z02.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726e
 霹靂臺灣,https://z02.ubtvfans.com/live/rx1/1339/dc0e1c8cbd8e6a408cff222ea4bd4750/index.m3u8
 愛爾達影劇,https://z02.ubtvfans.com/live/rx1/500/5f8bfd4a17c22bcd9d1840894929112c/index.m3u8
 民視台灣,https://z02.ubtvfans.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8
-中天新闻台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
 中天新闻台,https://bsex.serv00.net/Smart.php?id=ctinews
-中天新闻台,https://z02.ubtvfans.com/live/rx6/2420/82fd118bff7d1de735a8e9bce8756b8d/index.m3u8
+中天新聞台,https://bsex.serv00.net/Smart.php?id=ctinews
+
 
 
 
