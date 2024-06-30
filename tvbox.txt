@@ -17,6 +17,8 @@ ELTA體育4,https://z02.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726e
 民視台灣,https://z02.ubtvfans.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8
 中天新闻台,https://bsex.serv00.net/Smart.php?id=ctinews
 中天新聞台,https://bsex.serv00.net/Smart.php?id=ctinews
+大愛一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+大愛二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 
 
 
