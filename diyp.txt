@@ -15,7 +15,6 @@
 東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 非凡商業台,https://z02.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 非凡商業台,https://bsex.serv00.net/Smart.php?id=feifannews_twn
-中天新聞台,https://z02.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
 中天新聞台,https://bsex.serv00.net/Smart.php?id=ctinews
 TVBS新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 TVBS,https://z02.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
@@ -193,7 +192,6 @@ Fashion TV HD,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 非凡商業台,https://z02.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 非凡商業台,https://bsex.serv00.net/Smart.php?id=feifannews_twn
-中天新聞台,https://z02.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
 中天新聞台,https://bsex.serv00.net/Smart.php?id=ctinews
 TVBS新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 TVBS,https://z02.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
