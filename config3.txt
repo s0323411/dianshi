@@ -1,8 +1,9 @@
 {
   "channelList": [
     {
-      "url": "https://bsex.serv00.net/Smart.php?id=eltasport_twn",
-      "name": "體育台()"
+      "url": "https://z02.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "22 TVBS HD (BOX)"
     },
     {
       "url": "https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8",
