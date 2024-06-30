@@ -79,8 +79,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
 #EXTINF:-1 group-title="綜藝",豬哥亮-萬秀豬王
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-#EXTINF:-1 group-title="綜藝",三立戲劇 (大街)
-http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 group-title="探索",動物星球 (大街)
 http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 group-title="探索",探索亞洲 (大街)
