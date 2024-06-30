@@ -1,4 +1,5 @@
 全部,#genre#
+公視,https://z02.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 民視台灣,https://z02.ubtvfans.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8
 華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
@@ -9,8 +10,12 @@
 民視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 大愛一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 大愛二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+東森財經新聞台,https://z02.ubtvfans.com/live/rx2/12/79e2953f288da7484cd18641c899c9d6/index.m3u8
+東森財經新聞台,https://bsex.serv00.net/Smart.php?id=ettvcaijing_twn
 東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-非凡新聞台,https://bsex.serv00.net/Smart.php?id=feifannews_twn
+非凡商業台,https://z02.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
+非凡商業台,https://bsex.serv00.net/Smart.php?id=feifannews_twn
+中天新聞台,https://z02.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
 中天新聞台,https://bsex.serv00.net/Smart.php?id=ctinews
 TVBS新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 TVBS,https://z02.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
@@ -33,7 +38,6 @@ Live 三立,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 華視,https://z02.ubtvfans.com/live/rx1/32/4a8ce7de4c89b0973b2ec986c911be1d/index.m3u8
 華視,https://z02.ubtvfans.com/live/rx3/2282/bcc847bd9d42841c571dc55050071613/index.m3u8
 民視,https://z02.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
-公視,https://z02.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
 
 CCTV4,https://z02.ubtvfans.com/live/rx3/203/a90506bab6678c2b41ef34ae66a04425/index.m3u8
 CCTV4,https://z02.ubtvfans.com/live/rx1/2764/5dab88f91c31d691a2ec082226404cf1/index.m3u8
@@ -173,6 +177,7 @@ Fashion TV HD,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 法國時裝,https://z02.ubtvfans.com/live/rx3/2287/a999781167a6cc9754720051c0f4ffc9/index.m3u8
 
 新聞,#genre#
+公視,https://z02.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
 台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 民視台灣,https://z02.ubtvfans.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8
 華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
@@ -183,8 +188,12 @@ Fashion TV HD,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 民視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 大愛一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 大愛二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+東森財經新聞台,https://z02.ubtvfans.com/live/rx2/12/79e2953f288da7484cd18641c899c9d6/index.m3u8
+東森財經新聞台,https://bsex.serv00.net/Smart.php?id=ettvcaijing_twn
 東森財經新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-非凡新聞台,https://bsex.serv00.net/Smart.php?id=feifannews_twn
+非凡商業台,https://z02.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
+非凡商業台,https://bsex.serv00.net/Smart.php?id=feifannews_twn
+中天新聞台,https://z02.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
 中天新聞台,https://bsex.serv00.net/Smart.php?id=ctinews
 TVBS新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 TVBS,https://z02.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
