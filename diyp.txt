@@ -1,0 +1,39 @@
+新聞,#genre#
+TVBS新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新聞台灣台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+非凡新聞,https://bsex.serv00.net/Smart.php?id=feifannews_twn
+寰宇財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
+中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+民視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+大愛一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+大愛二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+台視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+Live 三立,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+CCTV 4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+鳳凰資訊,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+新唐人亞太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+
+CCTV央視,#genre#
+CCTV 4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+
+
+綜藝,#genre#
+飢餓遊戲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
+天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+TVBS ASIA,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+
+MTV,#genre#
+日本 MTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+日本 Music Japan TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+日本 Space Shower TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
