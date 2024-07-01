@@ -105,30 +105,14 @@
       "url": "https://z02.ubtvfans.com/live/rx1/464/b220950d6a761830e9bb11712b0c136e/index.m3u8",
 	   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)"
     },
-
 {
       "name": "國興衛視",
       "url": "https://z02.ubtvfans.com/live/rx1/65/512600edc0968aef5fac5f0cc1195023/index.m3u8",
 	   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)"
     },
 {
-      "name": "ELTA娛樂台",
-      "url": "https://z02.ubtvfans.com/live/rx1/351/1db9ab4c9c436100d700384de733dd09/index.m3u8",
-	   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)"
-    },
-{
       "name": "TVBS ASIA",
       "url": "http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8",
-	   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)"
-    },
-{
-      "name": "八大第一台",
-      "url": "https://z02.ubtvfans.com/live/rx1/318/caf30fed70d5227d71cf045a1d212005/index.m3u8",
-	   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)"
-    },
-{
-      "name": "八大綜合台",
-      "url": "https://z02.ubtvfans.com/live/rx1/2286/9e0b6a5f3fd84c07dd7288d97fefe1be/index.m3u8",
 	   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)"
     },
 {
@@ -192,11 +176,6 @@
 	   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)"
     },
 {
-      "name": "TVBS精采",
-      "url": "https://z02.ubtvfans.com/live/rx3/117/f48d0361091239ad170c5d8185ae50a9/index.m3u8",
-	   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)"
-    },
-{
       "name": "ELTA綜合",
       "url": "https://z02.ubtvfans.com/live/rx1/1137/455e0be7cd7ab0521eec0689b889ea28/index.m3u8",
 	   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)"
@@ -204,11 +183,6 @@
 {
       "name": "緯來日本",
       "url": "https://z02.ubtvfans.com/live/rx1/337/035c2937fcd367625255344bb95d7bc0/index.m3u8",
-	        "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)"
-    },
-{
-      "name": "霹靂臺灣",
-      "url": "https://z02.ubtvfans.com/live/rx1/1339/dc0e1c8cbd8e6a408cff222ea4bd4750/index.m3u8",
 	        "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)"
     },
 {
