@@ -20,8 +20,8 @@ TVBS新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 TVBS,https://z02.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS,https://bsex.serv00.net/Smart.php?id=tvbs
 CCTV 4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+CCTV9,https://z02.ubtvfans.com/live/rx1/2308/b9274dbd51113ace3244a6927beeeca3/index.m3u8
+CCTV13,https://z02.ubtvfans.com/live/rx1/213/4985ed10e25b72869efa7f2f7b839f1a/index.m3u8
 鳳凰資訊,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 新唐人亞太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
