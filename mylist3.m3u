@@ -107,7 +107,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 #EXTINF:-1 group-title="綜藝" ,Z頻道
 https://z02.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/index.m3u8
-#EXTINF:-1 group-title="電影" ,HBO
+#EXTINF:-1 group-title="電影" ,HBOHD
 https://z02.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 #EXTINF:-1 group-title="電影" ,AMC
 https://z02.ubtvfans.com/live/rx3/84/acac731ceec85d9eb9c848e304432841/index.m3u8
