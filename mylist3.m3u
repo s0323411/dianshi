@@ -20,11 +20,11 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 #EXTINF:-1 group-title="新聞" ,大愛二台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 #EXTINF:-1 group-title="新聞" ,東森財經新聞台
-https://bsex.serv00.net/Smart.php?id=ettvcaijing_twn
+https://z02.ubtvfans.com/live/rx2/12/79e2953f288da7484cd18641c899c9d6/index.m3u8
 #EXTINF:-1 group-title="新聞" ,非凡商業台
-https://bsex.serv00.net/Smart.php?id=feifannews_twn
+https://z02.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
 #EXTINF:-1 group-title="新聞" ,中天新聞台
-https://bsex.serv00.net/Smart.php?id=ctinews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 group-title="新聞" ,TVBS新聞台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 #EXTINF:-1 group-title="新聞" ,TVBS
