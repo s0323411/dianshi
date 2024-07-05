@@ -5,8 +5,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 https://z02.ubtvfans.com/live/rx1/36/5c8794bb35c77bc62b0f2cf402294053/index.m3u8
 #EXTINF:-1 group-title="新聞" ,中天youtube
 https://www.youtube.com/watch?v=oIgbl7t0S_w
-#EXTINF:-1 group-title="新聞" ,夢幻之星播放清單youtube
-https://www.youtube.com/playlist?list=PL12UaAf_xzfo6RvoWcPzVck7GnDo9L9NY
 #EXTINF:-1 group-title="新聞" ,華視
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 group-title="新聞" ,寰宇新聞台
