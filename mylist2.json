@@ -1,0 +1,10 @@
+{
+  "lives": [
+    {
+      "name": "M3U",
+      "url": "https://github.com/s0323411/dianshi/raw/main/mylist4.m3u",
+	  "epg": "https://raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}
