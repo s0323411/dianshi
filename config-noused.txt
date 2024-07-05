@@ -20,3 +20,8 @@
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "TVBS HD 56 (暫時)"
     },
+    {
+      "url": "https://node1.olelive.com:6443/live/CCTV09HD/hls.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "06 CCTV9 (TVbox)"
+    },
