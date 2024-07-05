@@ -1,0 +1,33 @@
+youtube 直播,#genre#
+公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
+台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
+華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+中天亞洲台,https://www.youtube.com/watch?v=s2waUruqze4
+公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
+大愛一臺,https://www.youtube.com/watch?v=oV_i3Hsl_zg
+大愛二臺,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
+寰宇財經台,https://www.youtube.com/watch?v=WTRQiVWK1jY
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+TVBS 新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
+TVBS 56,https://z02.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
+寰宇新聞,https://www.youtube.com/watch?v=NhZXUwlY2dU
+寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
+CCTV 4 中文國際,https://www.youtube.com/watch?v=twhG7_jvA8g
+鳳凰衛視資訊台,https://www.youtube.com/watch?v=HFib76ySpbU
+彭博商業新聞,https://www.youtube.com/watch?v=iyOq8DhaMYw
+三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+新唐人亞太台,https://www.youtube.com/watch?v=WIhgU_mc05A
+豬哥亮-萬秀豬王,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+MIT 台灣誌,https://www.youtube.com/watch?v=9d4ggywa01w
+飢餓遊戲,https://www.youtube.com/watch?v=A98LJq71BZg
+大陸尋奇,https://www.youtube.com/watch?v=fl1iFkAWcVU
+GPTV電影台,https://www.youtube.com/watch?v=V0eNcTH0LDo
+K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
