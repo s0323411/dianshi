@@ -2,7 +2,7 @@
   "lives": [
     {
       "name": "M3U",
-      "url": "https://github.com/s0323411/dianshi/raw/main/mylist4.m3u",
+      "url": "https://github.com/s0323411/dianshi/raw/main/mylist3.m3u",
 	  "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
