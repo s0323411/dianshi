@@ -101,9 +101,9 @@
       "name": "22 TVBS HD(BOX)"
     },
     {
-      "url": "https://z02.ubtvfans.com/live/rx1/213/4985ed10e25b72869efa7f2f7b839f1a/index.m3u8",
+      "url": "http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-xw_4000.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "23 CCTV13 (TV box)"
+      "name": "23 CCTV13 (TV 4K)"
     },
     {
       "url": "https://www.youtube.com/watch?v=NhZXUwlY2dU",
