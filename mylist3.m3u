@@ -34,8 +34,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 #EXTINF:-1 group-title="新聞" ,CCTV9
 https://z02.ubtvfans.com/live/rx1/2308/b9274dbd51113ace3244a6927beeeca3/index.m3u8
 #EXTINF:-1 group-title="新聞" ,CCTV13
-http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-xw_4000.m3u8
-#EXTINF:-1 group-title="新聞" ,CCTV13
 https://z02.ubtvfans.com/live/rx1/213/4985ed10e25b72869efa7f2f7b839f1a/index.m3u8
 #EXTINF:-1 group-title="新聞" ,鳳凰資訊
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
