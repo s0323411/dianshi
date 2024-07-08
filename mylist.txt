@@ -23,6 +23,7 @@ MIT 台灣誌,https://www.youtube.com/watch?v=9d4ggywa01w
 TVBS 新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS 56,https://z02.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
 TVBS 56,http://125.227.210.55:8188/VideoInput/play.ts
+TVBS 56,https://www.youtube.com/watch?v=o_-hSMgpAzs
 CCTV13,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-xw_4000.m3u8
 CCTV13,https://z02.ubtvfans.com/live/rx1/213/4985ed10e25b72869efa7f2f7b839f1a/index.m3u8
 寰宇新聞,https://www.youtube.com/watch?v=NhZXUwlY2dU
