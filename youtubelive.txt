@@ -7,6 +7,7 @@ youtube 直播,#genre#
 大愛一臺,https://www.youtube.com/watch?v=oV_i3Hsl_zg
 大愛二臺,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
+非凡商業台,https://www.youtube.com/watch?v=QlJJEwMYzEc
 寰宇財經台,https://www.youtube.com/watch?v=WTRQiVWK1jY
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
