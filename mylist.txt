@@ -3,7 +3,7 @@
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-MIT 台灣誌,https://www.youtube.com/watch?v=9d4ggywa01w
+MIT 台灣誌,https://www.youtube.com/watch?v=jgn5KR-Kqrc
 飢餓遊戲,https://www.youtube.com/watch?v=A98LJq71BZg
 天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 中天亞洲台,https://www.youtube.com/watch?v=MJFaJER4Qxo
@@ -70,9 +70,9 @@ ELTA綜合,https://z02.ubtvfans.com/live/rx1/1137/455e0be7cd7ab0521eec0689b889ea
 TVBS歡樂,https://z02.ubtvfans.com/live/rx1/40/ab8e4c8b1b495ed575b69c9ed3fe1f72/index.m3u8
 TVBS精采,https://z02.ubtvfans.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539/index.m3u8
 TVBS精采,https://z02.ubtvfans.com/live/rx3/117/f48d0361091239ad170c5d8185ae50a9/index.m3u8
-MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+MIT台灣誌,https://www.youtube.com/watch?v=jgn5KR-Kqrc
+大陸尋奇,https://www.youtube.com/watch?v=OVdLUlVHFMI
 大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
-大陸尋奇,https://www.youtube.com/watch?v=fl1iFkAWcVU
 豬哥亮-萬秀豬王,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 八大第一台,https://z02.ubtvfans.com/live/rx1/318/caf30fed70d5227d71cf045a1d212005/index.m3u8
 八大綜合台,https://z02.ubtvfans.com/live/rx1/2286/9e0b6a5f3fd84c07dd7288d97fefe1be/index.m3u8
@@ -87,6 +87,7 @@ MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 中天綜合,https://z02.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
 中天綜合,https://z02.ubtvfans.com/live/rx1/3072/545c68b12b7da5ddad698af533934093/index.m3u8
 中天娛樂,https://z02.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
+中天亞洲台,https://www.youtube.com/watch?v=MJFaJER4Qxo
 中天亞洲,https://z02.ubtvfans.com/live/rx1/322/b51b8d02c207db98c44228186a5310b1/index.m3u8
 緯來育樂,https://z02.ubtvfans.com/live/rx1/338/24e3230f2c9205c6307b25e118377967/index.m3u8
 高點綜合,https://z02.ubtvfans.com/live/rx1/99/1e23ead149cd0776368080a32b2a2279/index.m3u8
