@@ -9,7 +9,9 @@ MIT 台灣誌,https://www.youtube.com/watch?v=jgn5KR-Kqrc
 中天亞洲台,https://www.youtube.com/watch?v=MJFaJER4Qxo
 公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
 大愛一臺,https://www.youtube.com/watch?v=oV_i3Hsl_zg
+大愛一臺,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 大愛二臺,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+大愛二臺,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 非凡商業台,https://www.youtube.com/watch?v=QlJJEwMYzEc
 非凡商業台,https://z02.ubtvfans.com/live/rx1/2795/a4ae6e13e7f16f622f1c1aafe365df30/index.m3u8
