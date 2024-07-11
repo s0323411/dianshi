@@ -29,6 +29,7 @@ CCTV13,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-xw_4000.m3u8
 寰宇新聞,https://www.youtube.com/watch?v=NhZXUwlY2dU
 寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
 CCTV4,https://www.youtube.com/watch?v=twhG7_jvA8g
+CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=HFib76ySpbU
 彭博商業新聞,https://www.youtube.com/watch?v=iyOq8DhaMYw
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
@@ -37,25 +38,11 @@ CCTV4,https://www.youtube.com/watch?v=twhG7_jvA8g
 日本 NHK news,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 日本ANN news,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 
-電視,#genre#
-台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
-中視,https://z02.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
-中視,https://z02.ubtvfans.com/live/rx3/1041/81c6691f6fb1e56af0e5514d863aa4bc/index.m3u8
-華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-華視,https://z02.ubtvfans.com/live/rx1/32/4a8ce7de4c89b0973b2ec986c911be1d/index.m3u8
-華視,https://z02.ubtvfans.com/live/rx3/2282/bcc847bd9d42841c571dc55050071613/index.m3u8
-民視,https://z02.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
-公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
-
-CCTV央視,#genre#
-CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-CCTV13,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-xw_4000.m3u8
-
 綜藝,#genre#
 MIT台灣誌,https://www.youtube.com/watch?v=jgn5KR-Kqrc
 大陸尋奇,https://www.youtube.com/watch?v=OVdLUlVHFMI
 大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
-豬哥亮-萬秀豬王,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+萬秀豬王,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 豬哥會社,https://www.youtube.com/watch?v=0aBJU1mFpsk
 TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
 八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
@@ -78,12 +65,15 @@ CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 
 體育,#genre#
 緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts
+CCTV5,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8?2024奥运
+CCTV5+,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8?2024奥运
 
 探索,#genre#
 Love Nrture「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
 探索亞洲,http://125.227.210.55:8154/VideoInput/play.ts
+CCTV9,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8
 
 幼幼、卡通,#genre#
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
