@@ -30,7 +30,7 @@ CCTV13,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-xw_4000.m3u8
 CCTV13,https://z02.ubtvfans.com/live/rx1/213/4985ed10e25b72869efa7f2f7b839f1a/index.m3u8
 寰宇新聞,https://www.youtube.com/watch?v=NhZXUwlY2dU
 寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
-CCTV 4 中文國際,https://www.youtube.com/watch?v=twhG7_jvA8g
+CCTV4,https://www.youtube.com/watch?v=twhG7_jvA8g
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=HFib76ySpbU
 彭博商業新聞,https://www.youtube.com/watch?v=iyOq8DhaMYw
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
@@ -108,8 +108,6 @@ Z頻道,https://z02.ubtvfans.com/live/rx1/1130/7b09abb359d262a0d47b9c0a204cfc09/
 三立戲劇,https://z02.ubtvfans.com/live/rx1/2819/bdd3f93feceb62d903b34ac62a1f2b16/index.m3u8
 公視戲劇,https://z02.ubtvfans.com/live/rx1/69/ecb55b32f14005528db930c685772f14/index.m3u8
 霹靂臺灣,https://z02.ubtvfans.com/live/rx1/1339/dc0e1c8cbd8e6a408cff222ea4bd4750/index.m3u8
-愛爾達影劇,https://z02.ubtvfans.com/live/rx1/500/5f8bfd4a17c22bcd9d1840894929112c/index.m3u8
-龍華日韓,https://z02.ubtvfans.com/live/rx1/382/897ab118ac4987dd9fb8743cdef65216/index.m3u8
 東森戲劇,https://z02.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
 東森戲劇,https://z02.ubtvfans.com/live/rx1/321/12c06b14bb78a7a24864a9716e0ace8e/index.m3u8
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
