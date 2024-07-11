@@ -79,7 +79,6 @@ CCTV9,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
 蠟筆小新,https://www.youtube.com/watch?v=_jP5o1W3eW0
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
-東森超視幼兒,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
 
 MTV,#genre#
