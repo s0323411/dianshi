@@ -91,5 +91,4 @@ The K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 全球時尚 Global Fashion Channel,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 法國時尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 Fashion TV HD,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-法國時裝,https://z02.ubtvfans.com/live/rx3/2287/a999781167a6cc9754720051c0f4ffc9/index.m3u8
 
