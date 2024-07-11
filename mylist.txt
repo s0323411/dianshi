@@ -54,12 +54,6 @@ TVBS亞洲台,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 日本 NHK,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 
-戲劇,#genre#
-三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
-八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
-民視戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
-華視懷舊戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-
 電影,#genre#
 GPTV電影台,https://www.youtube.com/watch?v=V0eNcTH0LDo
 HBOHD,http://125.227.210.55:8153/VideoInput/play.ts
@@ -84,6 +78,12 @@ CCTV9,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
 YOYO TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+
+戲劇,#genre#
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+民視戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+華視懷舊戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 
 MTV,#genre#
 日本 MTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
