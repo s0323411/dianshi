@@ -6,7 +6,7 @@
 彭博商業新聞,https://www.youtube.com/watch?v=iyOq8DhaMYw
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 新唐人亞太台,https://www.youtube.com/watch?v=WIhgU_mc05A
-日本 NHK news,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+日本ANN news,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
 大愛一臺,https://www.youtube.com/watch?v=oV_i3Hsl_zg
 大愛一臺,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
@@ -32,7 +32,7 @@ CCTV4,https://www.youtube.com/watch?v=twhG7_jvA8g
 CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=HFib76ySpbU
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
-日本ANN news,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+
 
 綜藝,#genre#
 MIT台灣誌,https://www.youtube.com/watch?v=jgn5KR-Kqrc
@@ -48,6 +48,7 @@ TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
 中天亞洲台,https://www.youtube.com/watch?v=MJFaJER4Qxo
 飢餓遊戲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
 天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+日本 NHK,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 
 戲劇,#genre#
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
