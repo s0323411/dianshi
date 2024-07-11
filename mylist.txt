@@ -1,7 +1,7 @@
 新聞,#genre#
 公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
-華視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+運通財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 彭博商業新聞,https://www.youtube.com/watch?v=iyOq8DhaMYw
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -28,6 +28,7 @@ TVBS 56,https://www.youtube.com/watch?v=o_-hSMgpAzs
 CCTV13,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-xw_4000.m3u8
 寰宇新聞,https://www.youtube.com/watch?v=NhZXUwlY2dU
 寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
+中天二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 CCTV4,https://www.youtube.com/watch?v=twhG7_jvA8g
 CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=HFib76ySpbU
@@ -56,6 +57,8 @@ TVBS亞洲台,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 戲劇,#genre#
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+民視戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+華視懷舊戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 
 電影,#genre#
 GPTV電影台,https://www.youtube.com/watch?v=V0eNcTH0LDo
@@ -80,6 +83,7 @@ CCTV9,http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8
 蠟筆小新,https://www.youtube.com/watch?v=_jP5o1W3eW0
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
+YOYO TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 
 MTV,#genre#
 日本 MTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
