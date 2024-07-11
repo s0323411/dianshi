@@ -53,7 +53,7 @@ CCTV 4 中文國際,https://www.youtube.com/watch?v=twhG7_jvA8g
 公視,https://z02.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
 
 CCTV央視,#genre#
-CCTV 4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 CCTV4,https://z02.ubtvfans.com/live/rx1/2764/5dab88f91c31d691a2ec082226404cf1/index.m3u8
 CCTV4,https://z02.ubtvfans.com/live/rx3/203/a90506bab6678c2b41ef34ae66a04425/index.m3u8
 CCTV5,https://z02.ubtvfans.com/live/rx1/2760/ef7b429ab611f4f754b38762aeaee07c/index.m3u8
