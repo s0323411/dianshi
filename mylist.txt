@@ -85,6 +85,14 @@ YOYO TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
 民視戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
 華視懷舊戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+雍正王朝,https://www.youtube.com/watch?v=8jcPXx-dRCs
+琅琊榜,https://www.youtube.com/watch?v=u1uU2AzsD0k
+濟公,https://www.youtube.com/watch?v=oiFivtD5pRE
+新兵日記,https://www.youtube.com/watch?v=032kEdR9Lic
+廉政英雄,https://www.youtube.com/watch?v=b35xJXmJ-8I
+藍色水玲瓏,https://www.youtube.com/watch?v=rTcTVZBZtYs
+小資女孩,https://www.youtube.com/watch?v=nrdq4Xskufc
+我和我們在一起,https://www.youtube.com/watch?v=FdoVTSTSMho
 
 MTV,#genre#
 日本 MTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
