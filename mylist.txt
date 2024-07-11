@@ -38,6 +38,7 @@ CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 MIT台灣誌,https://www.youtube.com/watch?v=jgn5KR-Kqrc
 大陸尋奇,https://www.youtube.com/watch?v=OVdLUlVHFMI
 大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+天王豬哥秀,https://www.youtube.com/watch?v=IsFtLpSuf_g
 萬秀豬王,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 豬哥會社,https://www.youtube.com/watch?v=0aBJU1mFpsk
 TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
