@@ -13,7 +13,8 @@
 大愛二臺,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 大愛二臺,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
-非凡商業台,https://www.youtube.com/watch?v=QlJJEwMYzEc
+非凡新聞台,https://www.youtube.com/watch?v=QlJJEwMYzEc
+非凡新聞台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1013
 寰宇財經台,https://www.youtube.com/watch?v=WTRQiVWK1jY
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
@@ -42,31 +43,52 @@ MIT台灣誌,https://www.youtube.com/watch?v=jgn5KR-Kqrc
 萬秀豬王,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 豬哥會社,https://www.youtube.com/watch?v=0aBJU1mFpsk
 TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
+TVBS歡樂台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1018
 TVBS亞洲台,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
+八大第一台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1043
 八大綜合台,http://61.221.215.25:8800/hls/56/index.m3u8
+八大綜合台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1019
 緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 三立臺灣台,http://125.227.210.55:8160/VideoInput/play.ts
+三立臺灣台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1021
+三立都會台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1020
+中天綜合台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1022
+中天娛樂台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1023
 中天亞洲台,https://www.youtube.com/watch?v=MJFaJER4Qxo
 飢餓遊戲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
 天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 沒完沒了,https://www.youtube.com/watch?v=HGzIAC5pWr4
+緯來日本台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1026
+緯來綜合台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1044
+緯來育樂台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1045
 日本 NHK,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 
 電影,#genre#
 GPTV電影台,https://www.youtube.com/watch?v=V0eNcTH0LDo
 HBOHD,http://125.227.210.55:8153/VideoInput/play.ts
+HBOHD,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1029
 AMC,http://61.221.215.25:8800/hls/43/index.m3u8
+AMC,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1032
+AXN,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1054
 CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
+CINEMAX,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1030
+好萊塢電影台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1025
+龍華電影台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1677
+緯來電影台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1183
 
 體育,#genre#
 緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts
+緯來體育台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1011
 
 探索,#genre#
 Love Nrture「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+動物星球,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1004
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
 探索亞洲,http://125.227.210.55:8154/VideoInput/play.ts
+探索亞洲,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1002
+亞洲旅遊,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1219
 
 幼幼、卡通,#genre#
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
@@ -78,6 +100,11 @@ YOYO TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 戲劇,#genre#
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+東森戲劇台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1042
+八大戲劇台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1057
+龍華戲劇台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1671
+龍華日韓劇,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1672
+龍華偶像劇,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1673
 民視戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
 華視懷舊戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 雍正王朝,https://www.youtube.com/watch?v=8jcPXx-dRCs
