@@ -24,7 +24,7 @@
 TVBS 新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS 56,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS 56,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1668
-TVBS 56,https://www.youtube.com/watch?v=o_-hSMgpAzs
+TVBS 56,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1052
 CCTV13,https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
 CCTV13,http://cdn.jdshipin.com:8880/ysp.php?id=cctv13
 寰宇新聞,https://www.youtube.com/watch?v=NhZXUwlY2dU
@@ -105,3 +105,5 @@ The K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 法國時尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 Fashion TV HD,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+VPN,#genre#
+TVBS 56,https://www.youtube.com/watch?v=o_-hSMgpAzs
