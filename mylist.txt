@@ -25,7 +25,6 @@ TVBS 新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS 56,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS 56,https://www.youtube.com/watch?v=o_-hSMgpAzs
 CCTV13,http://cdn.jdshipin.com:8880/ysp.php?id=cctv13
-CCTV13,https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
 寰宇新聞,https://www.youtube.com/watch?v=NhZXUwlY2dU
 寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
 中天二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
