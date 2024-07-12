@@ -23,8 +23,8 @@
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 TVBS 新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVBS 56,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS 56,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1668
+TVBS 56,http://125.227.210.55:8188/VideoInput/play.ts
 CCTV13,https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
 寰宇新聞,https://www.youtube.com/watch?v=NhZXUwlY2dU
 寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
@@ -33,7 +33,6 @@ CCTV4,https://www.youtube.com/watch?v=twhG7_jvA8g
 CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=HFib76ySpbU
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
-
 
 綜藝,#genre#
 MIT台灣誌,https://www.youtube.com/watch?v=jgn5KR-Kqrc
