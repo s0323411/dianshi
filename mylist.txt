@@ -24,7 +24,6 @@
 TVBS 新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS 56,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS 56,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1668
-TVBS 56,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1052
 CCTV13,https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
 CCTV13,http://cdn.jdshipin.com:8880/ysp.php?id=cctv13
 寰宇新聞,https://www.youtube.com/watch?v=NhZXUwlY2dU
