@@ -100,7 +100,7 @@
       "name": "22 TVBS HD(BOX)"
     },
     {
-      "url": "http://cdn.jdshipin.com:8880/ysp.php?id=cctv13",
+      "url": "https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "23 CCTV13 (TV)"
     },
