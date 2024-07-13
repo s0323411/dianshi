@@ -96,6 +96,7 @@ YOYO TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
 
 MTV,#genre#
+MTV,https://bsex.serv00.net/Smart.php?id=mtvhd_twn
 日本 MTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 日本 Music Japan TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 日本 Space Shower TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
