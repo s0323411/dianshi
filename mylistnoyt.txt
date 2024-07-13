@@ -50,7 +50,6 @@ TVBS亞洲台,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 日本 NHK,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 
 電影,#genre#
-GPTV電影台,https://www.youtube.com/watch?v=V0eNcTH0LDo
 HBO,https://bsex.serv00.net/Smart.php?id=hbohd_twn
 AXN,https://bsex.serv00.net/Smart.php?id=axn_twn
 AMC,http://61.221.215.25:8800/hls/43/index.m3u8
@@ -86,10 +85,9 @@ TLC旅遊生活,https://bsex.serv00.net/Smart.php?id=tlc_twn
 CCTV9,http://58.248.112.205:8006/GD_CUCC/G_CCTV-9-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBZc7OJ1GFY%2FDpyULoLmfNSfAKtWnnk8cjSV9zSUfQpeh
 
 幼幼、卡通,#genre#
-我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
-蠟筆小新,https://www.youtube.com/watch?v=_jP5o1W3eW0
 CN卡通,https://bsex.serv00.net/Smart.php?id=momo1_twn
-中華一番,https://www.youtube.com/watch?v=2FJcu6qsM2k
+靖天卡通,https://bsex.serv00.net/Smart.php?id=jingtiancartoon_twn
+中華一番,http://61.221.215.25:8800/hls/40/index.m3u8
 YOYO TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 
 戲劇,#genre#
