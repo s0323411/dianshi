@@ -89,3 +89,7 @@ http://61.221.215.25:8800/hls/50/index.m3u8
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 group-title="綜藝",緯來精彩 (大街)
 http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="體育" ,愛爾達體育 1
+https://bsex.serv00.net/Smart.php?id=eltasport_twn
+#EXTINF:-1 group-title="體育" ,愛爾達體育 2
+https://bsex.serv00.net/Smart.php?id=eltasport2_twn
