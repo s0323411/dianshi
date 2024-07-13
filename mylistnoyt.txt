@@ -1,0 +1,110 @@
+新聞,#genre#
+公視,https://bsex.serv00.net/Smart.php?id=ctv_taiwan
+台視,https://bsex.serv00.net/Smart.php?id=ttv_taiwan
+中視,https://bsex.serv00.net/Smart.php?id=zhongshihd_twn
+華視,https://bsex.serv00.net/Smart.php?id=ctshd_twn
+民視,https://bsex.serv00.net/Smart.php?id=ftvhd_taiwan
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+Live 三立,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+大愛,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+大愛二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+非凡新聞,https://bsex.serv00.net/Smart.php?id=feifannews_twn
+寰宇財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
+台視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+華視新聞,https://bsex.serv00.net/Smart.php?id=ctshd_twn
+民視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+中天新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+東森新聞台,https://bsex.serv00.net/Smart.php?id=ettvnews
+TVBS news,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+TVBS,https://bsex.serv00.net/Smart.php?id=tvbs
+CCTV13,https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
+寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新聞台灣台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+CCTV 4 中文國際,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+鳳凰資訊,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+新唐人亞太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+
+綜藝,#genre#
+MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+萬秀豬王,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+豬哥會社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
+TVBS歡樂台,https://bsex.serv00.net/Smart.php?id=tvbshuanle_twn
+TVBS亞洲台,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
+八大綜合台,http://61.221.215.25:8800/hls/56/index.m3u8
+緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+三立台灣台,https://bsex.serv00.net/Smart.php?id=sanlitaiwan
+三立都會台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1020
+中天亞洲,https://bsex.serv00.net/Smart.php?id=ctiasia_twn
+中天娱樂,https://bsex.serv00.net/Smart.php?id=ctient
+中天綜合,https://bsex.serv00.net/Smart.php?id=ctizhonghe
+飢餓遊戲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
+天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+緯來日本,https://bsex.serv00.net/Smart.php?id=videolandjapan
+緯來日本台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1026
+日本 NHK,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+
+電影,#genre#
+GPTV電影台,https://www.youtube.com/watch?v=V0eNcTH0LDo
+HBO,https://bsex.serv00.net/Smart.php?id=hbohd_twn
+AXN,https://bsex.serv00.net/Smart.php?id=axn_twn
+AMC,http://61.221.215.25:8800/hls/43/index.m3u8
+CINEMAX,https://bsex.serv00.net/Smart.php?id=cinemax_twn
+好萊塢電影,https://bsex.serv00.net/Smart.php?id=hollywoodmovies_twn
+東森電影,https://bsex.serv00.net/Smart.php?id=ettvmovie
+龍華電影,https://bsex.serv00.net/Smart.php?id=xingwei_movie
+
+體育,#genre#
+愛爾達體育1,https://bsex.serv00.net/Smart.php?id=eltasport_twn
+愛爾達體育2,https://bsex.serv00.net/Smart.php?id=eltasport2_twn
+愛爾達體育3,https://bsex.serv00.net/Smart.php?id=eltasport3_twn
+愛爾達體育4,https://bsex.serv00.net/Smart.php?id=natgeowild_twn
+ELEVEN體育1,https://bsex.serv00.net/Smart.php?id=golfchannel_twn
+博斯網球,https://bsex.serv00.net/Smart.php?id=bositennis_twn
+博斯魅力,https://bsex.serv00.net/Smart.php?id=bosisport1_twn
+博斯運動二台,https://bsex.serv00.net/Smart.php?id=bosisport2_twn
+博斯高球1台,https://bsex.serv00.net/Smart.php?id=bosigolf1_twn
+博斯高球2台,https://bsex.serv00.net/Smart.php?id=bosigolf2_twn
+緯來體育台,https://bsex.serv00.net/Smart.php?id=videolandsport
+CCTV5,http://58.248.112.205:8006/GD_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBSH%2Fdcga0ub9HyjSFJq4wMsikb7ADOVlWhn49oiB6V%2FG&id=2024奥运
+CCTV5+,http://58.248.112.205:8006/GD_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYdR%2FXUke9cnQAha7YFSVSe71iqwQ7l064%2Fcza9NPPzC&id=2024奥运
+
+探索,#genre#
+Love Nrture「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+動物星球,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1004
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+探索亞洲,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1002
+TLC旅遊生活,https://bsex.serv00.net/Smart.php?id=tlc_twn
+亞洲旅遊,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1219
+國家地理,https://bsex.serv00.net/Smart.php?id=natgeohd_twn
+CCTV9,http://58.248.112.205:8006/GD_CUCC/G_CCTV-9-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBZc7OJ1GFY%2FDpyULoLmfNSfAKtWnnk8cjSV9zSUfQpeh
+
+幼幼、卡通,#genre#
+我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
+蠟筆小新,https://www.youtube.com/watch?v=_jP5o1W3eW0
+CN卡通,https://bsex.serv00.net/Smart.php?id=momo1_twn
+中華一番,https://www.youtube.com/watch?v=2FJcu6qsM2k
+YOYO TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+
+戲劇,#genre#
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+愛爾達影劇,https://bsex.serv00.net/Smart.php?id=eltayingju_twn
+
+MTV,#genre#
+MTV,https://bsex.serv00.net/Smart.php?id=mtvhd_twn
+日本 MTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+日本 Music Japan TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+日本 Space Shower TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+The K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+
+時尚,#genre#
+全球時尚 Global Fashion Channel,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+法國時尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+Fashion TV HD,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
