@@ -69,7 +69,7 @@ CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 愛爾達體育4,https://bsex.serv00.net/Smart.php?id=natgeowild_twn
 ELEVEN體育1,https://bsex.serv00.net/Smart.php?id=golfchannel_twn
 博斯網球,https://bsex.serv00.net/Smart.php?id=bositennis_twn
-博斯運動一台,https://bsex.serv00.net/Smart.php?id=bosisport1_twn
+博斯魅力,https://bsex.serv00.net/Smart.php?id=bosisport1_twn
 博斯運動二台,https://bsex.serv00.net/Smart.php?id=bosisport2_twn
 博斯高球1台,https://bsex.serv00.net/Smart.php?id=bosigolf1_twn
 博斯高球2台,https://bsex.serv00.net/Smart.php?id=bosigolf2_twn
