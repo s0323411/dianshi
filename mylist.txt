@@ -13,6 +13,7 @@
 大愛二臺,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 大愛二臺,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
+非凡新聞台,https://bsex.serv00.net/Smart.php?id=feifannews_twn
 非凡新聞台,https://www.youtube.com/watch?v=QlJJEwMYzEc
 非凡新聞台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1013
 寰宇財經台,https://www.youtube.com/watch?v=WTRQiVWK1jY
