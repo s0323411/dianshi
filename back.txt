@@ -1,14 +1,6 @@
 {
   "channelList": [
 {
-      "name": "TVBS 56",
-      "url": "https://bsex.serv00.net/Smart.php?id=tvbs"
-    },
-{
-      "name": "TVBS 56",
-      "url": "http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1668"
-    },
-{
       "name": "CCTV13",
       "url": "https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8"
         }
