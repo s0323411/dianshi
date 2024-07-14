@@ -1,0 +1,56 @@
+{
+  "channelList": [
+{
+      "name": "愛爾達體育1",
+      "url": "https://bsex.serv00.net/Smart.php?id=eltasport_twn"
+    },
+{
+      "name": "愛爾達體育2",
+      "url": "https://bsex.serv00.net/Smart.php?id=eltasport2_twn"
+    },
+{
+      "name": "愛爾達體育3",
+      "url": "https://bsex.serv00.net/Smart.php?id=eltasport3_twn"
+    },
+{
+      "name": "愛爾達體育4",
+      "url": "https://bsex.serv00.net/Smart.php?id=natgeowild_twn"
+    },
+{
+      "name": "ELEVEN體育1",
+      "url": "https://bsex.serv00.net/Smart.php?id=golfchannel_twn"
+    },
+{
+      "name": "博斯網球",
+      "url": "https://bsex.serv00.net/Smart.php?id=bositennis_twn"
+    },
+{
+      "name": "博斯魅力",
+      "url": "https://bsex.serv00.net/Smart.php?id=bosisport1_twn"
+    },
+{
+      "name": "博斯運動二台",
+      "url": "https://bsex.serv00.net/Smart.php?id=bosisport2_twn"
+    },
+{
+      "name": "博斯高球1台",
+      "url": "https://bsex.serv00.net/Smart.php?id=bosigolf1_twn"
+    },
+{
+      "name": "博斯高球2台",
+      "url": "https://bsex.serv00.net/Smart.php?id=bosigolf2_twn"
+    },
+{
+      "name": "緯來體育台",
+      "url": "http://125.227.210.55:8155/VideoInput/play.ts"
+    },
+{
+      "name": "CCTV5",
+      "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBSH%2Fdcga0ub9HyjSFJq4wMsikb7ADOVlWhn49oiB6V%2FG&id=2024奥运"
+    },
+{
+      "name": "CCTV5+",
+      "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYdR%2FXUke9cnQAha7YFSVSe71iqwQ7l064%2Fcza9NPPzC&id=2024奥运"
+    }
+  ]
+}
