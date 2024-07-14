@@ -15,7 +15,6 @@
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 非凡新聞台,https://bsex.serv00.net/Smart.php?id=feifannews_twn
 非凡新聞台,https://www.youtube.com/watch?v=QlJJEwMYzEc
-非凡新聞台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1013
 寰宇財經台,https://www.youtube.com/watch?v=WTRQiVWK1jY
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
@@ -26,7 +25,6 @@
 TVBS 新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS 56,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS 56,https://bsex.serv00.net/Smart.php?id=tvbs
-TVBS 56,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1668
 CCTV13,http://58.248.112.205:8006/GD_CUCC/G_CCTV-13-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBeUi4Thb7vkXG9wotcNmK%2FSEqT0xBi9U3gvduQFenMFz
 CCTV13,https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
 寰宇新聞,https://www.youtube.com/watch?v=NhZXUwlY2dU
@@ -49,12 +47,10 @@ TVBS亞洲台,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 八大綜合台,http://61.221.215.25:8800/hls/56/index.m3u8
 緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 三立臺灣台,http://125.227.210.55:8160/VideoInput/play.ts
-三立都會台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1020
 中天亞洲台,https://www.youtube.com/watch?v=MJFaJER4Qxo
 飢餓遊戲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
 天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 沒完沒了,https://www.youtube.com/watch?v=HGzIAC5pWr4
-緯來日本台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1026
 日本 NHK,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 
 電影,#genre#
@@ -86,11 +82,8 @@ ELEVEN體育1,https://bsex.serv00.net/Smart.php?id=golfchannel_twn
 探索,#genre#
 Love Nrture「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-動物星球,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1004
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
 探索亞洲,http://125.227.210.55:8154/VideoInput/play.ts
-探索亞洲,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1002
-亞洲旅遊,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1219
 CCTV9,http://58.248.112.205:8006/GD_CUCC/G_CCTV-9-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBZc7OJ1GFY%2FDpyULoLmfNSfAKtWnnk8cjSV9zSUfQpeh
 
 幼幼、卡通,#genre#
