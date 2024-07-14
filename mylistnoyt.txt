@@ -39,14 +39,12 @@ TVBS亞洲台,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 八大綜合台,http://61.221.215.25:8800/hls/56/index.m3u8
 緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 三立台灣台,https://bsex.serv00.net/Smart.php?id=sanlitaiwan
-三立都會台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1020
 中天亞洲,https://bsex.serv00.net/Smart.php?id=ctiasia_twn
 中天娱樂,https://bsex.serv00.net/Smart.php?id=ctient
 中天綜合,https://bsex.serv00.net/Smart.php?id=ctizhonghe
 飢餓遊戲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
 天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 緯來日本,https://bsex.serv00.net/Smart.php?id=videolandjapan
-緯來日本台,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1026
 日本 NHK,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 
 電影,#genre#
@@ -76,11 +74,8 @@ ELEVEN體育1,https://bsex.serv00.net/Smart.php?id=golfchannel_twn
 探索,#genre#
 Love Nrture「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-動物星球,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1004
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
-探索亞洲,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1002
 TLC旅遊生活,https://bsex.serv00.net/Smart.php?id=tlc_twn
-亞洲旅遊,http://gofuxkyourself.online:8880/mqitv?proxy=true&id=live1219
 國家地理,https://bsex.serv00.net/Smart.php?id=natgeohd_twn
 CCTV9,http://58.248.112.205:8006/GD_CUCC/G_CCTV-9-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBZc7OJ1GFY%2FDpyULoLmfNSfAKtWnnk8cjSV9zSUfQpeh
 
