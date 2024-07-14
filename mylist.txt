@@ -60,8 +60,15 @@ TVBS亞洲台,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 電影,#genre#
 GPTV電影台,https://www.youtube.com/watch?v=V0eNcTH0LDo
 HBOHD,http://125.227.210.55:8153/VideoInput/play.ts
+HBOHD,https://bsex.serv00.net/Smart.php?id=hbohd_twn
+HBO FAMILY,https://bsex.serv00.net/Smart.php?id=fyi_twn
 AMC,http://61.221.215.25:8800/hls/43/index.m3u8
 CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
+CINEMAX,https://bsex.serv00.net/Smart.php?id=cinemax_twn
+好萊塢電影,https://bsex.serv00.net/Smart.php?id=hollywoodmovies_twn
+東森電影,https://bsex.serv00.net/Smart.php?id=ettvmovie
+龍華電影,https://bsex.serv00.net/Smart.php?id=xingwei_movie
+美亞電影,https://bsex.serv00.net/Smart.php?id=meiyamovie_twn
 
 體育,#genre#
 愛爾達體育1,https://bsex.serv00.net/Smart.php?id=eltasport_twn
