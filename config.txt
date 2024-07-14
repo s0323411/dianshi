@@ -208,6 +208,6 @@
     },
 {
   "list": "https://github.com/s0323411/dianshi/raw/main/back.txt"
-},
+}
   ]
 }
