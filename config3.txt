@@ -19,7 +19,7 @@
     },
 {
       "name": "TVBS 56",
-      "url": "http://gofuxkyourself.online:8880/mqitv"
+      "url": "http://gofuxkyourself.online:8880/mqitv",
       "header": "proxy=true&id=live1668"
     },
     {
