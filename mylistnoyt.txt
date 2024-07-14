@@ -72,8 +72,6 @@ ELEVEN體育1,https://bsex.serv00.net/Smart.php?id=golfchannel_twn
 博斯高球1台,https://bsex.serv00.net/Smart.php?id=bosigolf1_twn
 博斯高球2台,https://bsex.serv00.net/Smart.php?id=bosigolf2_twn
 緯來體育台,https://bsex.serv00.net/Smart.php?id=videolandsport
-CCTV5,http://58.248.112.205:8006/GD_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBSH%2Fdcga0ub9HyjSFJq4wMsikb7ADOVlWhn49oiB6V%2FG&id=2024奥运
-CCTV5+,http://58.248.112.205:8006/GD_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYdR%2FXUke9cnQAha7YFSVSe71iqwQ7l064%2Fcza9NPPzC&id=2024奥运
 
 探索,#genre#
 Love Nrture「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
