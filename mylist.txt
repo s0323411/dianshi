@@ -43,7 +43,6 @@ MIT台灣誌,https://www.youtube.com/watch?v=jgn5KR-Kqrc
 豬哥會社,https://www.youtube.com/watch?v=0aBJU1mFpsk
 TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
 TVBS亞洲台,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
 八大綜合台,http://61.221.215.25:8800/hls/56/index.m3u8
 緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 三立臺灣台,http://125.227.210.55:8160/VideoInput/play.ts
