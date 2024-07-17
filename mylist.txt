@@ -1,6 +1,5 @@
 新聞,#genre#
 公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
-台視,https://node1.olelive.com:6443/live/CCTV09HD/hls.m3u8
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 運通財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
