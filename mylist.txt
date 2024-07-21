@@ -38,7 +38,9 @@ CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 綜藝,#genre#
 中視,rtmp://f13h.mine.nu/sat/tv091
 民視,https://stream1.freetv.fun/0c732f1c3cdedc99da491366300295b9e1d323d05cbf813115baf063d1d3b432.m3u8
-民视,rtmp://220.130.201.73/sat/tv051
+民視,rtmp://220.130.201.73/sat/tv051
+三立臺灣台,http://125.227.210.55:8160/VideoInput/play.ts
+三立臺灣台,https://stream1.freetv.fun/acc8e0da66479a3f14682ca5885ae331941e02776a01687bab0f186a80bac6de.ctv
 MIT台灣誌,https://www.youtube.com/watch?v=jgn5KR-Kqrc
 大陸尋奇,https://www.youtube.com/watch?v=OVdLUlVHFMI
 大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
@@ -52,20 +54,18 @@ TVBS歡樂台,https://stream1.freetv.fun/bddb60f3ed16f8742e1193ec7ec4e1f3ff85d6d
 緯來日本,https://stream1.freetv.fun/3cd74587ba1c238ff02161b0be00701c89ca3a01ab27f78e3439a6a4acaebb9c.m3u8
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來綜合,https://stream1.freetv.fun/7d501b1e8c12e47b411505569ebcb16eb120d36ae42c0c44630c3b9828420d82.m3u8
+緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 靖天戲劇,https://stream1.freetv.fun/33f69d66438ca7bab6a19240d547e8cfc02899e135cd1d326aa84f2b5d78c1de.m3u8
 靖天日本,https://stream1.freetv.fun/1706c75d0a1c3105bd393d9000afb4c1dd741f5f3cef9ab677b83d270dc2ceec.m3u8
 靖天映畫,https://stream1.freetv.fun/9776016e1f0be8c850ff534869ef6e81b39645c2cf46a003b5f550ba8eb49d19.m3u8
 八大綜合台,http://61.221.215.25:8800/hls/56/index.m3u8
+八大綜合台,https://stream1.freetv.fun/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
 MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
-緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-三立臺灣台,http://125.227.210.55:8160/VideoInput/play.ts
-三立臺灣台,https://stream1.freetv.fun/acc8e0da66479a3f14682ca5885ae331941e02776a01687bab0f186a80bac6de.ctv
 中天亞洲台,https://www.youtube.com/watch?v=MJFaJER4Qxo
 飢餓遊戲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
 天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 沒完沒了,https://www.youtube.com/watch?v=HGzIAC5pWr4
 日本 NHK,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
-八大综合台,https://stream1.freetv.fun/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
 
 電影,#genre#
 GPTV電影台,https://www.youtube.com/watch?v=V0eNcTH0LDo
