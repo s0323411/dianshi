@@ -1,6 +1,7 @@
 新聞,#genre#
 公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
 TVBSHD,https://stream1.freetv.fun/1f12cb14745f743ccca1433e22f418c19224a0d4610c6edce055b0fa399b8b6a.ctv
+MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 運通財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
