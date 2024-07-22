@@ -80,10 +80,10 @@ CCTV6電影,https://node3.olelive.com:6443/live/CCTV6HD/hls.m3u8
 博斯運動二台,http://4gtv.mumi.rip:9877/299/litv-longturn08/index.m3u8
 時尚運動X,http://4gtv.mumi.rip:9877/69/4gtv-4gtv014/index.m3u8
 CCTV5,https://z02.ubtvfans.com/live/rx1/204/7eb3bfaf347e514a453b161277aa01f3/index.m3u8
-緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts
-緯來體育台,rtmp://f13h.mine.nu/sat/tv721
 CCTV5+,https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV5,https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
+緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts
+緯來體育台,rtmp://f13h.mine.nu/sat/tv721
 
 探索,#genre#
 Love Nrture「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
