@@ -61,9 +61,9 @@ MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 
 電影,#genre#
 GPTV電影台,https://www.youtube.com/watch?v=V0eNcTH0LDo
+HBOHD,http://125.227.210.55:8153/VideoInput/play.ts
 HBOHD,https://z02.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/index.m3u8
 AMC,http://4gtv.mumi.rip:9877/39/4gtv-4gtv017/index.m3u8
-HBOHD,http://125.227.210.55:8153/VideoInput/play.ts
 AMC,http://61.221.215.25:8800/hls/43/index.m3u8
 CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 CCTV6電影,https://node3.olelive.com:6443/live/CCTV6HD/hls.m3u8
