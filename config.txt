@@ -34,7 +34,7 @@
       "name": "06 天才衝衝衝"
     },
     {
-      "url": "http://cdn.jdshipin.com:8880/ysp.php?id=cctv9",
+      "url": "CCTV9,https://node3.olelive.com:6443/live/CCTV9HD/hls.m3u8",
       "name": "07 CCTV9 (TVbox)"
     },
     {
