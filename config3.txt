@@ -4,6 +4,11 @@
       "name": "23 CCTV13",
       "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-13-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBeUi4Thb7vkXG9wotcNmK%2FSEqT0xBi9U3gvduQFenMFz"
     },
+
+{
+      "name": "TVBS HD",
+      "url": "https://www.4gtv.tv/channel/4gtv-4gtv073?set=2&ch=183"
+    },
 {
       "name": "CCTV5",
       "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBSH%2Fdcga0ub9HyjSFJq4wMsikb7ADOVlWhn49oiB6V%2FG&id=2024奥运"
