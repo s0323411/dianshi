@@ -138,7 +138,7 @@ CCTV5,https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 博斯魅力台,https://stream1.freetv.fun/53e1bcead4c2301a13c3da0e5b9874d51ca01b18ac1f2b6015bc5bf1b12fd1c8.m3u8
 
 探索,#genre#
-Love Nrture「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
+Love Nrture,https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
 探索亞洲,http://125.227.210.55:8154/VideoInput/play.ts
@@ -161,7 +161,6 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,https://stream1.freetv.fun/dc12110f04c56c92bb85c7d092ae8f56bd4191d8bcb0d205575d3135985a0b41.ctv
 中華一番,https://www.youtube.com/watch?v=2FJcu6qsM2k
 YOYO TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-i-Fun動漫台,http://4gtv.mumi.rip:9877/60/litv-ftv15/index.m3u8
 i-Fun動漫台,http://4gtv.mumi.rip:9877/60/litv-ftv15/index.m3u8
 經典卡通台,http://4gtv.mumi.rip:9877/202/4gtv-live022/index.m3u8
 靖天卡通台,http://4gtv.mumi.rip:9877/15/4gtv-4gtv044/index.m3u8
