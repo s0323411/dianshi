@@ -118,14 +118,6 @@ CinemaWorld電影,http://4gtv.mumi.rip:9877/225/4gtv-live069/index.m3u8
 
 
 體育,#genre#
-緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts
-緯來體育台,rtmp://f13h.mine.nu/sat/tv721
-CCTV5,https://z02.ubtvfans.com/live/rx1/204/7eb3bfaf347e514a453b161277aa01f3/index.m3u8
-CCTV5+,https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-CCTV5,https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
-博斯網球,https://stream1.freetv.fun/66a2eabd8284dee1a5e23fb1d794046759e00009630d310edfb86c847c51273e.m3u8
-博斯高球,https://stream1.freetv.fun/7a4b03a14d74273650a665f075e44861c63f4a51281c47bf53142adff89334ca.m3u8
-博斯魅力,https://stream1.freetv.fun/53e1bcead4c2301a13c3da0e5b9874d51ca01b18ac1f2b6015bc5bf1b12fd1c8.m3u8
 博斯高球台,http://4gtv.mumi.rip:9877/48/litv-longturn05/index.m3u8
 博斯無限台,http://4gtv.mumi.rip:9877/51/litv-longturn10/index.m3u8
 博斯網球台,http://4gtv.mumi.rip:9877/52/litv-longturn09/index.m3u8
@@ -136,6 +128,14 @@ CCTV5,https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 時尚運動X,http://4gtv.mumi.rip:9877/69/4gtv-4gtv014/index.m3u8
 車迷TV,http://4gtv.mumi.rip:9877/160/4gtv-live201/index.m3u8
 TRACE Sport Stars,http://4gtv.mumi.rip:9877/57/4gtv-4gtv077/index.m3u8
+緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts
+緯來體育台,rtmp://f13h.mine.nu/sat/tv721
+CCTV5,https://z02.ubtvfans.com/live/rx1/204/7eb3bfaf347e514a453b161277aa01f3/index.m3u8
+CCTV5+,https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV5,https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
+博斯網球台,https://stream1.freetv.fun/66a2eabd8284dee1a5e23fb1d794046759e00009630d310edfb86c847c51273e.m3u8
+博斯高球台,https://stream1.freetv.fun/7a4b03a14d74273650a665f075e44861c63f4a51281c47bf53142adff89334ca.m3u8
+博斯魅力台,https://stream1.freetv.fun/53e1bcead4c2301a13c3da0e5b9874d51ca01b18ac1f2b6015bc5bf1b12fd1c8.m3u8
 
 探索,#genre#
 Love Nrture「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
