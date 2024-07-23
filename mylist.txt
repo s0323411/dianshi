@@ -73,11 +73,13 @@ MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 緯來育樂台,rtmp://f13h.mine.nu/sat/tv701
 TVBS歡樂台,http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
 TVBS 歡樂台,https://tv.iill.top/litv/4gtv-4gtv068
+ELTA 娛樂台,https://tv.iill.top/litv/4gtv-4gtv070
 
 電影,#genre#
 GPTV電影台,https://www.youtube.com/watch?v=V0eNcTH0LDo
 HBOHD,http://125.227.210.55:8153/VideoInput/play.ts
 HBOHD,https://z02.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/index.m3u8
+AMC,https://tv.iill.top/litv/4gtv-4gtv017
 AMC,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC,https://stream1.freetv.fun/ceb8e5d09e9af65624a0023241c486d3d4ba222029e8e745bcd4901f47d95445.m3u8
 CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
@@ -90,6 +92,7 @@ CINEMAX,https://tv.iill.top/tv/cinemax
 HBOHD,https://tv.iill.top/tv/hbohd
 美亞電影台,https://tv.iill.top/tv/mydy
 好萊塢電影台,https://tv.iill.top/tv/hlw
+CatchPlay 電影台,https://tv.iill.top/litv/4gtv-4gtv076
 
 體育,#genre#
 緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts
@@ -150,6 +153,7 @@ i-Fun動漫台,http://4gtv.mumi.rip:9877/60/litv-ftv15/index.m3u8
 超人力霸王整套看,http://4gtv.mumi.rip:9877/278/4gtv-live015/index.m3u8
 DreamWorks 夢工廠動畫,http://4gtv.mumi.rip:9877/282/4gtv-live017/index.m3u8
 HBO Family,https://tv.iill.top/tv/wxjt
+精選動漫台,https://tv.iill.top/4gtv/204
 
 戲劇,#genre#
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
@@ -159,6 +163,7 @@ HBO Family,https://tv.iill.top/tv/wxjt
 八大戲劇,https://stream1.freetv.fun/d29f5b90988c837bb8afc96017dd772aa68cb99981f807169cafc79cdf7ac12f.m3u8
 東森戲劇,https://stream1.freetv.fun/63afc04b6f48d6ab1be98e6ac787f6a5ae5341600353f7f32af5bd39bd544b07.ctv
 ELTA戲劇,https://tv.iill.top/tv/aedyj
+金光布袋戲,https://tv.iill.top/4gtv/236
 
 MTV,#genre#
 日本 MTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
