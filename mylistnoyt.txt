@@ -28,6 +28,27 @@ CCTV 4 中文國際,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20
 鳳凰資訊,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 新唐人亞太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 
+test,#genre#
+ELTA 體育 1 台,https://tv.iill.top/tv/aedty1
+ELTA 體育 2 台,https://tv.iill.top/tv/aedty2
+ELTA 體育 3 台,https://tv.iill.top/tv/aedty3
+ELTA 體育 4 台,https://tv.iill.top/tv/aedty4
+博斯高球台,https://tv.iill.top/tv/bsgq1
+博斯高球二台,https://tv.iill.top/tv/bsgq2
+博斯運動二台,https://tv.iill.top/tv/bsyd2
+博斯魅力台,https://tv.iill.top/tv/bsml
+博斯網球台,https://tv.iill.top/tv/bswq
+博斯無限台,https://tv.iill.top/tv/bswx
+博斯無限台,https://tv.iill.top/litv/litv-longturn10
+博斯無限二台,https://tv.iill.top/litv/litv-longturn13
+博斯網球台,https://tv.iill.top/litv/litv-longturn09
+博斯運動一台,https://tv.iill.top/litv/litv-longturn07
+博斯運動二台,https://tv.iill.top/litv/litv-longturn08
+博斯高球台,https://tv.iill.top/litv/litv-longturn05
+博斯高球二台,https://tv.iill.top/litv/litv-longturn06
+博斯魅力台,https://tv.iill.top/litv/litv-longturn04
+時尚運動X,https://tv.iill.top/4gtv/277
+
 綜藝,#genre#
 MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
