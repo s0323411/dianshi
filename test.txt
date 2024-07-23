@@ -1,4 +1,10 @@
 全部,#genre#
-公視,https://z02.ubtvfans.com/live/rx1/86/2f64eb300d6fad1c8adac3bd2cd0f82a/index.m3u8
-台視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-56,https://www.4gtv.tv/channel/4gtv-4gtv073?set=2&ch=183
+博斯無限,http://37.27.111.214:8080/live/15/hls.m3u8
+民視,rtmp://f13h.mine.nu/sat/tv051
+ELTA 體育 1 台,https://tv.iill.top/tv/aedty1
+ELTA 體育 2 台,https://tv.iill.top/tv/aedty2
+ELTA 體育 3 台,https://tv.iill.top/tv/aedty3
+ELTA 體育 4 台,https://tv.iill.top/tv/aedty4
+博斯高球台,https://tv.iill.top/tv/bsgq1
+博斯高球二台,https://tv.iill.top/tv/bsgq2
+博斯運動二台,https://tv.iill.top/tv/bsyd2
