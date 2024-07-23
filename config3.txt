@@ -28,11 +28,6 @@
       "name": "CCTV13",
       "url": "https://tv.iill.top/tv/cctv13"
     },
-
-{
-      "name": "TVBS HD",
-      "url": "https://www.4gtv.tv/channel/4gtv-4gtv073?set=2&ch=183"
-    },
 {
       "name": "CCTV5",
       "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBSH%2Fdcga0ub9HyjSFJq4wMsikb7ADOVlWhn49oiB6V%2FG&id=2024奥运"
@@ -40,20 +35,6 @@
 {
       "name": "CCTV5+",
       "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYdR%2FXUke9cnQAha7YFSVSe71iqwQ7l064%2Fcza9NPPzC&id=2024奥运"
-    },
-{
-      "name": "TVBS 56",
-      "url": "https://bsex.serv00.net/Smart.php",
-      "header": "id=tvbs"
-    },
-{
-      "name": "TVBS 56",
-      "url": "http://gofuxkyourself.online:8880/mqitv",
-      "header": "proxy=true&id=live1668"
-    },
-    {
-      "url": "https://www.4gtv.tv/channel/4gtv-live087?set=4&ch=284",
-      "name": "04 TVBS綜藝台(四季) "
     },
     {
       "url": "https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8",
