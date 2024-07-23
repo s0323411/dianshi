@@ -5,7 +5,23 @@
       "url": "https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8"
         },
 {
-      "name": "TVBSHD",
+      "name": "CCTV13",
+      "url": "https://node3.olelive.com:6443/live/CCTV13HD/hls.m3u8"
+    },
+{
+      "name": "CCTV13",
+      "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-13-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBeUi4Thb7vkXG9wotcNmK%2FSEqT0xBi9U3gvduQFenMFz"
+    },
+{
+      "name": "TVBS 56",
+      "url": "http://125.227.210.55:8188/VideoInput/play.ts"
+    },
+{
+      "name": "TVBS 56",
+      "url": "http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8"
+    },
+{
+      "name": "TVBS 56",
       "url": "https://stream1.freetv.fun/1f12cb14745f743ccca1433e22f418c19224a0d4610c6edce055b0fa399b8b6a.ctv"
         }
     ]
