@@ -1,0 +1,45 @@
+{
+  "channelList": [
+    {
+      "name": "23 CCTV13",
+      "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-13-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBeUi4Thb7vkXG9wotcNmK%2FSEqT0xBi9U3gvduQFenMFz"
+    },
+{
+      "name": "非凡新聞台",
+      "url": "https://tv.iill.top/tv/ffxw"
+    },
+{
+      "name": "非凡新聞台",
+      "url": "https://tv.iill.top/litv/4gtv-4gtv010"
+    },
+{
+      "name": "TVBS",
+      "url": "https://tv.iill.top/litv/4gtv-4gtv073"
+    },
+{
+      "name": "TVBS",
+      "url": "https://tv.iill.top/tv/tvbs"
+    },
+{
+      "name": "TVBS 564",
+      "url": "http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8"
+    },
+{
+      "name": "CCTV13",
+      "url": "https://tv.iill.top/tv/cctv13"
+    },
+{
+      "name": "CCTV5",
+      "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBSH%2Fdcga0ub9HyjSFJq4wMsikb7ADOVlWhn49oiB6V%2FG&id=2024奥运"
+    },
+{
+      "name": "CCTV5+",
+      "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYdR%2FXUke9cnQAha7YFSVSe71iqwQ7l064%2Fcza9NPPzC&id=2024奥运"
+    },
+    {
+      "url": "https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "97 Fashion TV HD"
+    }
+  ]
+}
