@@ -13,9 +13,7 @@
 大愛二臺,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 大愛二臺,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
-非凡新聞台,https://tv.iill.top/litv/4gtv-4gtv010
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
-非凡新聞台,https://tv.iill.top/tv/ffxw
 非凡新聞台,https://www.youtube.com/watch?v=QlJJEwMYzEc
 寰宇財經台,https://www.youtube.com/watch?v=WTRQiVWK1jY
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
@@ -26,11 +24,10 @@
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 TVBS 新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS 56,http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
-TVBS,https://tv.iill.top/litv/4gtv-4gtv073
 TVBS 56,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS 56,https://stream1.freetv.fun/1f12cb14745f743ccca1433e22f418c19224a0d4610c6edce055b0fa399b8b6a.ctv
 TVBS 56,https://stream1.freetv.fun/06baf79b6e6515fa271791223499a2ecf53f1917f24c680bfa8a7539162cce76.m3u8
-TVBS,https://tv.iill.top/tv/tvbs
+
 CCTV13,https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
 CCTV13,https://node3.olelive.com:6443/live/CCTV13HD/hls.m3u8
 CCTV13,http://58.248.112.205:8006/GD_CUCC/G_CCTV-13-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBeUi4Thb7vkXG9wotcNmK%2FSEqT0xBi9U3gvduQFenMFz
@@ -40,7 +37,7 @@ CCTV4,https://www.youtube.com/watch?v=twhG7_jvA8g
 CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=HFib76ySpbU
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
-CCTV13,https://tv.iill.top/tv/cctv13
+
 
 
 綜藝,#genre#
@@ -72,27 +69,21 @@ MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 緯來育樂台,rtmp://220.130.201.73/sat/tv701
 緯來育樂台,rtmp://f13h.mine.nu/sat/tv701
 TVBS歡樂台,http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
-TVBS 歡樂台,https://tv.iill.top/litv/4gtv-4gtv068
-ELTA 娛樂台,https://tv.iill.top/litv/4gtv-4gtv070
+
 
 電影,#genre#
 GPTV電影台,https://www.youtube.com/watch?v=V0eNcTH0LDo
 HBOHD,http://125.227.210.55:8153/VideoInput/play.ts
 HBOHD,https://z02.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/index.m3u8
-AMC,https://tv.iill.top/litv/4gtv-4gtv017
 AMC,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC,https://stream1.freetv.fun/ceb8e5d09e9af65624a0023241c486d3d4ba222029e8e745bcd4901f47d95445.m3u8
+
 CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 CCTV6電影,https://node3.olelive.com:6443/live/CCTV6HD/hls.m3u8
 AMC,http://4gtv.mumi.rip:9877/39/4gtv-4gtv017/index.m3u8
 影迷數位電影台,http://4gtv.mumi.rip:9877/40/4gtv-4gtv011/index.m3u8
 影迷數位紀實台,http://4gtv.mumi.rip:9877/212/4gtv-live023/index.m3u8
-ONE,https://tv.iill.top/tv/one
-CINEMAX,https://tv.iill.top/tv/cinemax
-HBOHD,https://tv.iill.top/tv/hbohd
-美亞電影台,https://tv.iill.top/tv/mydy
-好萊塢電影台,https://tv.iill.top/tv/hlw
-CatchPlay 電影台,https://tv.iill.top/litv/4gtv-4gtv076
+
 
 體育,#genre#
 緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts
@@ -111,25 +102,7 @@ CCTV5,https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 博斯運動一台,http://4gtv.mumi.rip:9877/50/litv-longturn07/index.m3u8
 博斯運動二台,http://4gtv.mumi.rip:9877/299/litv-longturn08/index.m3u8
 時尚運動X,http://4gtv.mumi.rip:9877/69/4gtv-4gtv014/index.m3u8
-ELTA 體育 1 台,https://tv.iill.top/tv/aedty1
-ELTA 體育 2 台,https://tv.iill.top/tv/aedty2
-ELTA 體育 3 台,https://tv.iill.top/tv/aedty3
-ELTA 體育 4 台,https://tv.iill.top/tv/aedty4
-博斯高球台,https://tv.iill.top/tv/bsgq1
-博斯高球二台,https://tv.iill.top/tv/bsgq2
-博斯運動二台,https://tv.iill.top/tv/bsyd2
-博斯魅力台,https://tv.iill.top/tv/bsml
-博斯網球台,https://tv.iill.top/tv/bswq
-博斯無限台,https://tv.iill.top/tv/bswx
-博斯無限台,https://tv.iill.top/litv/litv-longturn10
-博斯無限二台,https://tv.iill.top/litv/litv-longturn13
-博斯網球台,https://tv.iill.top/litv/litv-longturn09
-博斯運動一台,https://tv.iill.top/litv/litv-longturn07
-博斯運動二台,https://tv.iill.top/litv/litv-longturn08
-博斯高球台,https://tv.iill.top/litv/litv-longturn05
-博斯高球二台,https://tv.iill.top/litv/litv-longturn06
-博斯魅力台,https://tv.iill.top/litv/litv-longturn04
-時尚運動X,https://tv.iill.top/4gtv/277
+
 
 探索,#genre#
 Love Nrture「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
@@ -138,7 +111,7 @@ Love Nrture「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
 探索亞洲,http://125.227.210.55:8154/VideoInput/play.ts
 CCTV9,https://node3.olelive.com:6443/live/CCTV9HD/hls.m3u8
 CCTV9,http://58.248.112.205:8006/GD_CUCC/G_CCTV-9-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBZc7OJ1GFY%2FDpyULoLmfNSfAKtWnnk8cjSV9zSUfQpeh
-動物星球,https://tv.iill.top/tv/dwxq
+
 
 
 幼幼、卡通,#genre#
@@ -152,8 +125,7 @@ i-Fun動漫台,http://4gtv.mumi.rip:9877/60/litv-ftv15/index.m3u8
 精選動漫台,http://4gtv.mumi.rip:9877/204/4gtv-live024/index.m3u8
 超人力霸王整套看,http://4gtv.mumi.rip:9877/278/4gtv-live015/index.m3u8
 DreamWorks 夢工廠動畫,http://4gtv.mumi.rip:9877/282/4gtv-live017/index.m3u8
-HBO Family,https://tv.iill.top/tv/wxjt
-精選動漫台,https://tv.iill.top/4gtv/204
+
 
 戲劇,#genre#
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
@@ -162,8 +134,7 @@ HBO Family,https://tv.iill.top/tv/wxjt
 緯來戲劇,https://z02.ubtvfans.com/live/rx3/339/85339de3283d33f46d4735db2f4cac1a/index.m3u8
 八大戲劇,https://stream1.freetv.fun/d29f5b90988c837bb8afc96017dd772aa68cb99981f807169cafc79cdf7ac12f.m3u8
 東森戲劇,https://stream1.freetv.fun/63afc04b6f48d6ab1be98e6ac787f6a5ae5341600353f7f32af5bd39bd544b07.ctv
-ELTA戲劇,https://tv.iill.top/tv/aedyj
-金光布袋戲,https://tv.iill.top/4gtv/236
+
 
 MTV,#genre#
 日本 MTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
