@@ -6,23 +6,27 @@
     },
 {
       "name": "非凡新聞台",
-      "url": "https://tv.iill.top/tv/ffxw",
+      "url": "https://tv.iill.top/tv/ffxw"
     },
 {
       "name": "非凡新聞台",
-      "url": "https://tv.iill.top/litv/4gtv-4gtv010",
+      "url": "https://tv.iill.top/litv/4gtv-4gtv010"
     },
 {
       "name": "TVBS",
-      "url": "https://tv.iill.top/litv/4gtv-4gtv073",
+      "url": "https://tv.iill.top/litv/4gtv-4gtv073"
     },
 {
       "name": "TVBS",
-      "url": "https://tv.iill.top/tv/tvbs",
+      "url": "https://tv.iill.top/tv/tvbs"
+    },
+{
+      "name": "TVBS 564",
+      "url": "http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8"
     },
 {
       "name": "CCTV13",
-      "url": "https://tv.iill.top/tv/cctv13",
+      "url": "https://tv.iill.top/tv/cctv13"
     },
 
 {
