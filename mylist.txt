@@ -13,8 +13,8 @@
 大愛二臺,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 大愛二臺,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
-非凡新聞台,https://www.youtube.com/watch?v=QlJJEwMYzEc
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
+非凡新聞台,https://www.youtube.com/watch?v=QlJJEwMYzEc
 寰宇財經台,https://www.youtube.com/watch?v=WTRQiVWK1jY
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
@@ -23,7 +23,6 @@
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 TVBS 新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVBS 56,http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
 TVBS 56,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS 56,https://stream1.freetv.fun/1f12cb14745f743ccca1433e22f418c19224a0d4610c6edce055b0fa399b8b6a.ctv
 CCTV13,https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
@@ -46,7 +45,6 @@ MIT台灣誌,https://www.youtube.com/watch?v=jgn5KR-Kqrc
 天王豬哥秀,https://www.youtube.com/watch?v=IsFtLpSuf_g
 萬秀豬王,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 豬哥會社,https://www.youtube.com/watch?v=0aBJU1mFpsk
-TVBS歡樂台,http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
 TVBS歡樂台,http://125.227.210.55:8187/VideoInput/play.ts
 TVBS亞洲台,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
@@ -63,27 +61,17 @@ MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 GPTV電影台,https://www.youtube.com/watch?v=V0eNcTH0LDo
 HBOHD,http://125.227.210.55:8153/VideoInput/play.ts
 HBOHD,https://z02.ubtvfans.com/live/rx3/2823/264829c48cc59d03c9174fe85b6e3ff9/index.m3u8
-AMC,http://4gtv.mumi.rip:9877/39/4gtv-4gtv017/index.m3u8
 AMC,http://61.221.215.25:8800/hls/43/index.m3u8
 CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
 CCTV6電影,https://node3.olelive.com:6443/live/CCTV6HD/hls.m3u8
-影迷數位電影台,http://4gtv.mumi.rip:9877/40/4gtv-4gtv011/index.m3u8
-影迷數位紀實台,http://4gtv.mumi.rip:9877/212/4gtv-live023/index.m3u8
 
 體育,#genre#
-博斯高球台,http://4gtv.mumi.rip:9877/48/litv-longturn05/index.m3u8
-博斯無限台,http://4gtv.mumi.rip:9877/51/litv-longturn10/index.m3u8
-博斯網球台,http://4gtv.mumi.rip:9877/52/litv-longturn09/index.m3u8
-博斯魅力台,http://4gtv.mumi.rip:9877/300/litv-longturn04/index.m3u8
-博斯高球二台,http://4gtv.mumi.rip:9877/298/litv-longturn06/index.m3u8
-博斯運動一台,http://4gtv.mumi.rip:9877/50/litv-longturn07/index.m3u8
-博斯運動二台,http://4gtv.mumi.rip:9877/299/litv-longturn08/index.m3u8
-時尚運動X,http://4gtv.mumi.rip:9877/69/4gtv-4gtv014/index.m3u8
+緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts
+緯來體育台,rtmp://f13h.mine.nu/sat/tv721
 CCTV5,https://z02.ubtvfans.com/live/rx1/204/7eb3bfaf347e514a453b161277aa01f3/index.m3u8
 CCTV5+,https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV5,https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
-緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts
-緯來體育台,rtmp://f13h.mine.nu/sat/tv721
+
 
 探索,#genre#
 Love Nrture「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
@@ -94,10 +82,6 @@ CCTV9,https://node3.olelive.com:6443/live/CCTV9HD/hls.m3u8
 CCTV9,http://58.248.112.205:8006/GD_CUCC/G_CCTV-9-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBZc7OJ1GFY%2FDpyULoLmfNSfAKtWnnk8cjSV9zSUfQpeh
 
 幼幼、卡通,#genre#
-i-Fun動漫台,http://4gtv.mumi.rip:9877/60/litv-ftv15/index.m3u8
-精選動漫台,http://4gtv.mumi.rip:9877/204/4gtv-live024/index.m3u8
-超人力霸王整套看,http://4gtv.mumi.rip:9877/278/4gtv-live015/index.m3u8
-DreamWorks 夢工廠動畫,http://4gtv.mumi.rip:9877/282/4gtv-live017/index.m3u8
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
 蠟筆小新,https://www.youtube.com/watch?v=_jP5o1W3eW0
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
@@ -114,7 +98,6 @@ MTV,#genre#
 日本 Music Japan TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 日本 Space Shower TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 The K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-MTV Live HD 音樂頻道,http://4gtv.mumi.rip:9877/213/4gtv-live025/index.m3u8
 
 時尚,#genre#
 全球時尚 Global Fashion Channel,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
