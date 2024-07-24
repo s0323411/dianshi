@@ -16,7 +16,7 @@
 {
       "name": "TVBS",
       "url": "https://tv.iill.top/litv/4gtv-4gtv073",
-"header": "user-agent: okhttp"USERAGENT
+"header": "user-agent: okhttp"
     },
 {
       "name": "TVBS",
