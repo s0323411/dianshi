@@ -9,10 +9,6 @@
       "url": "https://node3.olelive.com:6443/live/CCTV13HD/hls.m3u8"
     },
 {
-      "name": "CCTV13",
-      "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-13-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBeUi4Thb7vkXG9wotcNmK%2FSEqT0xBi9U3gvduQFenMFz"
-    },
-{
       "name": "TVBS 56",
       "url": "http://125.227.210.55:8188/VideoInput/play.ts"
     },
