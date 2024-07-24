@@ -2,7 +2,7 @@
 民視,rtmp://f13h.mine.nu/sat/tv051
 test1,https://fetfriday.svc.litv.tv/?url=https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
 test2,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8?url=https://fetfriday.svc.litv.tv/
-test3,https://fetfriday.svc.litv.tv?url=https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
+https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
 非凡新聞台,https://tv.iill.top/tv/ffxw
 非凡新聞台,https://tv.iill.top/litv/4gtv-4gtv010
 TVBS,https://tv.iill.top/litv/4gtv-4gtv073
