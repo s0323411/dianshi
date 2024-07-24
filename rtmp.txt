@@ -1,4 +1,4 @@
-
+RTMP,#genre#
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂台,rtmp://220.130.201.73/sat/tv701
