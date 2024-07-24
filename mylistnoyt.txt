@@ -1,9 +1,4 @@
 新聞,#genre#
-公視,https://bsex.serv00.net/Smart.php?id=ctv_taiwan
-台視,https://bsex.serv00.net/Smart.php?id=ttv_taiwan
-中視,https://bsex.serv00.net/Smart.php?id=zhongshihd_twn
-華視,https://bsex.serv00.net/Smart.php?id=ctshd_twn
-民視,https://bsex.serv00.net/Smart.php?id=ftvhd_taiwan
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 Live 三立,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
@@ -11,16 +6,13 @@ Live 三立,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 大愛,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 大愛二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-非凡新聞,https://bsex.serv00.net/Smart.php?id=feifannews_twn
 寰宇財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
 台視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-華視新聞,https://bsex.serv00.net/Smart.php?id=ctshd_twn
 民視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 中天新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-東森新聞台,https://bsex.serv00.net/Smart.php?id=ettvnews
 TVBS news,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
-TVBS,https://bsex.serv00.net/Smart.php?id=tvbs
+TVBS,http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
 CCTV13,https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
 寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新聞台灣台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
@@ -28,95 +20,122 @@ CCTV 4 中文國際,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20
 鳳凰資訊,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 新唐人亞太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 
-test,#genre#
-ELTA 體育 1 台,https://tv.iill.top/tv/aedty1
-ELTA 體育 2 台,https://tv.iill.top/tv/aedty2
-ELTA 體育 3 台,https://tv.iill.top/tv/aedty3
-ELTA 體育 4 台,https://tv.iill.top/tv/aedty4
-博斯高球台,https://tv.iill.top/tv/bsgq1
-博斯高球二台,https://tv.iill.top/tv/bsgq2
-博斯運動二台,https://tv.iill.top/tv/bsyd2
-博斯魅力台,https://tv.iill.top/tv/bsml
-博斯網球台,https://tv.iill.top/tv/bswq
-博斯無限台,https://tv.iill.top/tv/bswx
-博斯無限台,https://tv.iill.top/litv/litv-longturn10
-博斯無限二台,https://tv.iill.top/litv/litv-longturn13
-博斯網球台,https://tv.iill.top/litv/litv-longturn09
-博斯運動一台,https://tv.iill.top/litv/litv-longturn07
-博斯運動二台,https://tv.iill.top/litv/litv-longturn08
-博斯高球台,https://tv.iill.top/litv/litv-longturn05
-博斯高球二台,https://tv.iill.top/litv/litv-longturn06
-博斯魅力台,https://tv.iill.top/litv/litv-longturn04
-時尚運動X,https://tv.iill.top/4gtv/277
 
 綜藝,#genre#
+TVBS歡樂台,http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
+TVBS綜藝台,http://4gtv.mumi.rip:9877/284/4gtv-live087/index.m3u8
+三立綜合台,http://4gtv.mumi.rip:9877/169/4gtv-live207/index.m3u8
+八大綜藝台,http://4gtv.mumi.rip:9877/114/4gtv-4gtv039/index.m3u8
+靖天綜合台,http://4gtv.mumi.rip:9877/21/4gtv-4gtv046/index.m3u8
+靖天日本台,http://4gtv.mumi.rip:9877/22/4gtv-4gtv047/index.m3u8
+民視綜藝台,http://4gtv.mumi.rip:9877/16/4gtv-4gtv004/index.m3u8
+靖天育樂台,http://4gtv.mumi.rip:9877/83/4gtv-4gtv062/index.m3u8
+靖天資訊台,http://4gtv.mumi.rip:9877/88/4gtv-4gtv065/index.m3u8
+民視旅遊台,http://4gtv.mumi.rip:9877/61/litv-ftv07/index.m3u8
+亞洲旅遊台,http://4gtv.mumi.rip:9877/250/litv-longturn17/index.m3u8
+滾動力rollor,http://4gtv.mumi.rip:9877/249/4gtv-live012/index.m3u8
+八大精彩台,http://4gtv.mumi.rip:9877/172/4gtv-4gtv034/index.m3u8
+靖天國際台,http://4gtv.mumi.rip:9877/84/4gtv-4gtv063/index.m3u8
+Lifetime 娛樂頻道,http://4gtv.mumi.rip:9877/217/4gtv-live029/index.m3u8
+幸福空間居家台,http://4gtv.mumi.rip:9877/168/4gtv-live206/index.m3u8
+靖天歡樂台,http://4gtv.mumi.rip:9877/119/4gtv-4gtv054/index.m3u8
+愛爾達生活旅遊台,http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8
+視納華仁紀實頻道,http://4gtv.mumi.rip:9877/38/4gtv-4gtv013/index.m3u8
+TV5MONDE STYLE HD 生活時尚,http://4gtv.mumi.rip:9877/178/4gtv-live122/index.m3u8
+愛爾達娛樂台,http://4gtv.mumi.rip:9877/19/4gtv-4gtv070/index.m3u8
 MIT台灣誌,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 萬秀豬王,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 豬哥會社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
-TVBS歡樂台,https://bsex.serv00.net/Smart.php?id=tvbshuanle_twn
 TVBS亞洲台,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-八大第一台,https://bsex.serv00.net/Smart.php?id=badafirst
 八大綜合台,http://61.221.215.25:8800/hls/56/index.m3u8
 緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-三立台灣台,https://bsex.serv00.net/Smart.php?id=sanlitaiwan
-中天亞洲,https://bsex.serv00.net/Smart.php?id=ctiasia_twn
-中天娱樂,https://bsex.serv00.net/Smart.php?id=ctient
-中天綜合,https://bsex.serv00.net/Smart.php?id=ctizhonghe
 飢餓遊戲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
 天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-緯來日本,https://bsex.serv00.net/Smart.php?id=videolandjapan
 日本 NHK,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 
 電影,#genre#
-HBO,https://bsex.serv00.net/Smart.php?id=hbohd_twn
-HBO FAMILY,https://bsex.serv00.net/Smart.php?id=fyi_twn
-AXN,https://bsex.serv00.net/Smart.php?id=axn_twn
+靖天映畫,http://4gtv.mumi.rip:9877/42/4gtv-4gtv055/index.m3u8
+AMC,http://4gtv.mumi.rip:9877/39/4gtv-4gtv017/index.m3u8
+ROCK Action電影台,http://4gtv.mumi.rip:9877/180/4gtv-live138/index.m3u8
+采昌影劇台,http://4gtv.mumi.rip:9877/25/4gtv-4gtv049/index.m3u8
+靖天電影台,http://4gtv.mumi.rip:9877/82/4gtv-4gtv061/index.m3u8
+龍華電影台,http://4gtv.mumi.rip:9877/121/litv-longturn03/index.m3u8
+影迷數位紀實台,http://4gtv.mumi.rip:9877/212/4gtv-live023/index.m3u8
+影迷數位電影台,http://4gtv.mumi.rip:9877/40/4gtv-4gtv011/index.m3u8
+CinemaWorld電影,http://4gtv.mumi.rip:9877/225/4gtv-live069/index.m3u8
+經典電影台,http://4gtv.mumi.rip:9877/201/4gtv-live021/index.m3u8
+電影免費看 2台,http://4gtv.mumi.rip:9877/245/4gtv-live005/index.m3u8
+我的歐洲電影,http://4gtv.mumi.rip:9877/176/4gtv-live157/index.m3u8
 AMC,http://61.221.215.25:8800/hls/43/index.m3u8
-CINEMAX,https://bsex.serv00.net/Smart.php?id=cinemax_twn
-好萊塢電影,https://bsex.serv00.net/Smart.php?id=hollywoodmovies_twn
-東森電影,https://bsex.serv00.net/Smart.php?id=ettvmovie
-龍華電影,https://bsex.serv00.net/Smart.php?id=xingwei_movie
-美亞電影,https://bsex.serv00.net/Smart.php?id=meiyamovie_twn
+
 
 體育,#genre#
-愛爾達體育1,https://bsex.serv00.net/Smart.php?id=eltasport_twn
-愛爾達體育2,https://bsex.serv00.net/Smart.php?id=eltasport2_twn
-愛爾達體育3,https://bsex.serv00.net/Smart.php?id=eltasport3_twn
-愛爾達體育4,https://bsex.serv00.net/Smart.php?id=natgeowild_twn
-ELEVEN體育1,https://bsex.serv00.net/Smart.php?id=golfchannel_twn
-博斯網球,https://bsex.serv00.net/Smart.php?id=bositennis_twn
-博斯魅力,https://bsex.serv00.net/Smart.php?id=bosisport1_twn
-博斯運動二台,https://bsex.serv00.net/Smart.php?id=bosisport2_twn
-博斯高球1台,https://bsex.serv00.net/Smart.php?id=bosigolf1_twn
-博斯高球2台,https://bsex.serv00.net/Smart.php?id=bosigolf2_twn
-緯來體育台,https://bsex.serv00.net/Smart.php?id=videolandsport
+時尚運動X,http://4gtv.mumi.rip:9877/69/4gtv-4gtv014/index.m3u8
+博斯高球台,http://4gtv.mumi.rip:9877/48/litv-longturn05/index.m3u8
+博斯無限台,http://4gtv.mumi.rip:9877/51/litv-longturn10/index.m3u8
+博斯網球台,http://4gtv.mumi.rip:9877/52/litv-longturn09/index.m3u8
+博斯魅力台,http://4gtv.mumi.rip:9877/300/litv-longturn04/index.m3u8
+智林體育台,http://4gtv.mumi.rip:9877/58/4gtv-4gtv101/index.m3u8
+博斯高球二台,http://4gtv.mumi.rip:9877/298/litv-longturn06/index.m3u8
+博斯運動一台,http://4gtv.mumi.rip:9877/50/litv-longturn07/index.m3u8
+博斯運動二台,http://4gtv.mumi.rip:9877/299/litv-longturn08/index.m3u8
+車迷TV,http://4gtv.mumi.rip:9877/160/4gtv-live201/index.m3u8
+TRACE Sport Stars,http://4gtv.mumi.rip:9877/57/4gtv-4gtv077/index.m3u8
 
 探索,#genre#
 Love Nrture「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
 動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
-TLC旅遊生活,https://bsex.serv00.net/Smart.php?id=tlc_twn
-國家地理,https://bsex.serv00.net/Smart.php?id=natgeohd_twn
-CCTV9,http://58.248.112.205:8006/GD_CUCC/G_CCTV-9-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBZc7OJ1GFY%2FDpyULoLmfNSfAKtWnnk8cjSV9zSUfQpeh
+Global Trekker探索世界,http://4gtv.mumi.rip:9877/252/4gtv-live112/index.m3u8
+Smart知識台,http://4gtv.mumi.rip:9877/297/litv-longturn19/index.m3u8
+達文西頻道,http://4gtv.mumi.rip:9877/11/4gtv-4gtv018/index.m3u8
+Love Nature,http://4gtv.mumi.rip:9877/139/4gtv-live208/index.m3u8
+LUXE TV 奢華頻道,http://4gtv.mumi.rip:9877/175/4gtv-live121/index.m3u8
+Globetrotter 環遊旅行家,http://4gtv.mumi.rip:9877/288/4gtv-4gtv016/index.m3u8
+History 歷史頻道,http://4gtv.mumi.rip:9877/214/4gtv-live026/index.m3u8
+TechStorm科技趨勢,http://4gtv.mumi.rip:9877/181/4gtv-live109/index.m3u8
 
 幼幼、卡通,#genre#
-CN卡通,https://bsex.serv00.net/Smart.php?id=momo1_twn
-靖天卡通,https://bsex.serv00.net/Smart.php?id=jingtiancartoon_twn
+i-Fun動漫台,http://4gtv.mumi.rip:9877/60/litv-ftv15/index.m3u8
+經典卡通台,http://4gtv.mumi.rip:9877/202/4gtv-live022/index.m3u8
+靖天卡通台,http://4gtv.mumi.rip:9877/15/4gtv-4gtv044/index.m3u8
+龍華卡通台,http://4gtv.mumi.rip:9877/295/litv-longturn01/index.m3u8
+Nick Jr. 兒童頻道,http://4gtv.mumi.rip:9877/219/4gtv-live032/index.m3u8
+靖洋卡通Nice Bingo,http://4gtv.mumi.rip:9877/59/4gtv-4gtv057/index.m3u8
+精選動漫台,http://4gtv.mumi.rip:9877/204/4gtv-live024/index.m3u8
+超人力霸王整套看,http://4gtv.mumi.rip:9877/278/4gtv-live015/index.m3u8
+DreamWorks 夢工廠動畫,http://4gtv.mumi.rip:9877/282/4gtv-live017/index.m3u8
+尼克兒童頻道,http://4gtv.mumi.rip:9877/185/4gtv-live105/index.m3u8
+兒童卡通台,http://4gtv.mumi.rip:9877/269/4gtv-live009/index.m3u8
 中華一番,http://61.221.215.25:8800/hls/40/index.m3u8
-YOYO TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
 
 戲劇,#genre#
-三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
-八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
-愛爾達影劇,https://bsex.serv00.net/Smart.php?id=eltayingju_twn
+TVBS台劇台,http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
+公視戲劇,http://4gtv.mumi.rip:9877/7/4gtv-4gtv042/index.m3u8
+龍華偶像台,http://4gtv.mumi.rip:9877/296/litv-longturn12/index.m3u8
+民視影劇台,http://4gtv.mumi.rip:9877/24/litv-ftv09/index.m3u8
+龍華戲劇台,http://4gtv.mumi.rip:9877/23/litv-longturn18/index.m3u8
+龍華日韓台,http://4gtv.mumi.rip:9877/28/litv-longturn11/index.m3u8
+金光布袋戲,http://4gtv.mumi.rip:9877/236/4gtv-live144/index.m3u8
+霹靂布袋戲,http://4gtv.mumi.rip:9877/301/4gtv-live145/index.m3u8
+靖天戲劇台,http://4gtv.mumi.rip:9877/116/4gtv-4gtv058/index.m3u8
+靖洋戲劇台,http://4gtv.mumi.rip:9877/118/4gtv-4gtv045/index.m3u8
+戲劇免費看 1台,http://4gtv.mumi.rip:9877/270/4gtv-live010/index.m3u8
+戲劇免費看 2台,http://4gtv.mumi.rip:9877/244/4gtv-live006/index.m3u8
 
 MTV,#genre#
-MTV,https://bsex.serv00.net/Smart.php?id=mtvhd_twn
 日本 MTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 日本 Music Japan TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 日本 Space Shower TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 The K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+MTV Live HD 音樂頻道,http://4gtv.mumi.rip:9877/213/4gtv-live025/index.m3u8
+電影原聲台CMusic,http://4gtv.mumi.rip:9877/218/4gtv-live031/index.m3u8
+TRACE Urban音樂,http://4gtv.mumi.rip:9877/78/4gtv-4gtv082/index.m3u8
+fun探索娛樂台,http://4gtv.mumi.rip:9877/274/4gtv-live011/index.m3u8
+Mezzo 音樂Live HD,http://4gtv.mumi.rip:9877/79/4gtv-4gtv083/index.m3u8
+ROCK Entertainment,http://4gtv.mumi.rip:9877/275/4gtv-live080/index.m3u8
+CLASSICA 古典樂,http://4gtv.mumi.rip:9877/80/4gtv-4gtv059/index.m3u8
 
 時尚,#genre#
 全球時尚 Global Fashion Channel,https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
