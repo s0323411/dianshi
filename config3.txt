@@ -1,27 +1,23 @@
 {
   "channelList": [
-    {
-      "name": "23 CCTV13",
-      "url": "http://58.248.112.205:8006/GD_CUCC/G_CCTV-13-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBeUi4Thb7vkXG9wotcNmK%2FSEqT0xBi9U3gvduQFenMFz"
-    },
 {
       "name": "非凡新聞台",
-      "url": "https://tv.iill.top/tv/ffxw|okhttp"
+      "url": "https://tv.iill.top/tv/ffxw|okhttp/5.0.0-alpha.14"
     },
 {
       "name": "非凡新聞台",
       "url": "https://tv.iill.top/litv/4gtv-4gtv010",
-"header": "User-Agent: okhttp"
+"header": "User-Agent: okhttp/5.0.0-alpha.14"
     },
 {
       "name": "TVBS",
       "url": "https://tv.iill.top/litv/4gtv-4gtv073",
-"header": "user-agent: okhttp"
+"header": "user-agent: okhttp/5.0.0-alpha.14"
     },
 {
       "name": "TVBS",
       "url": "https://tv.iill.top/tv/tvbs",
-"header": "USERAGENT: okhttp"
+"header": "USERAGENT: okhttp/5.0.0-alpha.14"
     },
 {
       "name": "TVBS 564",
