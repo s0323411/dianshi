@@ -155,7 +155,7 @@
       "name": "35 GPTV電影台 (YouTube) "
     },
 {
-https://github.com/s0323411/dianshi/raw/main/siji.txt
+  "list": "https://github.com/s0323411/dianshi/raw/main/siji.txt"
 },
 {
   "list": "https://raw.githubusercontent.com/s0323411/dianshi/main/big.txt"
