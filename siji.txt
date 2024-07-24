@@ -14,15 +14,9 @@
         },
         {
             "itemid": "uid0000",
-            "name": "TVBS精采台",
+            "name": "八大綜合台",
             "num": "00003",
-            "url": "http://4gtv.mumi.rip:9877/227/4gtv-4gtv067/index.m3u8"
-        },
-        {
-            "itemid": "uid0000",
-            "name": "MOMO親子台",
-            "num": "00004",
-            "url": "http://4gtv.mumi.rip:9877/231/4gtv-live107/index.m3u8"
+            "url": "https://stream1.freetv.fun/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8"
         },
         {
             "itemid": "uid0000",
@@ -41,12 +35,6 @@
             "name": "八大綜藝台",
             "num": "00007",
             "url": "http://4gtv.mumi.rip:9877/114/4gtv-4gtv039/index.m3u8"
-        },
-        {
-            "itemid": "uid0000",
-            "name": "中視菁采台",
-            "num": "00008",
-            "url": "http://4gtv.mumi.rip:9877/123/4gtv-4gtv064/index.m3u8"
         },
         {
             "itemid": "uid0000",
