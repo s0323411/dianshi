@@ -2,10 +2,12 @@
   "channelList": [
     {
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "00 公視(youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "01 台視 (youtube)"
     },
     {
@@ -35,63 +37,78 @@
     },
     {
       "url": "CCTV9,https://node3.olelive.com:6443/live/CCTV9HD/hls.m3u8",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "07 CCTV9 (TVbox)"
     },
     {
       "url": "https://www.youtube.com/watch?v=MJFaJER4Qxo",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "08 中天亞洲台 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=6KlRR_DGhmI",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "09 公視台語台 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=oV_i3Hsl_zg",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "10 大愛一臺 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "11 大愛二臺 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=WHEPzbFA3hw",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "12 東森財經 (Youtube)"
     },
     {
       "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "13 非凡新聞 ",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
       "url": "https://www.youtube.com/watch?v=WTRQiVWK1jY",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "14 寰宇財經台 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "15 台視新聞 (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=TCnaIE_SAtM",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "16 中視新聞 (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "17 華視新聞  (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "18 民視新聞 (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=oIgbl7t0S_w",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "19 中天新聞  (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "20 東森新聞  (YouTube) "
     },
     {
       "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "21 TVBS 新聞 (YouTube) "
     },
     {
@@ -101,42 +118,52 @@
     },
     {
       "name": "23 CCTV13",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "url": "https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8"
     },
     {
       "url": "https://www.youtube.com/watch?v=NhZXUwlY2dU",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "24 寰宇新聞 (youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=w87VGpgd90U",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "25 寰宇新聞台灣台 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=twhG7_jvA8g",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "26 CCTV 4 中文國際 (youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=HFib76ySpbU",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "27 鳳凰衛視資訊台 (youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=iyOq8DhaMYw",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "28 彭博商業新聞 Bloomberg Business News (youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=oZdzzvxTfUY",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "29 三立新聞 (youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "30 鏡新聞 (Youtube)"
     },
     {
       "url": "https://www.youtube.com/watch?v=WIhgU_mc05A",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "31 新唐人亞太台 (Youtube)"
     },
     {
       "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "32 豬哥亮-萬秀豬王(Youtube)"
     },
     {
