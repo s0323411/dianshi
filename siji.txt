@@ -10,12 +10,14 @@
             "itemid": "uid0000",
             "name": "TVBS歡樂台",
             "num": "00002",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8"
         },
         {
             "itemid": "uid0000",
             "name": "八大綜合台",
             "num": "00003",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "https://stream1.freetv.fun/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8"
         },
         {
