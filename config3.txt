@@ -6,19 +6,22 @@
     },
 {
       "name": "非凡新聞台",
-      "url": "https://tv.iill.top/tv/ffxw"
+      "url": "https://tv.iill.top/tv/ffxw|okhttp"
     },
 {
       "name": "非凡新聞台",
-      "url": "https://tv.iill.top/litv/4gtv-4gtv010"
+      "url": "https://tv.iill.top/litv/4gtv-4gtv010",
+"header": "User-Agent: okhttp"
     },
 {
       "name": "TVBS",
-      "url": "https://tv.iill.top/litv/4gtv-4gtv073"
+      "url": "https://tv.iill.top/litv/4gtv-4gtv073",
+"header": "user-agent: okhttp"
     },
 {
       "name": "TVBS",
-      "url": "https://tv.iill.top/tv/tvbs"
+      "url": "https://tv.iill.top/tv/tvbs",
+"header": "USERAGENT: okhttp"
     },
 {
       "name": "TVBS 564",
