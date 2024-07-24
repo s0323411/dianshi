@@ -1,8 +1,13 @@
 新聞,#genre#
-鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+民視,http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8
+中視,http://4gtv.mumi.rip:9877/4/4gtv-4gtv040/index.m3u8
+華視,http://4gtv.mumi.rip:9877/6/4gtv-4gtv041/index.m3u8
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 Live 三立,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+SBN全球財經台,http://4gtv.mumi.rip:9877/224/4gtv-live060/index.m3u8
+CNBC Asia 財經台,http://4gtv.mumi.rip:9877/235/4gtv-live130/index.m3u8
+華視新聞,http://4gtv.mumi.rip:9877/34/4gtv-4gtv052/index.m3u8
+鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 大愛,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 大愛二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
@@ -12,7 +17,7 @@ Live 三立,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 民視新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 中天新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 TVBS news,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
-TVBS,http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
+TVBS 56,http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
 CCTV13,https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
 寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新聞台灣台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
@@ -52,6 +57,7 @@ TVBS亞洲台,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 飢餓遊戲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
 天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 日本 NHK,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 
 電影,#genre#
