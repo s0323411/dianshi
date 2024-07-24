@@ -1,18 +1,9 @@
-{
-  "lives": [ 
+ {
+  "lives": [
     {
-      "name": "非凡新聞台",
-      "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "referer": "https://fetfriday.svc.litv.tv/"
-    },
-    {
-      "name": "TXT",
-      "url": "https://github.com/s0323411/dianshi/raw/main/mylist.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "timeout": 8
+      "name": "JSON",
+      "type": 1,
+      "url": "https://github.com/s0323411/dianshi/raw/main/001.json"
     }
   ]
 }
