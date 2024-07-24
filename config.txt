@@ -38,7 +38,7 @@
       "name": "07 CCTV9 (TVbox)"
     },
     {
-      "url": "https://www.youtube.com/watch?v=s2waUruqze4",
+      "url": "https://www.youtube.com/watch?v=MJFaJER4Qxo",
       "name": "08 中天亞洲台 (Youtube)"
     },
     {
@@ -145,7 +145,7 @@
       "name": "33 日本 NHK news"
     },   
     {
-      "url": "https://www.youtube.com/watch?v=fl1iFkAWcVU",
+      "url": "https://www.youtube.com/watch?v=OVdLUlVHFMI",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "34 大陸尋奇 (youtube)"
     },
