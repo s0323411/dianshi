@@ -2,22 +2,27 @@
   "channelList": [
 {
       "name": "CCTV13",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "url": "https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8"
         },
 {
       "name": "CCTV13",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "url": "https://node3.olelive.com:6443/live/CCTV13HD/hls.m3u8"
     },
 {
       "name": "TVBS 56",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "url": "http://125.227.210.55:8188/VideoInput/play.ts"
     },
 {
       "name": "TVBS 56",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "url": "http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8"
     },
 {
       "name": "TVBS 56",
+  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "url": "https://stream1.freetv.fun/1f12cb14745f743ccca1433e22f418c19224a0d4610c6edce055b0fa399b8b6a.ctv"
         }
     ]
