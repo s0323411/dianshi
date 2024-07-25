@@ -3,6 +3,8 @@
 公視,https://stream1.freetv.fun/68063c382e8596c301016e3d13a513e74b92e8e6ac118e0ef13629b9fb67a0a9.ctv
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 台視,rtmp://220.130.201.73/sat/tv071
+公視,https://tv.iill.top/tv/gs
+台視,https://tv.iill.top/tv/ts
 運通財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 彭博商業新聞,https://www.youtube.com/watch?v=iyOq8DhaMYw
@@ -47,11 +49,17 @@ TVBS綜藝台,http://4gtv.mumi.rip:9877/284/4gtv-live087/index.m3u8
 八大綜合台,https://stream1.freetv.fun/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
 八大綜合台,http://61.221.215.25:8800/hls/56/index.m3u8
 八大綜藝台,http://4gtv.mumi.rip:9877/114/4gtv-4gtv039/index.m3u8
+中視,https://tv.iill.top/tv/zs
 中視,rtmp://f13h.mine.nu/sat/tv091
+華視,https://tv.iill.top/tv/hs
 華視,rtmp://f13h.mine.nu/sat/tv111
 華視,https://stream1.freetv.fun/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
+華視,https://tv.iill.top/litv/4gtv-4gtv041
+民視,https://tv.iill.top/litv/4gtv-4gtv002
+民視,https://tv.iill.top/tv/ms
 民視,rtmp://220.130.201.73/sat/tv051
 民視,https://stream1.freetv.fun/0c732f1c3cdedc99da491366300295b9e1d323d05cbf813115baf063d1d3b432.m3u8
+三立台灣台,https://tv.iill.top/tv/sltw
 三立台灣台,http://125.227.210.55:8160/VideoInput/play.ts
 三立台灣台,https://stream1.freetv.fun/acc8e0da66479a3f14682ca5885ae331941e02776a01687bab0f186a80bac6de.ctv
 三立台灣台,https://stream1.freetv.fun/f85e0aed9779c6b1b6865708da72d0aa4e3b8b2b30c2760700f3e3123553f0ee.ctv
