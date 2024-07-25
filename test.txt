@@ -1,7 +1,5 @@
 全部,#genre#
-000,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
-001,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8?tid=https://fetfriday.svc.litv.tv/
-002,https://fetfriday.svc.litv.tv/?tid=https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
-003,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8?id=https://fetfriday.svc.litv.tv/
-004,https://fetfriday.svc.litv.tv/?id=https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
-AI主播倪珍24小時播新聞,https://www.youtube.com/watch?v=gpex9BhW6wE
+非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+非凡新聞台,https://tv.iill.top/litv/4gtv-4gtv010|okhttp/5.0.0-alpha.14
+TVBS 56,https://tv.iill.top/tv/tvbs
