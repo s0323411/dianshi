@@ -1,20 +1,20 @@
 {
   "channelList": [
-    {
-      "url": " ",
-      "name": " ( )"
+   {
+      "url": "https://tv.iill.top/tv/aedty1",
+      "name": "ELTA 體育 1 台",
+	  "ua": "okhttp/5.0.0-alpha.14"
     },
-    {
-      "url": " ",
-      "name": " ( )"
+   {
+      "url": "https://tv.iill.top/tv/aedty2",
+      "name": "ELTA 體育 2台",
+      "header": "ua: okhttp/5.0.0-alpha.14"
     },
-    {
-      "url": " ",
-      "name": " ( )"
-    },
-    {
-      "url": " ",
-      "name": " ( )"
+   {
+      "url": "https://tv.iill.top/tv/aedty3",
+      "name": "ELTA 體育 3台",
+	  "ua": "okhttp/5.0.0-alpha.14",
+      "header": "Referer: https://tv.iill.top/"
     }
   ]
 }
