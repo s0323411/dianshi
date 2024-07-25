@@ -28,6 +28,8 @@
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 TVBS 新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS 56,http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
+TVBS 56,https://tv.iill.top/litv/4gtv-4gtv073
+TVBS 56,https://tv.iill.top/tv/tvbs
 TVBS 56,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS 56,https://stream1.freetv.fun/1f12cb14745f743ccca1433e22f418c19224a0d4610c6edce055b0fa399b8b6a.ctv
 CCTV13,https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
@@ -57,24 +59,17 @@ TVBS綜藝台,http://4gtv.mumi.rip:9877/284/4gtv-live087/index.m3u8
 三立台灣台,https://stream1.freetv.fun/f85e0aed9779c6b1b6865708da72d0aa4e3b8b2b30c2760700f3e3123553f0ee.ctv
 三立綜合台,http://4gtv.mumi.rip:9877/169/4gtv-live207/index.m3u8
 民視綜藝台,http://4gtv.mumi.rip:9877/16/4gtv-4gtv004/index.m3u8
-靖天育樂台,http://4gtv.mumi.rip:9877/83/4gtv-4gtv062/index.m3u8
-靖天資訊台,http://4gtv.mumi.rip:9877/88/4gtv-4gtv065/index.m3u8
-民視旅遊台,http://4gtv.mumi.rip:9877/61/litv-ftv07/index.m3u8
-亞洲旅遊台,http://4gtv.mumi.rip:9877/250/litv-longturn17/index.m3u8
-滾動力rollor,http://4gtv.mumi.rip:9877/249/4gtv-live012/index.m3u8
 
+緯來日本,https://tv.iill.top/tv/wlrb
 靖天國際台,http://4gtv.mumi.rip:9877/84/4gtv-4gtv063/index.m3u8
-Lifetime 娛樂頻道,http://4gtv.mumi.rip:9877/217/4gtv-live029/index.m3u8
-幸福空間居家台,http://4gtv.mumi.rip:9877/168/4gtv-live206/index.m3u8
+
 靖天歡樂台,http://4gtv.mumi.rip:9877/119/4gtv-4gtv054/index.m3u8
-愛爾達生活旅遊台,http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8
-視納華仁紀實頻道,http://4gtv.mumi.rip:9877/38/4gtv-4gtv013/index.m3u8
-TV5MONDE STYLE HD 生活時尚,http://4gtv.mumi.rip:9877/178/4gtv-live122/index.m3u8
-愛爾達娛樂台,http://4gtv.mumi.rip:9877/19/4gtv-4gtv070/index.m3u8
-豬哥會社,http://4gtv.mumi.rip:9877/113/4gtv-4gtv006/index.m3u8
+
+
 MIT台灣誌,https://www.youtube.com/watch?v=jgn5KR-Kqrc
 大陸尋奇,https://www.youtube.com/watch?v=OVdLUlVHFMI
 大陸尋奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+豬哥會社,http://4gtv.mumi.rip:9877/113/4gtv-4gtv006/index.m3u8
 天王豬哥秀,https://www.youtube.com/watch?v=IsFtLpSuf_g
 萬秀豬王,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
 豬哥會社,https://www.youtube.com/watch?v=0aBJU1mFpsk
@@ -87,15 +82,23 @@ TVBS亞洲台,https://stream1.freetv.fun/06baf79b6e6515fa271791223499a2ecf53f191
 緯來日本,https://stream1.freetv.fun/3cd74587ba1c238ff02161b0be00701c89ca3a01ab27f78e3439a6a4acaebb9c.m3u8
 緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 緯來精彩,https://stream1.freetv.fun/d7fb67b6ad553367e15a443a726eb62c44d1775de9b706ebde77eead8d67ba58.m3u8
-
+愛爾達生活旅遊台,http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8
+視納華仁紀實頻道,http://4gtv.mumi.rip:9877/38/4gtv-4gtv013/index.m3u8
+TV5MONDE STYLE HD 生活時尚,http://4gtv.mumi.rip:9877/178/4gtv-live122/index.m3u8
+愛爾達娛樂台,http://4gtv.mumi.rip:9877/19/4gtv-4gtv070/index.m3u8
 MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 中天綜合台,https://www.youtube.com/watch?v=MJFaJER4Qxo
 飢餓遊戲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
 天才衝衝衝,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 沒完沒了,https://www.youtube.com/watch?v=HGzIAC5pWr4
 日本 NHK,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
-
-
+靖天育樂台,http://4gtv.mumi.rip:9877/83/4gtv-4gtv062/index.m3u8
+靖天資訊台,http://4gtv.mumi.rip:9877/88/4gtv-4gtv065/index.m3u8
+民視旅遊台,http://4gtv.mumi.rip:9877/61/litv-ftv07/index.m3u8
+亞洲旅遊台,http://4gtv.mumi.rip:9877/250/litv-longturn17/index.m3u8
+滾動力rollor,http://4gtv.mumi.rip:9877/249/4gtv-live012/index.m3u8
+Lifetime 娛樂頻道,http://4gtv.mumi.rip:9877/217/4gtv-live029/index.m3u8
+幸福空間居家台,http://4gtv.mumi.rip:9877/168/4gtv-live206/index.m3u8
 
 電影,#genre#
 GPTV電影台,https://www.youtube.com/watch?v=V0eNcTH0LDo
