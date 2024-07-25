@@ -32,6 +32,7 @@ TVBS 56,https://tv.iill.top/litv/4gtv-4gtv073
 TVBS 56,https://tv.iill.top/tv/tvbs
 TVBS 56,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS 56,https://stream1.freetv.fun/1f12cb14745f743ccca1433e22f418c19224a0d4610c6edce055b0fa399b8b6a.ctv
+cctv13,https://tv.iill.top/tv/cctv13
 CCTV13,https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
 CCTV13,https://node3.olelive.com:6443/live/CCTV13HD/hls.m3u8
 CCTV13,http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024079003.m3u8
@@ -124,6 +125,7 @@ ROCK Action電影台,http://4gtv.mumi.rip:9877/180/4gtv-live138/index.m3u8
 采昌影劇台,http://4gtv.mumi.rip:9877/25/4gtv-4gtv049/index.m3u8
 靖天電影台,http://4gtv.mumi.rip:9877/82/4gtv-4gtv061/index.m3u8
 龍華電影台,http://4gtv.mumi.rip:9877/121/litv-longturn03/index.m3u8
+CCTV6,https://tv.iill.top/tv/cctv6
 影迷數位紀實台,http://4gtv.mumi.rip:9877/212/4gtv-live023/index.m3u8
 影迷數位電影台,http://4gtv.mumi.rip:9877/40/4gtv-4gtv011/index.m3u8
 CinemaWorld電影,http://4gtv.mumi.rip:9877/225/4gtv-live069/index.m3u8
@@ -148,13 +150,15 @@ ELTA 體育 4 台,https://tv.iill.top/tv/aedty4
 TRACE Sport Stars,http://4gtv.mumi.rip:9877/57/4gtv-4gtv077/index.m3u8
 緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts
 緯來體育台,rtmp://f13h.mine.nu/sat/tv721
+CCTV5,https://tv.iill.top/tv/cctv5
+CCTV5+,https://tv.iill.top/tv/cctv5p
 CCTV5,https://z02.ubtvfans.com/live/rx1/204/7eb3bfaf347e514a453b161277aa01f3/index.m3u8
 博斯網球台,https://stream1.freetv.fun/66a2eabd8284dee1a5e23fb1d794046759e00009630d310edfb86c847c51273e.m3u8
 博斯高球台,https://stream1.freetv.fun/7a4b03a14d74273650a665f075e44861c63f4a51281c47bf53142adff89334ca.m3u8
 博斯魅力台,https://stream1.freetv.fun/53e1bcead4c2301a13c3da0e5b9874d51ca01b18ac1f2b6015bc5bf1b12fd1c8.m3u8
 UFC格鬥,https://stream1.freetv.fun/f3087198f12bd69e8dde3db4401c44245dc28830da3dd020536d5a2f14f63218.ctv
 Impact! Wrestling 摔角,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-緯來體育,https://stream1.freetv.fun/67541549aa368b813516af86845bef6abaa24314f757d002c717324025ba10ac.m3u8
+緯來體育台,https://stream1.freetv.fun/67541549aa368b813516af86845bef6abaa24314f757d002c717324025ba10ac.m3u8
 博斯高球台,https://tv.iill.top/tv/bsgq1
 博斯高球二台,https://tv.iill.top/tv/bsgq2
 博斯運動二台,https://tv.iill.top/tv/bsyd2
@@ -170,7 +174,7 @@ Impact! Wrestling 摔角,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlis
 博斯高球二台,https://tv.iill.top/litv/litv-longturn06
 博斯魅力台,https://tv.iill.top/litv/litv-longturn04
 時尚運動X,https://tv.iill.top/4gtv/277
-緯來體育,https://tv.iill.top/tv/wlty
+緯來體育台,https://tv.iill.top/tv/wlty
 車迷 TV,https://tv.iill.top/4gtv/160
 
 探索,#genre#
@@ -186,6 +190,7 @@ LUXE TV 奢華頻道,http://4gtv.mumi.rip:9877/175/4gtv-live121/index.m3u8
 Globetrotter 環遊旅行家,http://4gtv.mumi.rip:9877/288/4gtv-4gtv016/index.m3u8
 History 歷史頻道,http://4gtv.mumi.rip:9877/214/4gtv-live026/index.m3u8
 TechStorm科技趨勢,http://4gtv.mumi.rip:9877/181/4gtv-live109/index.m3u8
+CCTV9,https://tv.iill.top/tv/cctv9
 
 幼幼、卡通,#genre#
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
