@@ -13,8 +13,8 @@
 大愛二臺,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 大愛二臺,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
-非凡新聞台,https://www.youtube.com/watch?v=QlJJEwMYzEc
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
+非凡新聞台,https://www.youtube.com/watch?v=QlJJEwMYzEc
 寰宇財經台,https://www.youtube.com/watch?v=WTRQiVWK1jY
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
@@ -37,10 +37,13 @@ CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
 
 
-
 綜藝,#genre#
 TVBS歡樂台,http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
 八大綜合台,https://stream1.freetv.fun/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
+八大綜合台,http://61.221.215.25:8800/hls/56/index.m3u8
+中視,rtmp://f13h.mine.nu/sat/tv091
+華視,rtmp://f13h.mine.nu/sat/tv111
+民視,rtmp://220.130.201.73/sat/tv051
 TVBS綜藝台,http://4gtv.mumi.rip:9877/284/4gtv-live087/index.m3u8
 三立綜合台,http://4gtv.mumi.rip:9877/169/4gtv-live207/index.m3u8
 八大綜藝台,http://4gtv.mumi.rip:9877/114/4gtv-4gtv039/index.m3u8
@@ -75,7 +78,7 @@ TVBS歡樂台,https://stream1.freetv.fun/bddb60f3ed16f8742e1193ec7ec4e1f3ff85d6d
 TVBS亞洲台,https://stream1.freetv.fun/06baf79b6e6515fa271791223499a2ecf53f1917f24c680bfa8a7539162cce76.m3u8
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
-八大綜合台,http://61.221.215.25:8800/hls/56/index.m3u8
+
 MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
 中天綜合台,https://www.youtube.com/watch?v=MJFaJER4Qxo
 飢餓遊戲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
@@ -117,6 +120,7 @@ CinemaWorld電影,http://4gtv.mumi.rip:9877/225/4gtv-live069/index.m3u8
 車迷TV,http://4gtv.mumi.rip:9877/160/4gtv-live201/index.m3u8
 TRACE Sport Stars,http://4gtv.mumi.rip:9877/57/4gtv-4gtv077/index.m3u8
 緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts
+緯來體育台,rtmp://f13h.mine.nu/sat/tv721
 CCTV5,https://z02.ubtvfans.com/live/rx1/204/7eb3bfaf347e514a453b161277aa01f3/index.m3u8
 博斯網球台,https://stream1.freetv.fun/66a2eabd8284dee1a5e23fb1d794046759e00009630d310edfb86c847c51273e.m3u8
 博斯高球台,https://stream1.freetv.fun/7a4b03a14d74273650a665f075e44861c63f4a51281c47bf53142adff89334ca.m3u8
