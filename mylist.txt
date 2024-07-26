@@ -14,8 +14,10 @@
 公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
 大愛一臺,https://www.youtube.com/watch?v=oV_i3Hsl_zg
 大愛一臺,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+大愛一臺,https://www.youtube.com/watch?v=MIqUplvSRWA
 大愛二臺,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 大愛二臺,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+大愛二臺,https://www.youtube.com/watch?v=OKvWtVoDR8I
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞台,https://www.youtube.com/watch?v=QlJJEwMYzEc
