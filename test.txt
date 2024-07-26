@@ -1,5 +1,201 @@
-全部,#genre#
-非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
-緯來日本,rtmp://f13h.mine.nu/sat/tv771
-非凡新聞台,https://tv.iill.top/litv/4gtv-4gtv010|okhttp/5.0.0-alpha.14
+新聞,#genre#
+非凡新聞台,https://tv.iill.top/tv/ffxw
+非凡新聞台,https://tv.iill.top/litv/4gtv-4gtv010
+TVBS 56,https://tv.iill.top/litv/4gtv-4gtv073
 TVBS 56,https://tv.iill.top/tv/tvbs
+TVBS 新聞台,https://tv.iill.top/tv/tvbsxw
+中天新聞台,https://tv.iill.top/tv/ztxw
+公視新聞台,https://tv.iill.top/tv/tsxw
+民視新聞台,https://tv.iill.top/tv/msxw
+寰宇新聞台,https://tv.iill.top/tv/hyxw
+寰宇財經台,https://tv.iill.top/tv/hycj
+東森財經新聞,https://tv.iill.top/tv/dscj
+TVBS 新聞台,https://tv.iill.top/litv/4gtv-4gtv072
+三立新聞,https://tv.iill.top/4gtv/229
+中天新聞台,https://tv.iill.top/litv/4gtv-4gtv009
+中視新聞台,https://tv.iill.top/litv/4gtv-4gtv074
+台視新聞台,https://tv.iill.top/litv/4gtv-4gtv051
+台視財經台,https://tv.iill.top/litv/4gtv-4gtv056
+客家電視台,https://tv.iill.top/litv/4gtv-4gtv043
+寰宇新聞台,https://tv.iill.top/litv/litv-longturn14
+寰宇新聞台灣台,https://tv.iill.top/litv/litv-longturn15
+寰宇財經台,https://tv.iill.top/litv/litv-longturn23
+東森新聞,https://tv.iill.top/litv/4gtv-4gtv152
+東森財經新聞,https://tv.iill.top/litv/4gtv-4gtv153
+華視新聞,https://tv.iill.top/litv/4gtv-4gtv052
+非凡商業台,https://tv.iill.top/litv/4gtv-4gtv048
+鏡電視新聞台,https://tv.iill.top/litv/4gtv-4gtv075
+SBN 全球財經台,https://tv.iill.top/4gtv/224
+
+
+綜藝電視,#genre#
+TVBS 歡樂台,https://tv.iill.top/tv/tvbshl
+TVBS 歡樂台,https://tv.iill.top/litv/4gtv-4gtv068
+ELTA 娛樂台,https://tv.iill.top/litv/4gtv-4gtv070
+靖天國際台,https://tv.iill.top/tv/jtgj
+緯來日本,https://tv.iill.top/tv/wlrb
+中天娛樂台,https://tv.iill.top/tv/ztyl
+中天綜合台,https://tv.iill.top/tv/ztzh
+中天亞洲台,https://tv.iill.top/tv/ztyz
+中視,https://tv.iill.top/tv/zs
+華視,https://tv.iill.top/tv/hs
+公視,https://tv.iill.top/tv/gs
+台視,https://tv.iill.top/tv/ts
+民視,https://tv.iill.top/tv/ms
+大愛電視,https://tv.iill.top/tv/da
+三立台灣台,https://tv.iill.top/tv/sltw
+八大第一台,https://tv.iill.top/tv/bddy
+八大綜藝台,https://tv.iill.top/tv/bdzh
+三立綜合台,https://tv.iill.top/tv/slzh
+東森綜合,https://tv.iill.top/tv/dszh
+東森超視,https://tv.iill.top/tv/dscs
+TVBS 精采台,https://tv.iill.top/litv/4gtv-4gtv067
+TVBS 綜藝台,https://tv.iill.top/4gtv/284
+中天亞洲台,https://tv.iill.top/litv/4gtv-4gtv109
+靖天國際台,https://tv.iill.top/litv/4gtv-4gtv063
+三立綜合台,https://tv.iill.top/4gtv/169
+中視,https://tv.iill.top/litv/4gtv-4gtv040
+靖天日本台,https://tv.iill.top/litv/4gtv-4gtv047
+靖天歡樂台,https://tv.iill.top/litv/4gtv-4gtv054
+靖天綜合台,https://tv.iill.top/litv/4gtv-4gtv046
+靖天育樂台,https://tv.iill.top/litv/4gtv-4gtv062
+靖天資訊台,https://tv.iill.top/litv/4gtv-4gtv065
+八大精彩台,https://tv.iill.top/litv/4gtv-4gtv034
+八大綜藝台,https://tv.iill.top/litv/4gtv-4gtv039
+台視,https://tv.iill.top/litv/4gtv-4gtv066
+華視,https://tv.iill.top/litv/4gtv-4gtv041
+民視,https://tv.iill.top/litv/4gtv-4gtv002
+ELTA 娛樂台,https://tv.iill.top/litv/4gtv-4gtv070
+ELTA 生活旅遊,https://tv.iill.top/4gtv/237
+ELTA生活英語,https://tv.iill.top/litv/litv-longturn20
+
+
+電影,#genre#
+ONE,https://tv.iill.top/tv/one
+CINEMAX,https://tv.iill.top/tv/cinemax
+HBOHD,https://tv.iill.top/tv/hbohd
+HBO Hits,https://tv.iill.top/tv/qdjx
+美亞電影台,https://tv.iill.top/tv/mydy
+好萊塢電影台,https://tv.iill.top/tv/hlw
+CatchPlay 電影台,https://tv.iill.top/litv/4gtv-4gtv076
+AMC,https://tv.iill.top/litv/4gtv-4gtv017
+緯來電影,https://tv.iill.top/tv/wldy
+東森電影,https://tv.iill.top/tv/dsdy
+東森洋片,https://tv.iill.top/tv/dsyp
+龍華洋片台,https://tv.iill.top/tv/lhyp
+龍華電影台,https://tv.iill.top/tv/lhdy
+靖天映畫台,https://tv.iill.top/litv/4gtv-4gtv055
+靖天電影台,https://tv.iill.top/litv/4gtv-4gtv061
+龍華電影台,https://tv.iill.top/litv/litv-longturn03
+AMC 最愛電影,https://tv.iill.top/litv/4gtv-4gtv017
+影迷數位紀實台,https://tv.iill.top/4gtv/212
+影迷數位電影台,https://tv.iill.top/litv/4gtv-4gtv011
+
+
+體育,#genre#
+ELTA 體育 1 台,https://tv.iill.top/tv/aedty1
+ELTA 體育 2 台,https://tv.iill.top/tv/aedty2
+ELTA 體育 3 台,https://tv.iill.top/tv/aedty3
+ELTA 體育 4 台,https://tv.iill.top/tv/aedty4
+博斯高球台,https://tv.iill.top/tv/bsgq1
+博斯高球二台,https://tv.iill.top/tv/bsgq2
+博斯運動二台,https://tv.iill.top/tv/bsyd2
+博斯魅力台,https://tv.iill.top/tv/bsml
+博斯網球台,https://tv.iill.top/tv/bswq
+博斯無限台,https://tv.iill.top/tv/bswx
+博斯無限台,https://tv.iill.top/litv/litv-longturn10
+博斯無限二台,https://tv.iill.top/litv/litv-longturn13
+博斯網球台,https://tv.iill.top/litv/litv-longturn09
+博斯運動一台,https://tv.iill.top/litv/litv-longturn07
+博斯運動二台,https://tv.iill.top/litv/litv-longturn08
+博斯高球台,https://tv.iill.top/litv/litv-longturn05
+博斯高球二台,https://tv.iill.top/litv/litv-longturn06
+博斯魅力台,https://tv.iill.top/litv/litv-longturn04
+時尚運動X,https://tv.iill.top/4gtv/277
+緯來體育,https://tv.iill.top/tv/wlty
+車迷 TV,https://tv.iill.top/4gtv/160
+
+探索,#genre#
+動物星球,https://tv.iill.top/tv/dwxq
+探索亞洲,https://tv.iill.top/tv/tsyz
+DMAX,https://tv.iill.top/tv/tsdl
+探索頻道,https://tv.iill.top/tv/tspd
+亞洲旅遊台,https://tv.iill.top/tv/yzly
+亚洲美食,https://tv.iill.top/tv/yzms
+美食星球,https://tv.iill.top/tv/msxq
+EYETV 旅游,https://tv.iill.top/tv/eyely
+亞洲旅遊台,https://tv.iill.top/litv/litv-longturn17
+達文西頻道,https://tv.iill.top/litv/4gtv-4gtv018
+Fun 探索娛樂台,https://tv.iill.top/4gtv/274
+Global Trekker,https://tv.iill.top/4gtv/252
+Globetrotter 環遊旅行家,https://tv.iill.top/litv/4gtv-4gtv016
+Smart 知識台,https://tv.iill.top/litv/litv-longturn19
+幸福空間居家台,https://tv.iill.top/4gtv/168
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+
+幼幼、卡通,#genre#
+HBO Family,https://tv.iill.top/tv/wxjt
+精選動漫台,https://tv.iill.top/4gtv/204
+靖天卡通台,https://tv.iill.top/tv/jtkt
+CN 卡通頻道,https://tv.iill.top/tv/cnkt
+靖天卡通台,https://tv.iill.top/litv/4gtv-4gtv044
+靖洋卡通 Nice Bingo,https://tv.iill.top/litv/4gtv-4gtv057
+龍華卡通台,https://tv.iill.top/litv/litv-longturn01
+經典卡通台,https://tv.iill.top/4gtv/202
+超人力霸王整套看,https://tv.iill.top/4gtv/278
+DreamWorks 夢工廠動畫,https://tv.iill.top/4gtv/282
+MOMO 親子台,https://tv.iill.top/4gtv/231
+Nick Jr. 兒童頻道,https://tv.iill.top/4gtv/219
+i-Fun 動漫台,https://tv.iill.top/litv/litv-ftv15
+經典卡通台,https://tv.iill.top/4gtv/202
+
+戲劇,#genre#
+ELTA戲劇,https://tv.iill.top/tv/aedyj
+金光布袋戲,https://tv.iill.top/4gtv/236
+霹靂布袋戲,http://152.67.28.220:5200/4gtv/301
+八大戲劇台,https://tv.iill.top/tv/bdxj
+三立戲劇台,https://tv.iill.top/tv/slxj
+東森戲劇,https://tv.iill.top/tv/dsxj
+龍華偶像台,https://tv.iill.top/tv/lhox
+龍華戲劇台,https://tv.iill.top/tv/lhxj
+靖天戲劇台,https://tv.iill.top/litv/4gtv-4gtv058
+靖洋戲劇台,https://tv.iill.top/litv/4gtv-4gtv045
+龍華偶像台,https://tv.iill.top/litv/litv-longturn12
+龍華戲劇台,https://tv.iill.top/litv/litv-longturn18
+龍華日韓台,https://tv.iill.top/litv/litv-longturn11
+公視戲劇台,https://tv.iill.top/litv/4gtv-4gtv042
+台灣戲劇台,https://tv.iill.top/litv/litv-longturn22
+民視影劇台,https://tv.iill.top/litv/litv-ftv09
+
+音樂、MTV,#genre#
+MTV Live,https://tv.iill.top/tv/mtv
+MTV Live,https://tv.iill.top/4gtv/213
+Mezzo Live,https://tv.iill.top/litv/4gtv-4gtv083
+
+CCTV央視,#genre#
+CCTV1,https://tv.iill.top/tv/cctv1
+CCTV2,https://tv.iill.top/tv/cctv2
+CCTV3,https://tv.iill.top/tv/cctv3
+CCTV4,https://tv.iill.top/tv/cctv4
+CCTV5,https://tv.iill.top/tv/cctv5
+CCTV5+,https://tv.iill.top/tv/cctv5p
+CCTV6,https://tv.iill.top/tv/cctv6
+CCTV7,https://tv.iill.top/tv/cctv7
+CCTV8,https://tv.iill.top/tv/cctv8
+CCTV9,https://tv.iill.top/tv/cctv9
+CCTV10,https://tv.iill.top/tv/cctv10
+CCTV11,https://tv.iill.top/tv/cctv11
+CCTV12,https://tv.iill.top/tv/cctv12
+CCTV13,https://tv.iill.top/tv/cctv13
+CCTV14,https://tv.iill.top/tv/cctv14
+CCTV15,https://tv.iill.top/tv/cctv15
+CCTV16,https://tv.iill.top/tv/cctv16
+CCTV17,https://tv.iill.top/tv/cctv17
+
+時尚,#genre#
+時裝藝術表演,https://tv.iill.top/youtube/305miamivisuals
+時裝藝術表演¹,https://tv.iill.top/youtube/NYFT
+時裝藝術表演²,https://tv.iill.top/youtube/shiftswim
+時裝藝術表演³,https://tv.iill.top/youtube/SPLASHme
+Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
