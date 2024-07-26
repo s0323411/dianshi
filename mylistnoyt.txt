@@ -12,6 +12,7 @@ CNBC Asia 財經台,http://4gtv.mumi.rip:9877/235/4gtv-live130/index.m3u8
 大愛二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 寰宇財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
+非凡新聞台1,https://raw.githubusercontent.com/s0323411/YouTube_to_m3u/main/youtube.m3u8
 非凡新聞台1,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722026044/ei/3LOjZoT-MdLGybgPqvGbiAQ/ip/172.183.77.195/id/QlJJEwMYzEc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181297/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAbdBiTAww7k1wEdQy3WfgB9mSc_sBsHxY_2YDTYT85JI_ybm4AM16dD85QI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALLdMch7OezmuRr7eL9_fC8eH0IJOztSWJ8p94b1LKT5AiEAyY6CQoznUOllV_thgGnDTRxa1BPzZqmxLmpCJfSfbw8%3D/file/index.m3u8
 非凡新聞台2,https://github.com/s0323411/YouTube_to_m3u/raw/main/youtube.m3u8
 台視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
