@@ -9,28 +9,28 @@
         },
         {
             "itemid": "uid0000",
-            "name": "八大綜合台",
+            "name": "41 八大綜合台",
             "num": "00003",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "https://stream1.freetv.fun/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "TVBS綜藝台",
+            "name": "42 TVBS綜藝台",
             "num": "00005",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/284/4gtv-live087/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "三立綜合台",
+            "name": "43 三立綜合台",
             "num": "00006",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/169/4gtv-live207/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "緯來日本",
+            "name": "44 緯來日本",
             "num": "00001",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "https://stream1.freetv.fun/3cd74587ba1c238ff02161b0be00701c89ca3a01ab27f78e3439a6a4acaebb9c.m3u8"
@@ -38,14 +38,14 @@
 
         {
             "itemid": "uid0000",
-            "name": "靖天日本台",
+            "name": "45 靖天日本台",
             "num": "00010",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/22/4gtv-4gtv047/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "民視綜藝台",
+            "name": "46 民視綜藝台",
             "num": "00011",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/16/4gtv-4gtv004/index.m3u8"
@@ -54,7 +54,7 @@
 
         {
             "itemid": "uid0000",
-            "name": "靖天國際台",
+            "name": "47 靖天國際台",
             "num": "00018",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/84/4gtv-4gtv063/index.m3u8"
@@ -62,63 +62,63 @@
 
         {
             "itemid": "uid0000",
-            "name": "靖天歡樂台",
+            "name": "48 靖天歡樂台",
             "num": "00021",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/119/4gtv-4gtv054/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "愛爾達娛樂台",
+            "name": "49 愛爾達娛樂台",
             "num": "00025",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/19/4gtv-4gtv070/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "民視旅遊台",
+            "name": "50 民視旅遊台",
             "num": "00014",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/61/litv-ftv07/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "亞洲旅遊台",
+            "name": "51 亞洲旅遊台",
             "num": "00015",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/250/litv-longturn17/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "愛爾達生活旅遊台",
+            "name": "52 愛爾達生活旅遊台",
             "num": "00022",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "視納華仁紀實頻道",
+            "name": "53 視納華仁紀實頻道",
             "num": "00023",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/38/4gtv-4gtv013/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "TV5MONDE STYLE HD 生活時尚",
+            "name": "54 TV5MONDE STYLE HD 生活時尚",
             "num": "00024",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/178/4gtv-live122/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "幸福空間居家台",
+            "name": "55 幸福空間居家台",
             "num": "00020",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/168/4gtv-live206/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "豬哥會社",
+            "name": "56 豬哥會社",
             "num": "00026",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/113/4gtv-4gtv006/index.m3u8"
@@ -132,35 +132,35 @@
     {
       "url": "https://www.youtube.com/watch?v=V0eNcTH0LDo",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "35 GPTV電影台 (YouTube) "
+      "name": "58 GPTV電影台 (YouTube) "
     },
     {
       "url": "http://125.227.210.55:8153/VideoInput/play.ts",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "HBO HD 電影台 (大街)"
+      "name": "59 HBO HD 電影台 (大街)"
     },
     {
       "url": "http://125.227.210.55:8151/VideoInput/play.ts",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "CINEMAX (大街)"
+      "name": "60 CINEMAX (大街)"
     },
         {
             "itemid": "uid0000",
-            "name": "靖天映畫",
+            "name": "61 靖天映畫",
             "num": "00028",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/42/4gtv-4gtv055/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "AMC",
+            "name": "62 AMC",
             "num": "00029",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/39/4gtv-4gtv017/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "ROCK Action電影台",
+            "name": "63 ROCK Action電影台",
             "num": "00030",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/180/4gtv-live138/index.m3u8"
@@ -168,28 +168,28 @@
 
         {
             "itemid": "uid0000",
-            "name": "靖天電影台",
+            "name": "64 靖天電影台",
             "num": "00032",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/82/4gtv-4gtv061/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "龍華電影台",
+            "name": "65 龍華電影台",
             "num": "00033",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/121/litv-longturn03/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "CinemaWorld電影",
+            "name": "66 CinemaWorld 電影",
             "num": "00036",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/225/4gtv-live069/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "經典電影台",
+            "name": "67 經典電影台",
             "num": "00037",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/201/4gtv-live021/index.m3u8"
@@ -202,21 +202,21 @@
         },
         {
             "itemid": "uid0000",
-            "name": "博斯運動一台",
+            "name": "69 博斯運動一台",
             "num": "00048",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/50/litv-longturn07/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "博斯運動二台",
+            "name": "70 博斯運動二台",
             "num": "00049",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/299/litv-longturn08/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "博斯魅力台",
+            "name": "71 博斯魅力台",
             "num": "00045",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/300/litv-longturn04/index.m3u8"
@@ -224,53 +224,53 @@
     {
       "url": "http://125.227.210.55:8155/VideoInput/play.ts",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "緯來體育 (大街)"
+      "name": "72 緯來體育 (大街)"
     },
         {
             "itemid": "uid0000",
-            "name": "時尚運動X",
+            "name": "73 時尚運動X",
             "num": "00041",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/69/4gtv-4gtv014/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "博斯高球台",
+            "name": "74 博斯高球台",
             "num": "00042",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/48/litv-longturn05/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "博斯無限台",
+            "name": "75 博斯無限台",
             "num": "00043",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/51/litv-longturn10/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "博斯網球台",
+            "name": "76 博斯網球台",
             "num": "00044",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/52/litv-longturn09/index.m3u8"
         }, 
         {
             "itemid": "uid0000",
-            "name": "博斯高球二台",
+            "name": "77 博斯高球二台",
             "num": "00047",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/298/litv-longturn06/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "車迷TV",
+            "name": "78 車迷TV",
             "num": "00050",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/160/4gtv-live201/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "TRACE Sport Stars",
+            "name": "79 TRACE Sport Stars",
             "num": "00051",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/57/4gtv-4gtv077/index.m3u8"
@@ -283,7 +283,7 @@
         },
         {
             "itemid": "uid0000",
-            "name": "Global Trekker探索世界",
+            "name": "81 Global Trekker探索世界",
             "num": "00053",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/252/4gtv-live112/index.m3u8"
@@ -291,21 +291,21 @@
 
         {
             "itemid": "uid0000",
-            "name": "達文西頻道",
+            "name": "82 達文西頻道",
             "num": "00055",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/11/4gtv-4gtv018/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "Love Nature",
+            "name": "83 Love Nature",
             "num": "00056",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/139/4gtv-live208/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "History 歷史頻道",
+            "name": "84 History 歷史頻道",
             "num": "00059",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/214/4gtv-live026/index.m3u8"
@@ -317,41 +317,41 @@
             "url": "http://0.0.0.0"
         },
 {
-      "name": "CN卡通頻道(大街)",
+      "name": "86 CN卡通頻道(大街)",
       "url": "http://125.227.210.55:8167/VideoInput/play.ts",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)"
     },
         {
             "itemid": "uid0000",
-            "name": "i-Fun動漫台",
+            "name": "87 i-Fun動漫台",
             "num": "00062",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/60/litv-ftv15/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "靖天卡通台",
+            "name": "88 靖天卡通台",
             "num": "00064",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/15/4gtv-4gtv044/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "龍華卡通台",
+            "name": "89 龍華卡通台",
             "num": "00065",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/295/litv-longturn01/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "Nick Jr. 兒童頻道",
+            "name": "90 Nick Jr. 兒童頻道",
             "num": "00066",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/219/4gtv-live032/index.m3u8"
         },
         {
             "itemid": "uid0000",
-            "name": "尼克兒童頻道",
+            "name": "91 尼克兒童頻道",
             "num": "00071",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/185/4gtv-live105/index.m3u8"
@@ -364,7 +364,7 @@
         },
         {
             "itemid": "uid0000",
-            "name": "TVBS台劇台",
+            "name": "93 TVBS台劇台",
             "num": "00074",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8"
