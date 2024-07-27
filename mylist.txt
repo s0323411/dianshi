@@ -39,6 +39,12 @@ TVBS 56,http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
 TVBS 56,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS 56,https://stream1.freetv.fun/1f12cb14745f743ccca1433e22f418c19224a0d4610c6edce055b0fa399b8b6a.ctv
 CCTV13,https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
+CCTV13,https://stream1.freetv.fun/284baba270fb9fc28783da91424e53d762266f4c35440b9458f8000bafdda618.ctv
+CCTV13,https://stream1.freetv.fun/0e5ae770a152f6c21e3bf3a1b893a9b81986e2750dd43928be12118678d0ada4.ctv
+CCTV13,https://stream1.freetv.fun/c9a5b362bee2edbfa62aedbbda849e3d6c598c3569c794ce889d43c718193b88.ctv
+CCTV13,https://stream1.freetv.fun/3de70449cde3176a3ee598bc26020f02bd97aa698aaf148c0a9acd4a11e56d7e.ctv
+CCTV13,https://stream1.freetv.fun/5e0c514e6ba3d091c01c511c50880499f6584b993ae7c5de863424917928ece8.ctv
+CCTV13,https://stream1.freetv.fun/5faa47be190587cc85b9a83523c5bff88b5440ff623beb37d113818557a34903.ctv
 寰宇新聞,https://www.youtube.com/watch?v=NhZXUwlY2dU
 寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
 CCTV4,https://www.youtube.com/watch?v=twhG7_jvA8g
@@ -136,6 +142,7 @@ TRACE Sport Stars,http://4gtv.mumi.rip:9877/57/4gtv-4gtv077/index.m3u8
 緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts
 緯來體育台,rtmp://f13h.mine.nu/sat/tv721
 CCTV5,https://z02.ubtvfans.com/live/rx1/204/7eb3bfaf347e514a453b161277aa01f3/index.m3u8
+CCTV5+,https://stream1.freetv.fun/4e22d56b63e1d8307e47fd0d9840531fb3cc7839501b378169ee68b7546e190e.ctv
 博斯網球台,https://stream1.freetv.fun/66a2eabd8284dee1a5e23fb1d794046759e00009630d310edfb86c847c51273e.m3u8
 博斯高球台,https://stream1.freetv.fun/7a4b03a14d74273650a665f075e44861c63f4a51281c47bf53142adff89334ca.m3u8
 博斯魅力台,https://stream1.freetv.fun/53e1bcead4c2301a13c3da0e5b9874d51ca01b18ac1f2b6015bc5bf1b12fd1c8.m3u8
