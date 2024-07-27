@@ -6,3 +6,5 @@
 公視,https://tv.iill.top/tv/gs
 琅琊榜,#genre#
 琅琊榜,https://www.youtube.com/playlist?list=PLk2gvyPpHLRdofxRsW-n0Cp2H322jCw6j
+謝謝你醫生,#genre#
+謝謝你醫生,https://www.youtube.com/playlist?list=PLk2gvyPpHLRfzLzdRkRWac9OVifzyiqyR
