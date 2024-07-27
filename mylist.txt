@@ -15,9 +15,15 @@
 大愛一臺,https://www.youtube.com/watch?v=oV_i3Hsl_zg
 大愛一臺,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 大愛一臺,https://www.youtube.com/watch?v=MIqUplvSRWA
+大愛一臺,,https://stream1.freetv.fun/cda9c15049fc9a62b363d1018881fe11828f20acfccb0ba7927604e967e003e7.m3u8
+大愛一臺,,https://stream1.freetv.fun/634d66848d8e5fe80d4fb498f3de9e0a841cad38d5e9a12d8e1b4a807a7f5857.m3u8
+大愛一臺,,https://stream1.freetv.fun/8dab0126668b960d4130c12b25e9278ffda43f5b66fa986287ed34cd97cbd721.m3u8
 大愛二臺,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 大愛二臺,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 大愛二臺,https://www.youtube.com/watch?v=OKvWtVoDR8I
+大愛二臺,https://stream1.freetv.fun/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8
+大愛二臺,https://stream1.freetv.fun/60efaf070c91949a4c4e52c9d35746ebfb99b5318b43115c15205965c5807948.m3u8
+大愛二臺,https://stream1.freetv.fun/adefa4b3b335e22e458ee3232eb44832e815acd82cf7ad1c489d2d11274c700b.m3u8
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞台,https://www.youtube.com/watch?v=QlJJEwMYzEc
