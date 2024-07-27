@@ -171,6 +171,15 @@ LUXE TV 奢華頻道,http://4gtv.mumi.rip:9877/175/4gtv-live121/index.m3u8
 Globetrotter 環遊旅行家,http://4gtv.mumi.rip:9877/288/4gtv-4gtv016/index.m3u8
 History 歷史頻道,http://4gtv.mumi.rip:9877/214/4gtv-live026/index.m3u8
 TechStorm科技趨勢,http://4gtv.mumi.rip:9877/181/4gtv-live109/index.m3u8
+CCTV9,https://stream1.freetv.fun/2f3da8b9f4145836b705ccec906c157037368e73d66cdbc442b6129bcf7a4b4d.ctv
+CCTV9,https://stream1.freetv.fun/3f0d6340a09494054d9b10a20279d43d80b601ae95427b1b5b8026216e2c56eb.m3u8
+CCTV9,https://stream1.freetv.fun/d679147e93998024df6b15ec6ed8bb75dc84568fd0ef46e20df4882a00ed1200.m3u8
+CCTV9,https://stream1.freetv.fun/f40015c3010fefcfa533d77a2fc27b651532cac3cded1da75f594342b6b3cd66.ctv
+CCTV9,https://stream1.freetv.fun/6dd92b523700e06fa8185b8ca6779ac23c7bf7b0eb3e14bd8ca7b3a9640f5435.ctv
+CCTV9,https://stream1.freetv.fun/9f33b8ace9ae107bb1c4ebad8ce9b0781975dd3c237cf200b312079161dcba71.ctv
+CCTV9,https://stream1.freetv.fun/33427a655d83605b457893e5ac823a22b0cff2e4afd17df22d0d96629216aa0d.ctv
+CCTV9,https://stream1.freetv.fun/6ab34fa32b5b1077272a9c78afcbc3fae503a0724a72a207f7f2a9ab1ba46d6f.ctv
+CCTV9,https://stream1.freetv.fun/3df4da43bedf317bba77eefaed263dd25a58b02232dab7516c5899cf1ff26a22.ctv
 
 幼幼、卡通,#genre#
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
