@@ -142,6 +142,14 @@ TRACE Sport Stars,http://4gtv.mumi.rip:9877/57/4gtv-4gtv077/index.m3u8
 緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts
 緯來體育台,rtmp://f13h.mine.nu/sat/tv721
 CCTV5,https://z02.ubtvfans.com/live/rx1/204/7eb3bfaf347e514a453b161277aa01f3/index.m3u8
+CCTV5,https://stream1.freetv.fun/db9f27d9e9a6af90b4424055ec3347f6b823be91ffcb2c22f63dcf54e0ae3045.ctv
+CCTV5,https://stream1.freetv.fun/3ea5153fdba5005cc7211727e52be5c762a3db706fb679c88bb7b86ba2419fec.ctv
+CCTV5,https://stream1.freetv.fun/9e926f3e5f09d37a0cee1a59c02b4b9e796bcc61e2a2fd1ee5af6d9991e875ac.m3u8
+CCTV5,https://stream1.freetv.fun/30b5057144df998642e4e5fadca27edde2f06387a34dc26b5c6b6db6bbdaba7a.ctv
+CCTV5,https://stream1.freetv.fun/8e49f86b23d779f6cfa2d65ae6e12a1b6b0a802b67926faf9896e6c44611f256.ctv
+CCTV5+,https://stream1.freetv.fun/bc347f479c5117db082bde2602af2de646971c878f683cddeb7b981bf205b10e.ctv
+CCTV5+,https://stream1.freetv.fun/d1d492a153f75164cbbc0fde6fd4a17844d27c977dc2c4849861b14a223df9b0.ctv
+CCTV5+,https://stream1.freetv.fun/c8560b706d9c7cb02b8b2a59a2c11a8b3d27768b932893d7d46084a95db47d57.ctv
 CCTV5+,https://stream1.freetv.fun/4e22d56b63e1d8307e47fd0d9840531fb3cc7839501b378169ee68b7546e190e.ctv
 博斯網球台,https://stream1.freetv.fun/66a2eabd8284dee1a5e23fb1d794046759e00009630d310edfb86c847c51273e.m3u8
 博斯高球台,https://stream1.freetv.fun/7a4b03a14d74273650a665f075e44861c63f4a51281c47bf53142adff89334ca.m3u8
