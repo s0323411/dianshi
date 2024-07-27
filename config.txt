@@ -223,47 +223,47 @@
     {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "日本 MTV"
+      "name": "112 日本 MTV"
     },
     {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "日本 Music Japan TV"
+      "name": "113 日本 Music Japan TV"
     },
     {
       "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "日本 Space Shower TV"
+      "name": "114 日本 Space Shower TV"
     },
     {
       "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "K-POP"
+      "name": "115 K-POP"
     },
     {
       "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "Korea"
+      "name": "116 Korea"
     },
     {
       "url": "https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "Love Nrture「自然」"
+      "name": "117 Love Nrture「自然」"
     },
     {
       "url": "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "全球時尚 Global Fashion Channel"
+      "name": "118 全球時尚 Global Fashion Channel"
     },
     {
       "url": "http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "法國時尚"
+      "name": "119 法國時尚"
     },
     {
       "url": "https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-      "name": "Fashion TV HD"
+      "name": "120 Fashion TV HD"
     },
 {
   "list": "https://github.com/s0323411/dianshi/raw/main/back.txt"
