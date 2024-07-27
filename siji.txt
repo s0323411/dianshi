@@ -311,6 +311,12 @@
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://4gtv.mumi.rip:9877/11/4gtv-4gtv018/index.m3u8"
         },
+    {
+            "itemid": "uid0000",
+            "name": "CCTV9",
+            "num": "00001",
+            "url": "https://stream1.freetv.fun/2f3da8b9f4145836b705ccec906c157037368e73d66cdbc442b6129bcf7a4b4d.ctv"
+        }
         {
             "itemid": "uid0000",
             "name": "Love Nature",
