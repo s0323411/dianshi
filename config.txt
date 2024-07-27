@@ -38,12 +38,10 @@
             "url": "https://stream1.freetv.fun/0c732f1c3cdedc99da491366300295b9e1d323d05cbf813115baf063d1d3b432.m3u8"
         },
     {
-            "itemid": "uid0000",
-            "name": "06 原住民族電視台",
-            "num": "00001",
-            "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-            "url": "http://4gtv.mumi.rip:9877/273/4gtv-live014/index.m3u8"
-        },
+      "url": "http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8",
+      "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
+      "name": "06 中台灣生活網"
+    },
         {
             "itemid": "uid0000",
             "name": "07 TaiwanPlus",
