@@ -117,10 +117,6 @@ CinemaWorld電影,http://4gtv.mumi.rip:9877/225/4gtv-live069/index.m3u8
 我的歐洲電影,http://4gtv.mumi.rip:9877/176/4gtv-live157/index.m3u8
 
 體育,#genre#
-ELTA 體育 1 台,https://tv.iill.top/tv/aedty1
-ELTA 體育 2 台,https://tv.iill.top/tv/aedty2
-ELTA 體育 3 台,https://tv.iill.top/tv/aedty3
-ELTA 體育 4 台,https://tv.iill.top/tv/aedty4
 博斯網球台,http://4gtv.mumi.rip:9877/52/litv-longturn09/index.m3u8
 博斯魅力台,http://4gtv.mumi.rip:9877/300/litv-longturn04/index.m3u8
 博斯運動一台,http://4gtv.mumi.rip:9877/50/litv-longturn07/index.m3u8
