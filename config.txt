@@ -177,7 +177,7 @@
       "name": "34 大陸尋奇 (youtube)"
     },
     {
-      "url": "https://www.youtube.com/watch?v=V0eNcTH0LDo",
+      "url": "https://www.youtube.com/live/V0eNcTH0LDo?si=5b1zBBJCuArVhJl0",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "35 GPTV電影台 (YouTube) "
     },
