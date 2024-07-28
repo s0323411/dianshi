@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
-#EXTVLCOPT:http-referrer=https://fetfriday.svc.litv.tv/
-https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
