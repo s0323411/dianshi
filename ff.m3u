@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://fetfriday.svc.litv.tv/
+#EXTVLCOPT:Referer=https://fetfriday.svc.litv.tv/
 https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
