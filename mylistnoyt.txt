@@ -11,6 +11,7 @@ CNBC Asia 財經台,http://4gtv.mumi.rip:9877/235/4gtv-live130/index.m3u8
 大愛,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 大愛二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+非凡新聞台,https://github.com/s0323411/dianshi/raw/main/ff.m3u8
 寰宇財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
 台視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 中視新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
