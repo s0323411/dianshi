@@ -1,12 +1,7 @@
 新聞,#genre#
 公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
-非凡新聞台,https://raw.githubusercontent.com/s0323411/dianshi/main/ff.m3u
-非凡新聞台,https://github.com/s0323411/dianshi/raw/main/ff.m3
+非凡新聞台,https://raw.githubusercontent.com/s0323411/dianshi/main/ff3.m3u
 公視,https://stream1.freetv.fun/68063c382e8596c301016e3d13a513e74b92e8e6ac118e0ef13629b9fb67a0a9.ctv
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 台視,rtmp://220.130.201.73/sat/tv071
 公視,https://tv.iill.top/tv/gs
-琅琊榜,#genre#
-琅琊榜,https://www.youtube.com/playlist?list=PLk2gvyPpHLRdofxRsW-n0Cp2H322jCw6j
-謝謝你醫生,#genre#
-謝謝你醫生,https://www.youtube.com/playlist?list=PLk2gvyPpHLRfzLzdRkRWac9OVifzyiqyR
