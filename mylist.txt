@@ -39,12 +39,6 @@ TVBS 56,http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
 TVBS 56,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS 56,https://stream1.freetv.fun/1f12cb14745f743ccca1433e22f418c19224a0d4610c6edce055b0fa399b8b6a.ctv
 CCTV13,https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
-CCTV13,https://stream1.freetv.fun/284baba270fb9fc28783da91424e53d762266f4c35440b9458f8000bafdda618.ctv
-CCTV13,https://stream1.freetv.fun/0e5ae770a152f6c21e3bf3a1b893a9b81986e2750dd43928be12118678d0ada4.ctv
-CCTV13,https://stream1.freetv.fun/c9a5b362bee2edbfa62aedbbda849e3d6c598c3569c794ce889d43c718193b88.ctv
-CCTV13,https://stream1.freetv.fun/3de70449cde3176a3ee598bc26020f02bd97aa698aaf148c0a9acd4a11e56d7e.ctv
-CCTV13,https://stream1.freetv.fun/5e0c514e6ba3d091c01c511c50880499f6584b993ae7c5de863424917928ece8.ctv
-CCTV13,https://stream1.freetv.fun/5faa47be190587cc85b9a83523c5bff88b5440ff623beb37d113818557a34903.ctv
 寰宇新聞,https://www.youtube.com/watch?v=NhZXUwlY2dU
 寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
 CCTV4,https://www.youtube.com/watch?v=twhG7_jvA8g
@@ -141,16 +135,6 @@ CinemaWorld電影,http://4gtv.mumi.rip:9877/225/4gtv-live069/index.m3u8
 TRACE Sport Stars,http://4gtv.mumi.rip:9877/57/4gtv-4gtv077/index.m3u8
 緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts
 緯來體育台,rtmp://f13h.mine.nu/sat/tv721
-CCTV5,https://z02.ubtvfans.com/live/rx1/204/7eb3bfaf347e514a453b161277aa01f3/index.m3u8
-CCTV5,https://stream1.freetv.fun/db9f27d9e9a6af90b4424055ec3347f6b823be91ffcb2c22f63dcf54e0ae3045.ctv
-CCTV5,https://stream1.freetv.fun/3ea5153fdba5005cc7211727e52be5c762a3db706fb679c88bb7b86ba2419fec.ctv
-CCTV5,https://stream1.freetv.fun/9e926f3e5f09d37a0cee1a59c02b4b9e796bcc61e2a2fd1ee5af6d9991e875ac.m3u8
-CCTV5,https://stream1.freetv.fun/30b5057144df998642e4e5fadca27edde2f06387a34dc26b5c6b6db6bbdaba7a.ctv
-CCTV5,https://stream1.freetv.fun/8e49f86b23d779f6cfa2d65ae6e12a1b6b0a802b67926faf9896e6c44611f256.ctv
-CCTV5+,https://stream1.freetv.fun/bc347f479c5117db082bde2602af2de646971c878f683cddeb7b981bf205b10e.ctv
-CCTV5+,https://stream1.freetv.fun/d1d492a153f75164cbbc0fde6fd4a17844d27c977dc2c4849861b14a223df9b0.ctv
-CCTV5+,https://stream1.freetv.fun/c8560b706d9c7cb02b8b2a59a2c11a8b3d27768b932893d7d46084a95db47d57.ctv
-CCTV5+,https://stream1.freetv.fun/4e22d56b63e1d8307e47fd0d9840531fb3cc7839501b378169ee68b7546e190e.ctv
 博斯網球台,https://stream1.freetv.fun/66a2eabd8284dee1a5e23fb1d794046759e00009630d310edfb86c847c51273e.m3u8
 博斯高球台,https://stream1.freetv.fun/7a4b03a14d74273650a665f075e44861c63f4a51281c47bf53142adff89334ca.m3u8
 博斯魅力台,https://stream1.freetv.fun/53e1bcead4c2301a13c3da0e5b9874d51ca01b18ac1f2b6015bc5bf1b12fd1c8.m3u8
@@ -171,15 +155,6 @@ LUXE TV 奢華頻道,http://4gtv.mumi.rip:9877/175/4gtv-live121/index.m3u8
 Globetrotter 環遊旅行家,http://4gtv.mumi.rip:9877/288/4gtv-4gtv016/index.m3u8
 History 歷史頻道,http://4gtv.mumi.rip:9877/214/4gtv-live026/index.m3u8
 TechStorm科技趨勢,http://4gtv.mumi.rip:9877/181/4gtv-live109/index.m3u8
-CCTV9,https://stream1.freetv.fun/2f3da8b9f4145836b705ccec906c157037368e73d66cdbc442b6129bcf7a4b4d.ctv
-CCTV9,https://stream1.freetv.fun/3f0d6340a09494054d9b10a20279d43d80b601ae95427b1b5b8026216e2c56eb.m3u8
-CCTV9,https://stream1.freetv.fun/d679147e93998024df6b15ec6ed8bb75dc84568fd0ef46e20df4882a00ed1200.m3u8
-CCTV9,https://stream1.freetv.fun/f40015c3010fefcfa533d77a2fc27b651532cac3cded1da75f594342b6b3cd66.ctv
-CCTV9,https://stream1.freetv.fun/6dd92b523700e06fa8185b8ca6779ac23c7bf7b0eb3e14bd8ca7b3a9640f5435.ctv
-CCTV9,https://stream1.freetv.fun/9f33b8ace9ae107bb1c4ebad8ce9b0781975dd3c237cf200b312079161dcba71.ctv
-CCTV9,https://stream1.freetv.fun/33427a655d83605b457893e5ac823a22b0cff2e4afd17df22d0d96629216aa0d.ctv
-CCTV9,https://stream1.freetv.fun/6ab34fa32b5b1077272a9c78afcbc3fae503a0724a72a207f7f2a9ab1ba46d6f.ctv
-CCTV9,https://stream1.freetv.fun/3df4da43bedf317bba77eefaed263dd25a58b02232dab7516c5899cf1ff26a22.ctv
 
 幼幼、卡通,#genre#
 我們這一家,https://www.youtube.com/watch?v=UK81GCw1KE8
