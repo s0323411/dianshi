@@ -1,0 +1,20 @@
+[
+        {
+            "itemid": "uid0000",
+            "name": "公視",
+            "num": "00001",
+            "uris": "https://www.youtube.com/watch?v=C6gYqSHLRw4"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "公視",
+            "num": "00002",
+            "uris": "https://stream1.freetv.fun/68063c382e8596c301016e3d13a513e74b92e8e6ac118e0ef13629b9fb67a0a9.ctv"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS歡樂台",
+            "num": "00003",
+            "uris": "http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8"
+        }
+]
