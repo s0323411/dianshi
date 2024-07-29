@@ -45,7 +45,9 @@ CCTV4,https://www.youtube.com/watch?v=twhG7_jvA8g
 CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 鳳凰衛視資訊台,https://www.youtube.com/watch?v=HFib76ySpbU
 三立新聞,https://www.youtube.com/watch?v=oZdzzvxTfUY
-
+年代新聞台,https://stream1.freetv.fun/371863f79fd1ca486f1e79e1321bf71096588d0cfb2c433e0f5e8a198966ce29.m3u8
+年代新聞台,https://stream1.freetv.fun/446c4999cadccac81b67f64ed38ac411384023e4bd7ac8b0039cf5d254fed238.m3u8
+年代新聞台,https://stream1.freetv.fun/b5ef52c4c0014cd069714f7d908107b3ac6a13150071d27d0829d1ee47cb27e9.m3u8
 
 綜藝,#genre#
 TVBS歡樂台,http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
