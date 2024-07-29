@@ -1,0 +1,14 @@
+[
+  {
+    "group": "電視",
+    "logo": "图标",
+    "name": "公視",
+    "title": "公視",
+    "uris": [
+      "https://www.youtube.com/watch?v=C6gYqSHLRw4"
+    ],
+    "headers": {
+      "user-agent": ""
+    }
+  }
+]
