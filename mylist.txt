@@ -39,6 +39,9 @@ TVBS 新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS 56,http://4gtv.mumi.rip:9877/183/4gtv-4gtv073/index.m3u8
 TVBS 56,http://125.227.210.55:8188/VideoInput/play.ts
 TVBS 56,https://stream1.freetv.fun/1f12cb14745f743ccca1433e22f418c19224a0d4610c6edce055b0fa399b8b6a.ctv
+
+CCTV13,https://tv.iill.top/tv/cctv13
+
 CCTV13,http://60.220.167.249:8083/rtp/226.0.2.165:9232
 CCTV13,http://60.220.167.249:8083/rtp/226.0.2.30:8152
 CCTV13,https://stream1.freetv.fun/3a63799dd08492a3543a3676a9029d110e51ad0ce3573faeb844f5dcd6b24767.m3u8
