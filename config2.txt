@@ -1,20 +1,34 @@
 {
-  "channelList": [
-{
-      "name": "非凡新聞台1",
-      "url": "https://raw.githubusercontent.com/s0323411/YouTube_to_m3u/main/y01.m3u8"
-    },
-{
-      "name": "非凡新聞台2",
-      "url": "https://raw.githubusercontent.com/s0323411/YouTube_to_m3u/main/y02.m3u8"
-    },
-{
-      "name": "非凡新聞台3",
-      "url": "https://raw.githubusercontent.com/s0323411/YouTube_to_m3u/main/y03.m3u8"
-    },
-{
-      "name": "非凡新聞台4",
-      "url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722028239/ei/bryjZsmFPOiKvPEPyJOw-AQ/ip/172.183.131.172/id/QlJJEwMYzEc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51230700/txs/51230696%2C51230697%2C51230698%2C51230699%2C51230700%2C51230701%2C51230702/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAVaWeri_t6WfHbGZxT9e3E6pkO3K9BR-QLEJW3ZQz90GOzbrw53jLzfB5f8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgefcogAIPyp7Bxfn-v02ar-G6HJOOJqgbD2_cv28jXCsCIQCSctFZ_Bbbac0CiLp9TxLe3NvnYulH9axK2Ye0epc_Hw%3D%3D/file/index.m3u8"
-    }
-  ]
+    "channelList": [
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-5+",
+            "num": "00001",
+            "url": "http://183.148.16.142:8088/udp/233.50.201.220:5140"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-9",
+            "num": "00002",
+            "url": "http://183.148.16.142:8088/udp/233.50.200.23:5140"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-9",
+            "num": "00003",
+            "url": "http://183.148.16.142:8088/udp/233.50.201.121:5140"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-13",
+            "num": "00004",
+            "url": "http://183.148.16.142:8088/udp/233.50.200.111:5140"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CCTV-13",
+            "num": "00005",
+            "url": "http://183.148.16.142:8088/udp/233.50.201.246:5140"
+        }
+    ]
 }
