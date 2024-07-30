@@ -1,5 +1,5 @@
 {
-    "live": [
+    "channelList": [
         {
             "itemid": "uid0000",
             "name": "CCTV-5+",
