@@ -44,6 +44,8 @@ CCTV13,https://stream1.freetv.fun/dd6af63dc696db02c7cabcc40eede9112cf1bb6dff04f7
 CCTV13,https://stream1.freetv.fun/6c3eb3f2f4adaa7c716d4602af1f0d7e294437580e802176bd313bb9dc4b07ae.m3u8
 CCTV13,https://stream1.freetv.fun/154978085099ab21525f5ab7bafe7eaaf7b6232260ec01acc55cce445b1ee554.ctv
 CCTV13,http://113.110.72.52:8090/hls/125/index.m3u8
+CCTV-13,http://183.148.16.142:8088/udp/233.50.200.111:5140
+CCTV-13,http://183.148.16.142:8088/udp/233.50.201.246:5140
 寰宇新聞,https://www.youtube.com/watch?v=NhZXUwlY2dU
 寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
 CCTV4,https://www.youtube.com/watch?v=twhG7_jvA8g
