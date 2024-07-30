@@ -4,31 +4,37 @@
             "itemid": "uid0000",
             "name": "CCTV-5+",
             "num": "00001",
+			  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://183.148.16.142:8088/udp/233.50.201.220:5140"
         },
         {
             "itemid": "uid0000",
             "name": "CCTV-9",
             "num": "00002",
+			  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://183.148.16.142:8088/udp/233.50.200.23:5140"
         },
         {
             "itemid": "uid0000",
             "name": "CCTV-9",
             "num": "00003",
+			  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://183.148.16.142:8088/udp/233.50.201.121:5140"
         },
         {
             "itemid": "uid0000",
             "name": "CCTV-13",
             "num": "00004",
+			  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://183.148.16.142:8088/udp/233.50.200.111:5140"
         },
         {
             "itemid": "uid0000",
             "name": "CCTV-13",
             "num": "00005",
+			  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
             "url": "http://183.148.16.142:8088/udp/233.50.201.246:5140"
         }
     ]
 }
+
