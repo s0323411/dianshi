@@ -1,4 +1,5 @@
 體育,#genre#
+非凡,https://github.com/s0323411/dianshi/raw/main/ff3.m3u
 ELTA 體育 1 台,https://tv.iill.top/tv/aedty1
 ELTA 體育 2 台,https://tv.iill.top/tv/aedty2
 ELTA 體育 3 台,https://tv.iill.top/tv/aedty3
