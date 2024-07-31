@@ -1,6 +1,6 @@
 體育,#genre#
-非凡,https://github.com/s0323411/dianshi/raw/main/ff3.m3u
-非凡2,https://github.com/s0323411/dianshi/raw/main/ff.m3u8
+非凡1,https://github.com/s0323411/dianshi/raw/main/fei.m3u8
+非凡3,https://github.com/s0323411/dianshi/raw/main/ff.m3u
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
 東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
 TVBS 新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
