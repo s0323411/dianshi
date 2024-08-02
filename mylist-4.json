@@ -1,26 +1,19 @@
-[
-  {
-    "group": "電視",
-    "logo": "图标",
-    "name": "公視",
-    "title": "公視",
-    "uris": [
-      "https://stream1.freetv.fun/68063c382e8596c301016e3d13a513e74b92e8e6ac118e0ef13629b9fb67a0a9.ctv"
-    ],
-    "headers": {
-      "user-agent": ""
-    }
-  },
-  {
-    "group": "綜藝",
-    "logo": "图标",
-    "name": "TVBS歡樂台",
-    "title": "TVBS歡樂台",
-    "uris": [
-      "http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8"
-    ],
-    "headers": {
-      "user-agent": ""
-    }
-  }  
-]
+{
+  "lives": [
+    {
+      "name": "TXT",
+      "url": "https://github.com/s0323411/dianshi/raw/main/mylist.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "timeout": 8
+    },
+    {
+      "name": "Custom",
+      "url": "https://github.com/s0323411/dianshi/raw/main/ff.txt",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+        "Referer": "https://fetfriday.svc.litv.tv/"
+		}
+      }
+  ]
+}
