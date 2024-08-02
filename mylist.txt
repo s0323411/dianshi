@@ -307,5 +307,4 @@ CCTV17,https://tv.iill.top/tv/cctv17
 Fashion TV HD,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 VPN,#genre#
-非凡新聞,https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8
 TVBS 56,https://www.youtube.com/watch?v=o_-hSMgpAzs
