@@ -1,14 +1,19 @@
-[
-  {
-    "group": "電視",
-    "logo": "图标",
-    "name": "公視",
-    "title": "公視",
-    "uris": [
-      "https://www.youtube.com/watch?v=C6gYqSHLRw4"
-    ],
-    "headers": {
-      "user-agent": ""
-    }
-  }
-]
+{
+  "lives": [
+    {
+      "name": "TXT",
+      "url": "https://github.com/s0323411/dianshi/raw/main/mylist.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "timeout": 8
+    },
+    {
+      "name": "Custom",
+      "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+        "Referer": "https://fetfriday.svc.litv.tv/"
+		}
+      }
+  ]
+}
