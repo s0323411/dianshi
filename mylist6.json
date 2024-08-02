@@ -1,0 +1,16 @@
+{
+  "lives": [
+    {
+      "name": "PRO",
+      "url": "https://github.com/s0323411/dianshi/raw/main/ff.txt",
+        "Referer": "https://fetfriday.svc.litv.tv/"
+    },  
+    {
+      "name": "TXT",
+      "url": "https://github.com/s0323411/dianshi/raw/main/mylist.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "timeout": 8
+    }
+  ]
+}
