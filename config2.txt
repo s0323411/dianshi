@@ -2,15 +2,15 @@
     "channelList": [
         {
             "itemid": "uid0000",
-            "name": "CCTV-5+",
+            "name": "奧運1",
             "num": "00001",
-            "url": "http://183.148.16.142:8088/udp/233.50.201.220:5140"
+            "url": "https://hamivideo.hinet.net/channel/OTT_LIVE_0000001945.do"
         },
         {
             "itemid": "uid0000",
-            "name": "CCTV-9",
+            "name": "NHK",
             "num": "00002",
-            "url": "http://183.148.16.142:8088/udp/233.50.200.23:5140"
+            "url": "https://hamivideo.hinet.net/channel/OTT_LIVE_0000001974.do"
         },
         {
             "itemid": "uid0000",
