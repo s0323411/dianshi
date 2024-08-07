@@ -1,0 +1,544 @@
+{
+    "channelList": [
+        {
+            "itemid": "uid0000",
+            "name": "三立iNEWS",
+            "num": "00001",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "寰宇新聞台",
+            "num": "00002",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森財經新聞",
+            "num": "00003",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "momo購物一台",
+            "num": "00004",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "momo購物二台",
+            "num": "00005",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "運通財經台",
+            "num": "00006",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "信大電視台",
+            "num": "00007",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "DW News",
+            "num": "00008",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中視新聞",
+            "num": "00009",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Malaimurasu Tv 24X7",
+            "num": "00010",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Asianet News",
+            "num": "00011",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "華視戲劇頻道",
+            "num": "00012",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中天亞洲台",
+            "num": "00013",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Al Jazeera Arabic",
+            "num": "00014",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "JapaNews24",
+            "num": "00015",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "THE K-POP",
+            "num": "00016",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民視新聞",
+            "num": "00017",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森購物台CH60",
+            "num": "00018",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森購物台CH46",
+            "num": "00019",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "LIVE NOW",
+            "num": "00020",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Haberturk TV",
+            "num": "00021",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "鳳凰衛視資訊台",
+            "num": "00022",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "新唐人LIVE",
+            "num": "00023",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ABC News",
+            "num": "00024",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "台視新聞台",
+            "num": "00025",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "華視綜藝頻道",
+            "num": "00026",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Astro AWANI",
+            "num": "00027",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中天電視",
+            "num": "00028",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Tokyo Walk",
+            "num": "00029",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "大愛一臺HD",
+            "num": "00030",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS NEWS",
+            "num": "00031",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立新聞台",
+            "num": "00032",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "GB News",
+            "num": "00033",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中視經典綜藝",
+            "num": "00034",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Sky News",
+            "num": "00035",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "India Today",
+            "num": "00036",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Euronews English",
+            "num": "00037",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "FRANCE 24 English",
+            "num": "00038",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "NBC News",
+            "num": "00039",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "News18 India",
+            "num": "00040",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "寰宇新聞台灣台",
+            "num": "00041",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "MIT台灣誌",
+            "num": "00042",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "鳳凰衛視資訊台",
+            "num": "00043",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "MediaoneTV Live",
+            "num": "00044",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TBS NEWS",
+            "num": "00045",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "NewsTamil24x7",
+            "num": "00046",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "大愛二臺HD",
+            "num": "00047",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森購物台CH47",
+            "num": "00048",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中天2台",
+            "num": "00049",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Malayalam News",
+            "num": "00050",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Arirang TV",
+            "num": "00051",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CNA LIVE",
+            "num": "00052",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "HTB北海道ニュース",
+            "num": "00053",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "美好購物1台",
+            "num": "00054",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "美好購物2台",
+            "num": "00055",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "國會頻道１",
+            "num": "00056",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "立法院會議",
+            "num": "00057",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "123 GO! Live",
+            "num": "00058",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Al Jazeera English",
+            "num": "00059",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Muse木棉花-闔家歡",
+            "num": "00060",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "KBS News",
+            "num": "00061",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ABCテレビニュース",
+            "num": "00062",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "YOYO TV",
+            "num": "00063",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "小猪佩奇",
+            "num": "00064",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Talking Tom",
+            "num": "00065",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TalkingFriendsTVMini",
+            "num": "00066",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Dave and Ava",
+            "num": "00067",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Tayo the Little Bus",
+            "num": "00068",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Disney Junio",
+            "num": "00069",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "鏡新聞",
+            "num": "00070",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "大陸尋奇",
+            "num": "00071",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "CRUX",
+            "num": "00072",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "豬哥會社",
+            "num": "00073",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TIMES NOW",
+            "num": "00074",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "GTV DRAMA 八大劇樂部",
+            "num": "00075",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民視戲劇館",
+            "num": "00076",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Lofi Girl",
+            "num": "00077",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TaiwanPlus",
+            "num": "00078",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "earthTV",
+            "num": "00079",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "SBS Running Man",
+            "num": "00080",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "飢餓遊戲",
+            "num": "00081",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS NEWS",
+            "num": "00082",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS選新聞",
+            "num": "00083",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "Entertainment - Mediacorp",
+            "num": "00084",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV84.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "寰宇新聞財經台",
+            "num": "00085",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "LiveNOW from FOX",
+            "num": "00086",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森購物台CH34",
+            "num": "00087",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "InquizeX",
+            "num": "00088",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV88.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "8world",
+            "num": "00089",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV89.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "倪珍24小時播新聞",
+            "num": "00090",
+            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV90.m3u8"
+        }
+    ]
+}
