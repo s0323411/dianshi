@@ -8,7 +8,10 @@ TVBS 56,https://stream1.freetv.fun/1f12cb14745f743ccca1433e22f418c19224a0d4610c6
 CCTV13,https://node3.olelive.com:6443/live/CCTV13HD/hls.m3u8
 22 TVBS HD (大街),http://125.227.210.55:8188/VideoInput/play.ts
 TVBS HD 56 (暫時),https://bsex.serv00.net/Smart.php?id=tvbs
+
 23 CCTV13 (TV box),https://z02.ubtvfans.com/live/rx1/2754/6af3790526c998efb530dbc9753488ed/index.m3u8
+
+TVBS歡樂台,http://37.27.111.214:8080/live/24/hls.m3u8
 
     {
       "url": "http://125.227.210.55:8188/VideoInput/play.ts",
