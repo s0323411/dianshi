@@ -1,9 +1,12 @@
 新聞,#genre#
 台視,https://www.youtube.com/watch?v=uDqQo8a7Xmk
 台視,rtmp://220.130.201.73/sat/tv071
+中視,http://4gtv.mumi.rip:9877/4/4gtv-4gtv040/index.m3u8
 中視,rtmp://f13h.mine.nu/sat/tv091
+華視,http://4gtv.mumi.rip:9877/6/4gtv-4gtv041/index.m3u8
 華視,rtmp://f13h.mine.nu/sat/tv111
 華視,https://stream1.freetv.fun/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8
+民視,http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8
 民視,rtmp://220.130.201.73/sat/tv051
 民視,https://stream1.freetv.fun/0c732f1c3cdedc99da491366300295b9e1d323d05cbf813115baf063d1d3b432.m3u8
 公視,https://www.youtube.com/watch?v=C6gYqSHLRw4
@@ -16,15 +19,9 @@
 大愛一臺,https://www.youtube.com/watch?v=oV_i3Hsl_zg
 大愛一臺,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 大愛一臺,https://www.youtube.com/watch?v=MIqUplvSRWA
-大愛一臺,https://stream1.freetv.fun/cda9c15049fc9a62b363d1018881fe11828f20acfccb0ba7927604e967e003e7.m3u8
-大愛一臺,https://stream1.freetv.fun/634d66848d8e5fe80d4fb498f3de9e0a841cad38d5e9a12d8e1b4a807a7f5857.m3u8
-大愛一臺,https://stream1.freetv.fun/8dab0126668b960d4130c12b25e9278ffda43f5b66fa986287ed34cd97cbd721.m3u8
 大愛二臺,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 大愛二臺,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 大愛二臺,https://www.youtube.com/watch?v=OKvWtVoDR8I
-大愛二臺,https://stream1.freetv.fun/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8
-大愛二臺,https://stream1.freetv.fun/60efaf070c91949a4c4e52c9d35746ebfb99b5318b43115c15205965c5807948.m3u8
-大愛二臺,https://stream1.freetv.fun/adefa4b3b335e22e458ee3232eb44832e815acd82cf7ad1c489d2d11274c700b.m3u8
 東森財經,https://www.youtube.com/watch?v=WHEPzbFA3hw
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
 非凡新聞台,https://www.youtube.com/watch?v=QlJJEwMYzEc
@@ -61,6 +58,21 @@ CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 彭博商業新聞,https://www.youtube.com/watch?v=iyOq8DhaMYw
 
+大愛一臺,http://4gtv.mumi.rip:9877/209/4gtv-live007/index.m3u8
+大愛二臺,http://4gtv.mumi.rip:9877/230/4gtv-live106/index.m3u8
+華視新聞,http://4gtv.mumi.rip:9877/34/4gtv-4gtv052/index.m3u8
+中視新聞,http://4gtv.mumi.rip:9877/33/4gtv-4gtv074/index.m3u8
+鏡新聞,http://4gtv.mumi.rip:9877/268/4gtv-4gtv075/index.m3u8
+東森新聞,http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
+民視新聞,http://4gtv.mumi.rip:9877/31/litv-ftv13/index.m3u8
+中天新聞,http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
+寰宇新聞台,http://4gtv.mumi.rip:9877/36/litv-longturn14/index.m3u8
+寰宇新聞台灣台,http://4gtv.mumi.rip:9877/280/litv-longturn15/index.m3u8
+TVBS 新聞,http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8
+三立新聞,http://4gtv.mumi.rip:9877/229/4gtv-live089/index.m3u8
+新唐人亞太台,http://4gtv.mumi.rip:9877/223/4gtv-live050/index.m3u8
+東森財經,http://4gtv.mumi.rip:9877/293/4gtv-4gtv153/index.m3u8
+寰宇財經台,http://4gtv.mumi.rip:9877/281/litv-longturn23/index.m3u8
 
 非凡新聞台,https://tv.iill.top/litv/4gtv-4gtv010
 非凡新聞台,https://tv.iill.top/tv/ffxw
