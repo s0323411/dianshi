@@ -48,7 +48,7 @@ CCTV13,https://stream1.freetv.fun/7475abbaf897f45d0b55dddc59d0821ab7d5efe49553df
 
 CCTV13,https://tv.iill.top/tv/cctv13
 
-寰宇新聞,https://www.youtube.com/watch?v=NhZXUwlY2dU
+寰宇新聞,https://www.youtube.com/watch?v=h1iCImvjXXE
 寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
 CCTV4,https://www.youtube.com/watch?v=twhG7_jvA8g
 CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
