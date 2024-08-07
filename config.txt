@@ -133,7 +133,7 @@
       "url": "https://stream1.freetv.fun/5eff6ce6035c5ed07464e6c1a9482968c86bde95d5625615c4b87c15ef745dba.m3u8"
     },
     {
-      "url": "https://www.youtube.com/watch?v=NhZXUwlY2dU",
+      "url": "https://www.youtube.com/watch?v=h1iCImvjXXE",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "24 寰宇新聞 (youtube)"
     },
