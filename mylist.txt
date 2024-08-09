@@ -111,7 +111,6 @@ TVBS亞洲台,https://stream1.freetv.fun/06baf79b6e6515fa271791223499a2ecf53f191
 靖天日本台,http://4gtv.mumi.rip:9877/22/4gtv-4gtv047/index.m3u8
 靖天日本台,https://stream1.freetv.fun/1706c75d0a1c3105bd393d9000afb4c1dd741f5f3cef9ab677b83d270dc2ceec.m3u8
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
-緯來日本,https://stream1.freetv.fun/3cd74587ba1c238ff02161b0be00701c89ca3a01ab27f78e3439a6a4acaebb9c.m3u8
 緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 緯來精彩,https://stream1.freetv.fun/d7fb67b6ad553367e15a443a726eb62c44d1775de9b706ebde77eead8d67ba58.m3u8
 愛爾達生活旅遊台,http://4gtv.mumi.rip:9877/237/4gtv-live120/index.m3u8
