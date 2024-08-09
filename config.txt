@@ -23,7 +23,7 @@
             "name": "03 華視",
             "num": "00002",
 			  "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-            "url": "https://stream1.freetv.fun/2ef08642072574008f65939021951a59fe9fc71369c751393f40a1b2234e18c9.m3u8"
+            "url": "http://4gtv.mumi.rip:9877/6/4gtv-4gtv041/index.m3u8"
         },
     {
       "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
@@ -35,7 +35,7 @@
             "name": "05 民視",
             "num": "00003",
 			 "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-            "url": "https://stream1.freetv.fun/0c732f1c3cdedc99da491366300295b9e1d323d05cbf813115baf063d1d3b432.m3u8"
+            "url": "http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8"
         },
     {
       "url": "http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8",
@@ -47,14 +47,14 @@
             "name": "07 TaiwanPlus",
             "num": "00002",
 			"ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8"
+            "url": "https://www.youtube.com/watch?v=MuQbyqetsls"
         },
         {
             "itemid": "uid0000",
             "name": "08 倪珍24小時播新聞",
             "num": "00003",
 			"ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
-            "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV90.m3u8"
+            "url": "https://www.youtube.com/watch?v=-zHECA3yKrY"
         },
     {
       "url": "https://www.youtube.com/watch?v=6KlRR_DGhmI",
@@ -185,25 +185,25 @@
       "name": "33 中天亞洲台 (Youtube)"
     },
     {
-      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8",
+      "url": "https://www.youtube.com/watch?v=jgn5KR-Kqrc",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "34 MIT 台灣誌 (YouTube) "
     },
 	
 	    {
-      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8",
+      "url": "https://www.youtube.com/watch?v=A98LJq71BZg",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
      "name": "35 綜藝-飢餓遊戲 (YouTube) "
     },
 	
     {
-      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8",
+      "url": "https://www.youtube.com/watch?v=F77-i0pnTt0",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "36 天才衝衝衝"
     },
 	
     {
-      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8",
+      "url": "https://www.youtube.com/watch?v=ADDSmXoPDY8",
   "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "37 豬哥亮-萬秀豬王(Youtube)"
     },
@@ -213,7 +213,7 @@
       "name": "38 日本 NHK"
     },   
     {
-      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8",
+      "url": "https://www.youtube.com/watch?v=OVdLUlVHFMI",
       "ytdl-format": "((bv*[fps<=30]/bv*)[height<=720]/(wv*[fps<=30]/wv*)) + ba / (b[fps<=30]/b)[height<=720]/(w[fps<=30]/w)",
       "name": "39 大陸尋奇 (youtube)"
     },
